@@ -11,7 +11,7 @@ const NavBar = () => {
   return(
     <nav className="w-full mx-auto px-28 py-5">
       <div>
-        <NavLink to="/home" className="link self-center text-3xl font-black text-white">
+        <NavLink to="/" className="link self-center text-3xl font-black text-white">
           THINKLab
         </NavLink>
       </div>
@@ -27,7 +27,7 @@ const NavBar = () => {
       <div className="hidden w-full md:block md:w-auto" id="navbar-default">
         <ul className="p-4 md:p-0 mt-4 md:flex-row md:space-x-8 md:mt-0 md:border-0">
           <li className="">
-            <NavLink to="/home" className="link">
+            <NavLink to="/" className="link">
               About Us
             </NavLink>
           </li>
