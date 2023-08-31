@@ -1,0 +1,152 @@
+.splashes-title {
+  display: flex;
+  padding-left: 7rem;
+  padding-right: 7rem;
+  margin-top: 6rem;
+  margin-bottom: 3.69rem;
+}
+
+.splashes-title img {
+  width: 45rem;
+  height: 37.83344rem;
+}
+
+.splashes-title h1 {
+  font-size: 3.125rem;
+  font-weight: 400;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.splashes-title h1 span {
+  font-weight: 600;
+}
+
+/* Top 4 Splashes */
+.four-splashes-container {
+  background-color: var(--color-primary);
+  display: flex;
+  justify-content: center;
+}
+
+.four-splashes img:nth-child(1){
+  width: 22.42313rem;
+  height: 21.40388rem;
+}
+
+.four-splashes-container .four-splashes:nth-child(2) img {
+  width: 19.61625rem;
+  height: 16.62288rem;
+}
+
+.four-splashes-container .four-splashes:nth-child(3) img {
+  width: 20.93663rem;
+  height: 21.5055rem;
+}
+
+.four-splashes-container .four-splashes:nth-child(4) img {
+  width: 20.14713rem;
+  height: 18.24638rem;
+}
+
+.four-splashes {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+
+.four-splashes p {
+  color: var(--color-text-white);
+  width: 15.875rem;
+  margin-bottom: 2.63rem;
+}
+
+.splashes-column {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 5.25rem;
+  height: 140rem;
+}
+
+.splashes-content-white {
+  position: relative;
+  width: 15.875rem;
+  border-radius: 0.5625rem;
+  border: 1px solid var(--color-primary);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  margin-bottom: 3rem;
+}
+
+.splashes-content-blue {
+  position: relative;
+  width: 15.875rem;
+  border-radius: 0.5625rem;
+  border: 1px solid var(--color-primary);
+  background-color: var(--color-primary);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  margin-bottom: 3rem;
+}
+
+.splashes-content-blue p {
+  color: var(--color-text-white);
+}
+
+.splashes-column img {
+  position: absolute;
+  top: 88rem;
+  left: 12.5%;
+  width: 6.80563rem;
+  height: 5.43706rem;
+}
+
+.splashes-column p {
+  margin: 1.15rem;
+}
+
+/* Top 4 Splashes Tryout */
+.four-splashes-pics {
+  background-color: var(--color-primary);
+  display: flex;
+  flex-direction: column;
+}
+
+.splashes-pics {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.national-center {
+  width: 22.42313rem;
+  height: 21.40388rem;
+}
+
+.dr-guan {
+  width: 19.61625rem;
+  height: 16.62288rem;
+}
+
+.joanne-lin {
+  width: 20.93663rem;
+  height: 21.5055rem;
+}
+
+.cities-project {
+  width: 20.14713rem;
+  height: 18.24638rem;
+}
+
+.four-splashes-para {
+  display: flex;
+  justify-content: center;
+  gap: 4.8rem;
+}
+
+.four-splashes-para p{
+  color: var(--color-text-white);
+  width: 15.875rem;
+  margin-bottom: 2.65rem;
+}

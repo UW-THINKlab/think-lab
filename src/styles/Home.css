@@ -1,0 +1,342 @@
+.what-we-do,
+.think-word,
+.two-dimensions-container,
+.two-examples-container,
+.research-philosophy-container,
+.suggestions-text-container,
+.learning-along-container {
+padding-left: 7rem;
+padding-right: 7rem;
+}
+
+main h2 {
+  padding-left: 7rem;
+  padding-right: 7rem;
+}
+
+/* Landing Section */
+.background {
+  background-image: url("../../public/img/hero.jpg");
+  background-position: 50%;
+  height: 100vh;
+}
+
+h1 span {
+  color: var(--color-primary);
+}
+
+.learnMore a {
+  position: absolute;
+  bottom: 20px;
+  left: 45%;
+  z-index: 2;
+  display: inline-block;
+  -webkit-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+  color: var(--color-primary);
+  font : normal 400 20px/1 'Josefin Sans', sans-serif;
+  letter-spacing: .1em;
+  text-decoration: none;
+  transition: opacity .3s;
+}
+
+.learnMore a:hover {
+  opacity: .6;
+}
+
+#hero a {
+  padding-top: 70px;
+}
+#hero a span {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 24px;
+  height: 24px;
+  margin-left: -12px;
+  border-left: 1px solid var(--color-primary);
+  border-bottom: 1px solid var(--color-primary);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  -webkit-animation: sdb05 1.5s infinite;
+  animation: sdb05 1.5s infinite;
+  box-sizing: border-box;
+}
+@-webkit-keyframes sdb05 {
+  0% {
+    -webkit-transform: rotate(-45deg) translate(0, 0);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: rotate(-45deg) translate(-20px, 20px);
+    opacity: 0;
+  }
+}
+@keyframes sdb05 {
+  0% {
+    transform: rotate(-45deg) translate(0, 0);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: rotate(-45deg) translate(-20px, 20px);
+    opacity: 0;
+  }
+}
+
+/* What We Do */
+.what-we-do{
+  display: flex;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+}
+
+.what-we-do img {
+  flex: 10%;
+  max-width: 100%;
+}
+
+.what-we-do p {
+  flex: 90%;
+  margin-left: 2rem;
+}
+
+.what-we-do span {
+  font-weight: 800;
+}
+
+/* Questions We Are Interested in Answering */
+.questions, .research-suggestions-container {
+  background-color: var(--color-primary);
+}
+
+.questions img:nth-child(2) {
+  width: 41rem;
+  height: 3.56rem;
+  margin-top: 1.34rem;
+}
+
+.questions-card-first {
+  margin-top: 4rem;
+  margin-right: 9.6rem;
+  margin-left: 9.6rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.questions-card-second {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 22.38rem;
+  margin-left: 22.38rem;
+}
+
+.questions-card h3 {
+  font-size: 4rem;
+  font-weight: 400;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: var(--color-text-dark);
+}
+
+.questions-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20rem;
+  height: 20rem;
+  background-color: var(--color-text-white);
+  border-radius: 1.25rem;
+  margin-right: 3rem;
+  margin-bottom: 2.81rem;
+}
+
+.questions-card p {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  text-align: center;
+}
+
+h4 {
+  font-size: 1.37rem;
+  font-weight: 600;
+  margin-bottom: 0.94rem;
+  color: var(--color-primary);
+}
+
+.think-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.think-info-paragraphs p {
+  width: 19rem;
+  margin-bottom: 4rem;
+}
+
+.network-dots{
+  width: 20rem;
+  height: 36rem;
+}
+
+#network p {
+  width: 20rem;
+}
+
+.network-lines {
+  width: 20.375rem;
+  height: 23.5625rem;
+  position: relative;
+  right: 4rem;
+  margin-top: 16rem;
+}
+
+
+.text-overlay {
+  position: absolute;
+  top: 0;
+  left: -6.9rem;
+}
+
+.think-info-container{
+  display: flex;
+}
+
+
+/* Balancing Between Science and Broader Impact */
+.two-dimensions {
+  width: 12.625rem;
+  height: 3.375rem;
+}
+
+.two-dimensions-container {
+  display: flex;
+}
+
+.two-dimensions-examples {
+  width: 10.375rem;
+  height: 3.375rem;
+}
+
+.two-examples-container {
+  display: flex;
+}
+
+.two-examples-para {
+  background-color: var(--color-primary);
+  width: 38rem;
+  height: 36.25rem;
+  border-radius: 1.875rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.two-examples-container h4{
+  color:var(--color-text-white);
+  text-decoration: underline;
+}
+
+.two-examples-container p {
+  color: var(--color-text-white);
+  width: 34.9375rem;
+  margin-top: 1rem;
+}
+
+.two-examples-para img {
+  width: 19.3125rem;
+  height: 6.96631rem;
+}
+
+/* Research Philosophy */
+.research-purposes {
+  width: 10.1875rem;
+  height: 3.375rem;
+}
+
+.research-philosophy-container {
+  display: flex;
+}
+
+.research-philosophy-container p {
+  width: 58rem;
+  margin-right: 6rem;
+}
+
+.research-philosophy-container img {
+  width: 14.71106rem;
+  height: 15.54625rem;
+}
+
+/* Research Suggestions */
+.research-suggestions-container {
+  height: 29.8125rem;
+}
+
+.research-suggestions {
+  width: 13.5rem;
+  height: 3.375rem;
+  margin-top: 1.3rem;
+}
+
+.suggestions-text-container p{
+  color: var(--color-text-white);
+}
+
+.suggestions-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.suggestions-paragraph {
+  border: 1px solid var(--color-text-white);
+  border-radius: 1rem;
+  margin-bottom: 0.75rem;
+  height: fit-content;
+}
+
+.suggestions-paragraph p{
+  margin: 0.56rem 1.69rem 0.56rem 1.69rem;
+  width: 34.68rem;
+}
+
+/* Learning Along */
+.learning-along {
+  width: 12.0625rem;
+  height: 3.875rem;
+}
+
+.learning-along-container img{
+  width: 54.375rem;
+  height: 28.375rem;
+  margin: 3.62rem auto 4.87rem auto;
+}
+
+.enjoy-para {
+  display: flex;
+}
+
+.enjoy-humans {
+  width: 8.875rem;
+  height: 8.90625rem;
+}
+
+@media (max-width: 768px) {
+  .what-we-do {
+    flex-direction: column;
+  }
+
+  .what-we-do img {
+    align-self: center;
+    margin-bottom: 1.5rem;
+  }
+}

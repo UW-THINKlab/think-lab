@@ -1,0 +1,38 @@
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  background-color: var(--color-primary);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ul, li {
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  color: var(--color-text-white);
+}
+
+nav ul {
+  display: flex;
+  flex-direction: column
+}
+
+nav li {
+  display: block;
+  color: var(--color-text-white);
+  border-radius: 0.25rem;
+  border-width: 0;
+  padding: 0.5rem 1rem 0.5rem 0.75rem;
+}
+
+nav li:hover {
+  color: rgb(125, 174, 253);
+}
+
+nav li a.active {
+  color: rgb(59, 130, 246);
+}

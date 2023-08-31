@@ -1,0 +1,103 @@
+.publications {
+  margin: 6rem 7rem 0rem 7rem;
+}
+
+.publications-headers {
+  display: flex;
+}
+
+.resilienceInfrastructure {
+  width: 22.625rem;
+  height: 4.75rem;
+  margin-top: 1.5rem;
+}
+
+.card {
+  width: 18.44rem;
+  height: 16.80rem;
+  margin-top: 0.69rem;
+  margin-bottom: 0;
+}
+
+.card span {
+  text-decoration: underline;
+}
+
+.card-title {
+  font-size: 1rem;;
+}
+
+.card p {
+  font-size: 0.75rem;;
+  text-align: left;
+  margin: 0;
+}
+
+.card-link {
+  font-size: 0.75rem;
+}
+
+.blue-bar {
+  background-color: var(--color-primary);
+  width: 18.4375rem;
+  height: 0.625rem;
+}
+
+#bottom-bar {
+  margin-bottom: 2.44rem;
+}
+
+.publicationCard-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  margin-left: 7rem;
+  margin-right: 7rem;
+  margin-top: 2.69rem;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+/* Mechanism Learning */
+.mechanismLearning {
+  width: 24.25rem;
+  height: 4.75rem;
+  margin-top: 1.5rem;
+}
+
+/* Mobility Analysis */
+.mobilityAnalysis {
+  width: 13.4375rem;
+  height: 3rem;
+  margin-top: 1.5rem;
+}
+
+/* Safety Analysis */
+.safetyAnalysis {
+  width: 11.75rem;
+  height: 3rem;
+  margin-top: 1.5rem;
+}
+
+/* Transit Related */
+.transitRelated {
+  width: 12.3125rem;
+  height: 3rem;
+  margin-top: 1.5rem;
+}
+
+/* Residential Choices */
+.residentialChoices {
+  width: 18.3125rem;
+  height: 4.5rem;
+  margin-top: 1.5rem;
+}
+
+/* Others */
+.publications-headers h3 {
+  margin-top: 1.25rem;
+}

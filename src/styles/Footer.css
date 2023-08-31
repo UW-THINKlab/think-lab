@@ -1,0 +1,99 @@
+footer {
+  background-color: var(--color-primary);
+}
+
+footer h1, footer p {
+  color: var(--color-text-white);
+}
+
+footer h1 {
+  font-family: 'Inter', sans-serif;
+  font-size: 3.43rem;
+}
+
+.footer-contact-us {
+  width: 11.8125rem;
+}
+
+.emailIcon {
+  width: 1.125rem;
+  height: 0.8125rem;
+  margin-right: 0.81rem;
+}
+
+.footer-contact-us {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.footer-contact-info {
+  display: flex;
+  align-items: center;
+}
+
+.footer-sponsors {
+  display: flex;
+  flex-wrap: wrap;
+  width: calc(100%/3);
+  padding-right: 1rem;
+}
+
+.footer-sponsors-bottom {
+  display: flex;
+  flex-wrap: wrap;
+  width: calc(100%/2);
+  padding-right: 1rem;
+}
+
+/* Sponsors Images */
+.national-science {
+  width: 7.375rem;
+  height: 7.4375rem;
+}
+
+.dot {
+  width: 6.3125rem;
+  height: 6.3125rem;
+}
+
+.nih {
+  width: 8.625rem;
+  height: 5.4375rem;
+}
+
+.fha {
+  width: 17.5rem;
+  height: 3.77rem;
+}
+
+.tomet {
+  width: 11.5625rem;
+  height: 4.75rem;
+}
+
+@media (max-width: 768px) {
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 1rem;
+  }
+
+  .footer-thinklab {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+
+  .list-unstyled {
+    text-align: center;
+  }
+
+  .list-unstyled li:nth-child(6) {
+    margin-bottom: 1rem;
+  }
+
+  .footer-sponsors, .footer-sponsors-bottom {
+    justify-content: center;
+  }
+}

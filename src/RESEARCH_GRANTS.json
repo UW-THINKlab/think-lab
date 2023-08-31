@@ -1,0 +1,94 @@
+[
+  {"project_name":
+    "FW-HTF-P: Designing a Market-based Optimization Tool for the Future of Work: Balancing Remote Work and Community Vitality in Post-COVID American Cities",
+    "sponsor": "NSF", "period": "1/2022 - 12/2022", "status": "Active (PI)"},
+
+  {"project_name":
+    "LEAP-HI: Re-engineering for adaptable lives and businesses (please check out our project website)",
+    "sponsor":"NSF", "period":"2021-2025", "status":"Active (PI)"},
+
+  {"project_name":
+    "A Whole-Community Effort to Understand Biases and Uncertainties in Using Emerging Big Data for Mobility Analysis (please check out our project website)",
+    "sponsor":"NSF", "period":"2021-2024", "status":"Active (PI)"},
+
+  {"project_name":
+    "SCC-PG: Building capacity for data-driven physical activity interventions in communities with depression and obesity hotspots",
+    "sponsor":"NSF", "period":"2020-2022", "status":"Active (co-PI)"},
+
+  {"project_name":
+    "JST: SCC-PG: Socially-integrated Technological Solutions for Real-time Response and Neighborhood Survival After Extreme Events",
+    "sponsor":"NSF", "period":"2020-2022", "status":"Active (PI)"},
+
+  {"project_name":
+    "RAPID: Collaborative Research: Modeling and Learning-based Design of Social Distancing Policies for COVID-19",
+    "sponsor":"NSF", "period":"2020-2022", "status":"Active (PI)"},
+
+  {"project_name":"TOMNET Tier 1 Center",
+    "sponsor":"USDOT (RITA)", "period":"2016-2023", "status":"Active (co-PI)"},
+
+  {"project_name":"Real-time prediction of movement patterns during disaster times",
+    "sponsor":"Facebook", "period":"2018-", "status":"Active (PI)"},
+
+  {"project_name":"Promises of data from emerging technologies for transportation applications: Puget Sound Case Study",
+    "sponsor":"FHWA", "period":"2018-2020", "status":"Archived (co-PI)"},
+
+  {"project_name":"The connected traveler: a framework to reduce energy use in transportation",
+    "sponsor":"DOE", "period":"2015-2018", "status":"Archived (co-PI)"},
+
+  {"project_name":"Further development of a conceptual framework for assessing resilience at community scale",
+    "sponsor":"NIST", "period":"2015-2017", "status":"Archived (co-PI)"},
+
+  {"project_name":
+    "Investigating the interaction between individual activity-travel patterns and the spreading of infectious diseases",
+    "sponsor":"Planning grant funded by Vinnova, Sweeden", "period":"2015", "status":"Archived (PI)"},
+
+  {"project_name":
+    "Using cell phone data to analyze the continuum and life cycle of disaster in spatio-temporal movements",
+    "sponsor":"NSF", "period":"2012-2015", "status":"Archived (PI)"},
+
+  {"project_name":"An innovative survey to understand sustainable travel behaviors",
+    "sponsor":"Region 10 UTC Center", "period":"2012-2013", "status":"Archived (PI)"},
+
+  {"project_name":"Development of residential location choice models",
+    "sponsor":"Region 10 UTC Center", "period":"2010-2011", "status":"Archived (PI)"},
+
+  {"project_name":"Advanced applications of person-based GPS in urban environments",
+    "sponsor":"Region 2 UTC Center", "period":"2009", "status":"Archived (PI)"},
+
+  {"project_name":"Effectiveness of traffic calming measures",
+    "sponsor":"NYCDOT", "period":"2008-2011", "status":"Archived (PI)"},
+
+  {"project_name":"Vehicle impact assessment on bridges in New York State",
+    "sponsor":"NYCDOT", "period":"2008-2010", "status":"Archived (PI)"},
+
+  {"project_name":"Accounting for past experience in residential location choices",
+    "sponsor":"Region 2 UTC Center", "period":"2008-2009", "status":"Archived (PI)"},
+
+  {"project_name":"Feasibility of a passive GPS-based travel survey in NYC",
+    "sponsor":"CUNY Collaborative Award", "period":"2009", "status":"Archived (PI)"},
+
+  {"project_name":"Spatial analysis of pedestrian crashes",
+    "sponsor":"PSC-CUNY", "period":"2008-2009", "status":"Archived (PI)"},
+
+  {"project_name":"Evaluation and testing of regional land use and transportation model",
+    "sponsor":"New York Metropolitan Transportation Commission", "period":"2006-2009", "status":"Archived (PI)"},
+
+  {"project_name":"GPS Pilot Project", "sponsor":"New York Metropolitan Transportation Commission",
+    "period":"2007-2008", "status":"Archived (PI)"},
+
+  {"project_name":"Quantifying temporal and spatial dimensions of accessibilities",
+    "sponsor":"Region 2 UTC Center", "period":"2007-2008", "status":"Archived (PI)"},
+
+  {"project_name":"Role of built environment in people's mode choice decisions",
+    "sponsor":"PSC-CUNY", "period":"2006-2007", "status":"Archived (PI)"},
+
+  {"project_name":"Public Transit in New York City", "sponsor":"Region 2 UTC Center",
+    "period":"2005-2006", "status":"Archived (PI)"},
+
+  {"project_name":"Development of a dynamic discrete choice model for residential relocation choices",
+    "sponsor":"PSC-CUNY", "period":"2005-2006", "status":"Archived (PI)"},
+
+  {"project_name":
+    "Impacts of extreme events on intercity passenger travel behavior: the WTC experience",
+    "sponsor":"NSF", "period":"2003-2004", "status":"Archived (collaborator)"}
+]
