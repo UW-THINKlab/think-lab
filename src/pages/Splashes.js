@@ -19,57 +19,6 @@ export const Splashes = () => {
     </div>
 
     {/* Top 4 Splashes */}
-    {/* <div className="four-splashes-container">
-      <div className="four-splashes">
-        <img
-          src={nationalCenter}
-          alt="National Center for Understanding Future Travel Behavior and Demand (TBD)"
-        />
-        <p>
-          THINK lab joins an elite group of travel behavior researchers (under the leadership of
-          Dr. Chandra Bhat of UT Austin) to win the National Center for Understanding Future Travel
-          Behavior and Demand (TBD) center funded by USDOT as part of the Bipartisan infrastructure
-          bill from the Congress.
-        </p>
-      </div>
-
-      <div className="four-splashes">
-        <img
-          src={DrGuan}
-          alt="Congratulations to Dr. Guan to start a new journey!"
-        />
-        <p>
-          THINK lab joins an elite group of travel behavior researchers (under the leadership of
-          Dr. Chandra Bhat of UT Austin) to win the National Center for Understanding Future Travel
-          Behavior and Demand (TBD) center funded by USDOT as part of the Bipartisan infrastructure
-          bill from the Congress.
-        </p>
-      </div>
-
-      <div className="four-splashes">
-        <img
-          src={JoanneLin}
-          alt="Congratulations to Joanne Lin!"
-        />
-        <p>
-          Congratulations to Joanne Lin who joined PSRC (Puget Sound Regional Council) as an
-          assistant data programmer in October 2022!
-        </p>
-      </div>
-
-      <div className="four-splashes">
-        <img
-          src={CitiesProject}
-          alt="Adaptable Cities Project"
-        />
-        <p>
-          Adaptable cities project just started with an exciting team! Find out more about what we
-          do here: a UW news story, a ASU news story, and our project website.
-        </p>
-      </div>
-    </div> */}
-
-    {/* Top 4 Splashes Tryout */}
     <div className="four-splashes-pics">
       <div className="splashes-pics">
         <img
@@ -120,6 +69,7 @@ export const Splashes = () => {
       </div>
     </div>
 
+    {/* All Other Splashes */}
     <div className="px-28 splashes-column">
       <div className="splashes-content-white">
         <p>
@@ -261,6 +211,9 @@ export const Splashes = () => {
           assistant professor in August 2021!
         </p>
       </div>
+
+      {/* Start pasting new splashes here */}
+      
     </div>
     </>
   )

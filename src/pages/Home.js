@@ -301,6 +301,7 @@ export const Home = () => {
               alt="Research Purposes"/>
           </div>
 
+          {/* Research Purposes */}
           <div className="research-philosophy-container mt-8">
             <p>
               We conduct research for the purposes of knowledge discovery, methodological innovation,
@@ -370,10 +371,6 @@ export const Home = () => {
                     in socially meaningful activities and conversations and contribute to the society.
                   </p>
                 </div>
-                {/* <img
-                  className="enjoy-humans"
-                  src="/img/enjoyHumans.png"
-                /> */}
               </div>
             </div>
           </div>

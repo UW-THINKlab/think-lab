@@ -67,8 +67,8 @@ export const ResourcesOpportunities = () => {
           runities
         </h2>
         <p>
-        THINK lab is always looking for talented MS/PhD students and postdoctoral fellows. If
-        intertested, please send all inquiries to Professor Cynthia Chen (qzchen@uw.edu).
+          THINK lab is always looking for talented MS/PhD students and postdoctoral fellows. If
+          intertested, please send all inquiries to Professor Cynthia Chen (qzchen@uw.edu).
         </p>
       </div>
     </>
