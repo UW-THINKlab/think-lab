@@ -13,7 +13,6 @@ git clone https://github.com/UW-THINKlab/think-lab.git
 To modify and/or run the website you need to install several depencencies. Please run the commands 
 below in your terminal before you modify and/or run the website.
 
-```
 All the commands below will allow you to install the necessary depenencies.
 
 ```bash
