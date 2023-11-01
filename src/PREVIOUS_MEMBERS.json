@@ -1,4 +1,16 @@
 [
+  {"name":"Zhengyang Li", "degree":"Visiting PhD", "year":"2022-2023",
+   "thesis":"Peer to Peer Resource Sharing"},
+
+   {"name":"Jaime Serrano", "degree":"Undergraduate Summer Research Assistant", "year":"2023-2023",
+   "thesis":""},
+
+   {"name":"Mia Pham", "degree":"Undergraduate Summer Research Assistant", "year":"2023-2023",
+   "thesis":""},
+
+   {"name":"Liam Chu", "degree":"Undergraduate Summer Research Assistant", "year":"2023-2023",
+   "thesis":""},
+
   {"name":"Joanne Lin", "degree":"MS", "year":"2020-2022",
    "thesis":"Socioeconomic and spatial disparity of bus ridership impacts in King County, Washington, During COVID-19"},
 

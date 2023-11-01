@@ -15,7 +15,7 @@ import ekinUgurel from "../assets/THINKLabHeadshots/Ekin_Ugurel.png";
 import kaitlynNg from "../assets/THINKLabHeadshots/Kaitlyn_Ng.png";
 import kittibhumTasanasuwan from "../assets/THINKLabHeadshots/Kittibhum_Tasanasuwan.png";
 import arsalanEsmaeili from "../assets/THINKLabHeadshots/Arsalan_Esmaeili.png";
-import zhengyangLi from "../assets/THINKLabHeadshots/Zhengyang_Li.png";
+import jeremychan from "../assets/THINKLabHeadshots/Jeremy_Chan.png";
 
 export const People = () => {
   const data = React.useMemo(() => membersData, []);
@@ -109,7 +109,7 @@ export const People = () => {
           </p>
         </div>
       </div>
-
+    q
       {/* Our Members */}
       <div className="our-members">
         <h2>
@@ -225,7 +225,7 @@ export const People = () => {
 
         <div className="current-members-individual">
           <img
-            className="profile"
+            className="profile" 
             src={arsalanEsmaeili}
             alt="Arsalan Esmaeili" />
           <p>Arsalan Esmaeili</p>
@@ -240,20 +240,23 @@ export const People = () => {
           </p>
         </div>
 
+
+
         <div className="current-members-individual">
           <img
             className="profile"
-            src={zhengyangLi}
-            alt="Zhengyang Li" />
-          <p>Zhengyang Li</p>
-          <p>Visiting PhD Student</p>
+            src={jeremychan}
+            alt="Jeremy Chan" />
+          <p>Jeremy Chan</p>
+          <p>MS Student and Researcher</p>
           <p>
-            Zhengyang received a bachelor's degree in railway transportation and a master's degree
-            in transportation planning and management from Southwest Jiaotong University in Chengdu,
-            China. He is currently pursuing a Ph.D. at the Hong Kong Polytechnic University.
-            Zhengyang joined the THINK lab as a visiting Ph.D. student in March 2023. His research
-            interests involve transportation network modeling, public transport operation, and
-            modeling resilience in communities.
+          Jeremy received his bachelor's degrees in aerospace engineering, mathematics, and physics from Monash
+          University in Melbourne, Australia. He is currently pursuing a Master's degree in 
+          transportation engineering. Previously, Jeremy worked as a middle- and high-school mathematics
+          teacher. His interest in transportation is driven by a desire to promote social and economic 
+          justice by understanding the interactions between human behavior, the built environment, and policy,
+          as well as by advocating for safe and widespread active mobility and transit.
+      
           </p>
         </div>
 

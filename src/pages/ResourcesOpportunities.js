@@ -64,11 +64,25 @@ export const ResourcesOpportunities = () => {
       <div className="opportunities">
         <h2>
           <span className="bg-gradient-to-r from-primary-blue to-secondary-blue bg-[length:100%_10px] bg-no-repeat bg-bottom pb-3">Oppo</span>
-          runities
+          rtunities
         </h2>
         <p>
+          Job Opportunity: Research Scientist/Engineer. Please see below:
+        </p>
+
+     
+        
+
+
+
+
+
+
+
+        
+        <p>
           THINK lab is always looking for talented MS/PhD students and postdoctoral fellows. If
-          intertested, please send all inquiries to Professor Cynthia Chen (qzchen@uw.edu).
+          interested, please send all inquiries to Professor Cynthia Chen (qzchen@uw.edu).
         </p>
       </div>
     </>
