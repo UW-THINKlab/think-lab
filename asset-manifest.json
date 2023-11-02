@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/think-lab/static/css/main.08a05429.css",
-    "main.js": "/think-lab/static/js/main.fb4b9cd4.js",
+    "main.js": "/think-lab/static/js/main.a3f82136.js",
     "static/media/hero.jpg": "/think-lab/static/media/hero.63aa8f677402683fce51.jpg",
-    "static/media/Zhengyang_Li.png": "/think-lab/static/media/Zhengyang_Li.c9e175bc3a38253dcf3d.png",
     "static/media/Grace_Jia.png": "/think-lab/static/media/Grace_Jia.5308ddf14b80d3c4a99b.png",
     "static/media/Kittibhum_Tasanasuwan.png": "/think-lab/static/media/Kittibhum_Tasanasuwan.324cb8e616ed144b7fb3.png",
     "static/media/Arsalan_Esmaeili.png": "/think-lab/static/media/Arsalan_Esmaeili.5faf01334f81af692269.png",
@@ -29,6 +28,7 @@
     "static/media/adaptableCitiesProject.png": "/think-lab/static/media/adaptableCitiesProject.97dad896c9819795f801.png",
     "static/media/researchPurposesIcon.png": "/think-lab/static/media/researchPurposesIcon.97b32c2f4e1616a89129.png",
     "static/media/joanneLin.png": "/think-lab/static/media/joanneLin.6563b6ebb3e7eff473f5.png",
+    "static/media/Jeremy_Chan.png": "/think-lab/static/media/Jeremy_Chan.8bf21d6e01d7a77ef385.png",
     "static/media/sampleQuestions.png": "/think-lab/static/media/sampleQuestions.b25ca610ed6dc0921cef.png",
     "static/media/NIH.png": "/think-lab/static/media/NIH.34b1e3f87c278e1affe6.png",
     "static/media/resilienceInfrastructure.png": "/think-lab/static/media/resilienceInfrastructure.ff6aafe6a33d60b39af1.png",
@@ -52,10 +52,10 @@
     "static/media/researchGrants.png": "/think-lab/static/media/researchGrants.547576b3860de939c93d.png",
     "index.html": "/think-lab/index.html",
     "main.08a05429.css.map": "/think-lab/static/css/main.08a05429.css.map",
-    "main.fb4b9cd4.js.map": "/think-lab/static/js/main.fb4b9cd4.js.map"
+    "main.a3f82136.js.map": "/think-lab/static/js/main.a3f82136.js.map"
   },
   "entrypoints": [
     "static/css/main.08a05429.css",
-    "static/js/main.fb4b9cd4.js"
+    "static/js/main.a3f82136.js"
   ]
 }
