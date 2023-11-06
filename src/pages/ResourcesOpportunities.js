@@ -67,8 +67,10 @@ export const ResourcesOpportunities = () => {
           rtunities
         </h2>
         <p>
-          Job Opportunity: Research Scientist/Engineer. Please see below:
-        </p>
+          Job Opportunity: Research Scientist/Engineer. Please click link below below for further details: 
+          </p>
+          <a href="https://docs.google.com/document/d/1NxDuobtRgzPrtGrULFKxEYSURqZ0foKb/edit?usp=sharing&ouid=106616778639762004527&rtpof=true&sd=true">Job description</a>
+        
 
      
         
