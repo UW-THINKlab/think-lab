@@ -1,5 +1,14 @@
 [
   {
+    "title": "Underreporting in COVID-19 Case Data Causes Policy Objectives Being Unmet",
+    "journal":"IEEE Transactions on Computational Social Systems",
+    "author": "X. Guan, G. Jia, K. C. Kosaraju, V. Gupta and C. Chen",
+    "year": "2023",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10304600?casa_token=WcSEDuiUX-EAAAAA:EzmTyZZ2jvbbOJcsfymMWru31x992lJTwvJEor_2VxWsMVShSbYUxsDC8qAAv6RmxtltzEEWrw"
+
+  },
+
+  {
     "title":"A behaviorally-integrated individual-level state-transition model that can predict rapid changes in evacuation demand days earlier",
     "journal": "Transportation Research Part E, Vol 152, August 2021, 102381.",
     "author": "Guan, X. and Chen, C.",
@@ -28,7 +37,7 @@
     "journal": "Natural Hazards, 74(2), 837-850",
     "author": "Guan, X. and Chen, C.",
     "year": "2014",
-    "link": ""
+    "link": "https://link.springer.com/article/10.1007/s11069-014-1217-1"
   },
 
   {
@@ -36,6 +45,6 @@
     "journal": "Natural hazards, 65(1), 407-422",
     "author": "Chen, C., Neal, D., and Zhou, M",
     "year": "2013",
-    "link": ""
+    "link": "https://link.springer.com/article/10.1007/s11069-012-0371-6"
   }
 ]

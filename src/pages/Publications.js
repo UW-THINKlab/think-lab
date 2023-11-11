@@ -28,10 +28,10 @@ export const Publications = () => {
     <>
       <h2 className="publications">
         <span className="bg-gradient-to-r from-primary-blue to-secondary-blue bg-[length:100%_10px] bg-no-repeat bg-bottom pb-3">Our Pu</span>
-        <span>lications</span>
+        <span>blications</span>
       </h2>
 
-      {/* Resilience and Infranstructure Analysis */}
+      {/* Resilience and Infrastructure Analysis */}
       <div className="publications-headers">
         <img
           className="location-icon-blue"

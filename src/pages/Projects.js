@@ -29,6 +29,10 @@ export const Projects = () => {
         Header: "Status",
         accessor: "status",
       },
+      {
+      Header: "Link", /*delete if needed*/
+      accessor: "link",
+      }
     ],
     []
   );

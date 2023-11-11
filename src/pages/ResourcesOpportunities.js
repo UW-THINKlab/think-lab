@@ -67,21 +67,22 @@ export const ResourcesOpportunities = () => {
           rtunities
         </h2>
         <p>
-          Job Opportunity: Research Scientist/Engineer. Please click link below below for further details: 
+          Job Opportunity: Research Scientist/Engineer. 
           </p>
-          <a href="https://docs.google.com/document/d/1NxDuobtRgzPrtGrULFKxEYSURqZ0foKb/edit?usp=sharing&ouid=106616778639762004527&rtpof=true&sd=true">Job description</a>
+        <p>
+        The THINK lab in UW’s Department of Industrial & Systems Engineering has an outstanding opportunity open for a temporary Research scientist / Engineer 2 position. 
+        This position is initially for one year term but has the potential to become a permanent position for longer terms. 
+        Responsibilities include oversight and coordination of project activies, as well as leading and conducting research. 
+        Required qualitifications include a Master's degree in Industrial Engineering, Civil Engineering, Transportation Engineering, or a related field, 
+        strong programming skills (MATLAB, Python, R, or others), knowledge of transportation systems engineering or planning, as well as experience with publications in relevant journals and conference proceedings.
+        2-3 years’ experience in planning, engineering research or equivalent education and/or experience is required. 
+        </p>
+        <p>
+        Please click link below below for complete details: 
         
-
-     
-        
-
-
-
-
-
-
-
-        
+        </p>
+          <a href="https://docs.google.com/document/d/1NxDuobtRgzPrtGrULFKxEYSURqZ0foKb/edit?usp=sharing&ouid=106616778639762004527&rtpof=true&sd=true"> JOB DESCRIPTION DOCUMENT:https://docs.google.com/document/d/1NxDuobtRgzPrtGrULFKxEYSURqZ0foKb/edit?usp=sharing&ouid=106616778639762004527&rtpof=true&sd=true</a>
+          
         <p>
           THINK lab is always looking for talented MS/PhD students and postdoctoral fellows. If
           interested, please send all inquiries to Professor Cynthia Chen (qzchen@uw.edu).
