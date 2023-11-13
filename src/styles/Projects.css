@@ -64,3 +64,8 @@ tr {
   border-bottom: 1px solid var(--color-primary);
   font-family: 'Inter', sans-serif;
 }
+
+.link-style {
+  color: rgb(0, 0, 128); 
+  text-decoration: underline;
+}

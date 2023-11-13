@@ -81,7 +81,13 @@ export const ResourcesOpportunities = () => {
         Please click link below below for complete details: 
         
         </p>
-          <a href="https://docs.google.com/document/d/1NxDuobtRgzPrtGrULFKxEYSURqZ0foKb/edit?usp=sharing&ouid=106616778639762004527&rtpof=true&sd=true"> JOB DESCRIPTION DOCUMENT:https://docs.google.com/document/d/1NxDuobtRgzPrtGrULFKxEYSURqZ0foKb/edit?usp=sharing&ouid=106616778639762004527&rtpof=true&sd=true</a>
+        <a
+  href="https://docs.google.com/document/d/1NxDuobtRgzPrtGrULFKxEYSURqZ0foKb/edit?usp=sharing&ouid=106616778639762004527&rtpof=true&sd=true"
+  style={{ color: 'rgb(0, 0, 128)', textDecoration: 'underline' }}
+>
+  JOB DESCRIPTION DOCUMENT.docx
+</a>
+
           
         <p>
           THINK lab is always looking for talented MS/PhD students and postdoctoral fellows. If

@@ -29,10 +29,21 @@ export const Projects = () => {
         Header: "Status",
         accessor: "status",
       },
+     
       {
-      Header: "Link", /*delete if needed*/
-      accessor: "link",
-      }
+        Header: "Link",
+        accessor: "link",
+        Cell: ({ value }) => (
+          <a
+            href={value}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="link-style"
+          >
+            {value}
+          </a>
+        ),
+      },
     ],
     []
   );
