@@ -212,8 +212,21 @@ export const Splashes = () => {
         </p>
       </div>
 
-      {/* Start pasting new splashes here */}
       
+
+      <div class="splashes-content-blue">
+  <p>
+    THINKlab recently won a grant from NSF for two million dollars to study
+    socially-integrated robust communication and information-resource sharing technologies for post-disaster community self-reliance. 
+    The study period is currently estimated to span from October 2023 to October 2027. 
+    Further details can be found at: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311405">https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311405</a>
+  </p>
+  </div>
+
+
+
+            {/* Start pasting new splashes here */}
+
     </div>
     </>
   )
