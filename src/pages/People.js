@@ -16,6 +16,7 @@ import kaitlynNg from "../assets/THINKLabHeadshots/Kaitlyn_Ng.png";
 import kittibhumTasanasuwan from "../assets/THINKLabHeadshots/Kittibhum_Tasanasuwan.png";
 import arsalanEsmaeili from "../assets/THINKLabHeadshots/Arsalan_Esmaeili.png";
 import jeremychan from "../assets/THINKLabHeadshots/Jeremy_Chan.png";
+import mindachen from "../assets/THINKLabHeadshots/Minda_Chen.png";
 
 export const People = () => {
   const data = React.useMemo(() => membersData, []);
@@ -256,6 +257,20 @@ export const People = () => {
           teacher. His interest in transportation is driven by a desire to promote social and economic 
           justice by understanding the interactions between human behavior, the built environment, and policy,
           as well as by advocating for safe and widespread active mobility and transit.
+      
+          </p>
+        </div>
+
+        <div className="current-members-individual">
+          <img
+            className="profile"
+            src={mindachen}
+            alt="Minda Chen" />
+          <p>Minda Chen</p>
+          <p>Undergraduate Research Assistant</p>
+          <p>
+          Minda is pursing her bachelor's degree at the University of Washington in environmental engineering. She joined THINKlab
+          in June 2023 and is interested in investigating the intersection of transportation and environmental engineering.
       
           </p>
         </div>
