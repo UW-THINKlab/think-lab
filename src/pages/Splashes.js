@@ -46,8 +46,8 @@ export const Splashes = () => {
       <div className="four-splashes-para">
         <p>
           THINK lab joins an elite group of travel behavior researchers (under the
-          leadership of Dr. Chandra Bhat of UT Austin) to win the National Center
-          for Understanding Future Travel Behavior and Demand (TBD) center funded
+          leadership of Dr. Chandra Bhat of UT Austin) to win the <a href="https://www.transportation.gov/utc/bil-centers-and-grantees"class="link-style">National Center
+          for Understanding Future Travel Behavior and Demand </a>(TBD) center funded
           by USDOT as part of the Bipartisan infrastructure bill from the Congress.
         </p>
 
@@ -64,7 +64,9 @@ export const Splashes = () => {
 
         <p>
           Adaptable cities project just started with an exciting team! Find out more about what we do
-          here: a UW news story, a ASU news story, and our project website.
+          here: <a href="https://www.washington.edu/news/2021/11/01/uw-receives-2m-from-national-science-foundation-to-design-an-adaptable-society/" class="link-style">a UW news story</a>, 
+          <a href="https://fullcircle.asu.edu/fulton-schools/designed-to-deal-with-disruption/" class="link-style">a ASU news story</a>, and
+          <a href="https://www.adaptable-cities.org/" class="link-style"> our project website</a>.
         </p>
       </div>
     </div>
@@ -73,7 +75,8 @@ export const Splashes = () => {
     <div className="px-28 splashes-column">
       <div className="splashes-content-white">
         <p>
-          THINK lab post-doctoral fellow Dr. Guan has just published a new article on Transportation
+          THINK lab post-doctoral fellow Dr. Guan has just published a <a href="https://www.sciencedirect.com/science/article/pii/S1366554521001496?via%3Dihub" class="link-style">new article</a>
+           on Transportation
           Research Part E that will move ahead the prediction window of evacuation demand by at least
           TWO DAYS! The work will also be presented at the ISTTT24 conference in July 2022 in Beijing.
         </p>
@@ -146,8 +149,9 @@ export const Splashes = () => {
         <p>
           Healthy planet, healthy people: how do we recover from COVID19? Dr. Cynthia Chen weighs in
           as one of the five leading voices at UW on climate change and decarbonization.
-          In a short story entitled “Pushing our cities to be smarter, healthier, and more
-          efficient for all“, she laid out 3 steps for our economy recovery path while keeping
+          In a short story entitled <a href="https://www.washington.edu/populationhealth/healthy-planet-healthy-people/" class="link-style">“Pushing our cities to be smarter, healthier, and more
+          efficient for all"</a>
+          , she lays out 3 steps for our economy recovery path while keeping
           transportation emissions down.
         </p>
       </div>
@@ -214,13 +218,14 @@ export const Splashes = () => {
 
       
 
-      <div class="splashes-content-blue">
-  <p>
-    THINKlab recently won a grant from NSF for two million dollars to study
+      <div className="splashes-content-blue">
+  
+    <p>THINKlab recently won <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311405"class="link-style">a grant from NSF</a> to study
     socially-integrated robust communication and information-resource sharing technologies for post-disaster community self-reliance. 
-    The study period is currently estimated to span from October 2023 to October 2027. 
-    Further details can be found at: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311405">https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311405</a>
-  </p>
+    The study period is currently estimated to span from October 2023 to October 2027. </p>
+   
+
+  
   </div>
 
 
