@@ -81,7 +81,7 @@
 }
 
 .splashes-content-white a.link-style {
-  color: rgb(0, 0, 0);
+  color: rgb(32, 113, 189);
   text-decoration: underline;
 }
 
@@ -96,7 +96,7 @@
 }
 
 .splashes-content-blue a.link-style {
-  color: rgb(255, 255, 255);
+  color: rgb(32, 113, 189);
   text-decoration: underline;
 }
 
@@ -161,6 +161,6 @@
   margin-bottom: 2.65rem;
 }
 .four-splashes-para a.link-style {
-  color: rgb(255, 255, 255);
+  color: rgb(32, 113, 189);
   text-decoration: underline;
 }

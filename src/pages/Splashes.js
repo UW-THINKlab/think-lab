@@ -75,7 +75,7 @@ export const Splashes = () => {
     <div className="px-28 splashes-column">
       <div className="splashes-content-white">
         <p>
-          THINK lab post-doctoral fellow Dr. Guan has just published a <a href="https://www.sciencedirect.com/science/article/pii/S1366554521001496?via%3Dihub" class="link-style">new article</a>
+          THINK lab post-doctoral fellow Dr. Guan has just published a <a href="https://www.sciencedirect.com/science/article/pii/S1366554521001496?via%3Dihub" class="link-style">new article </a>
            on Transportation
           Research Part E that will move ahead the prediction window of evacuation demand by at least
           TWO DAYS! The work will also be presented at the ISTTT24 conference in July 2022 in Beijing.
