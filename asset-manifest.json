@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/think-lab/static/css/main.d2162119.css",
-    "main.js": "/think-lab/static/js/main.7293436e.js",
+    "main.js": "/think-lab/static/js/main.f512daa6.js",
+    "static/media/Ekin_Ugurel.png": "/think-lab/static/media/Ekin_Ugurel.7eb806666afd722e4296.png",
     "static/media/hero.jpg": "/think-lab/static/media/hero.63aa8f677402683fce51.jpg",
     "static/media/Minda_Chen.png": "/think-lab/static/media/Minda_Chen.f65ac0e15284b1ec3bb8.png",
     "static/media/Grace_Jia.png": "/think-lab/static/media/Grace_Jia.5308ddf14b80d3c4a99b.png",
     "static/media/Kittibhum_Tasanasuwan.png": "/think-lab/static/media/Kittibhum_Tasanasuwan.324cb8e616ed144b7fb3.png",
     "static/media/Arsalan_Esmaeili.png": "/think-lab/static/media/Arsalan_Esmaeili.5faf01334f81af692269.png",
-    "static/media/Ekin_Ugurel.png": "/think-lab/static/media/Ekin_Ugurel.8172cd1330c2574a9e3d.png",
     "static/media/Xiangyang_Guan.png": "/think-lab/static/media/Xiangyang_Guan.8d779239bd42282d5433.png",
     "static/media/theSplashesTitle.png": "/think-lab/static/media/theSplashesTitle.210a83f57d5dcb9dae36.png",
     "static/media/TOMNET.png": "/think-lab/static/media/TOMNET.d8161f823cea962aa056.png",
@@ -53,10 +53,10 @@
     "static/media/researchGrants.png": "/think-lab/static/media/researchGrants.547576b3860de939c93d.png",
     "index.html": "/think-lab/index.html",
     "main.d2162119.css.map": "/think-lab/static/css/main.d2162119.css.map",
-    "main.7293436e.js.map": "/think-lab/static/js/main.7293436e.js.map"
+    "main.f512daa6.js.map": "/think-lab/static/js/main.f512daa6.js.map"
   },
   "entrypoints": [
     "static/css/main.d2162119.css",
-    "static/js/main.7293436e.js"
+    "static/js/main.f512daa6.js"
   ]
 }
