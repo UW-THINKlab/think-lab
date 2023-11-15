@@ -94,9 +94,11 @@ export const Splashes = () => {
 
       <div className="splashes-content-white">
         <p>
-          Our new step towards understanding transportation big data: read our recent work on
-          extracting trips from multi-sourced data for mobility pattern analysis: an app-based
+          Our new step towards understanding transportation big data: read our recent work on 
+          <a href="https://www.sciencedirect.com/science/article/pii/S0968090X18316085?via%3Dihub"class="link-style"> extracting trips from multi-sourced data for mobility pattern analysis: an app-based
           data example.
+          </a>
+    
         </p>
       </div>
 
@@ -112,7 +114,8 @@ export const Splashes = () => {
 
       <div className="splashes-content-white">
         <p>
-          A new TMIP report is just released by the THINK lab and our collaborators (Dr. Jeff Ban
+          A new <a href="https://www.fhwa.dot.gov/planning/tmip/publications/other_reports/data_emerging_tech/">TMIP report</a>
+           is just released by the THINK lab and our collaborators (Dr. Jeff Ban
           and his students) analyzing the various characteristics of emerging big data for deriving
           travel patterns.
         </p>
@@ -120,8 +123,12 @@ export const Splashes = () => {
 
       <div className="splashes-content-blue">
         <p>
-          Katie Idziorek, AICP, has been selected by the Eno Center for Transportation for the
-          Summer 2020 Thomas J. O'Bryant Transportation Policy and Finance Fellowship. The O'Bryant
+          Katie Idziorek, AICP,  
+           <a href="https://enotrans.org/article/eno-welcomes-university-of-washington-ph-d-candidate-as-the-2020-thomas-j-obryant-fellow/" class="link-style"> has been selected by the
+          Eno Center for Transportation for the
+          Summer 2020 Thomas J. O'Bryant Transportation Policy and Finance Fellowship 
+          </a>
+          . The O'Bryant
           Fellowship is designed to bridge research and policy while providing a professional
           development opportunity for aspiring transportation specialists. As an Eno Fellow,
           Katherine will engage with the transportation policymaking community while assisting
@@ -133,7 +140,7 @@ export const Splashes = () => {
 
       <div className="splashes-content-white">
         <p>
-          PNAS publication: A new paper on General methodology for inferring failure-spreading
+          PNAS publication: <a href="https://www.pnas.org/doi/10.1073/pnas.1722313115" class="link-style">A new paper</a> on General methodology for inferring failure-spreading
           dynamics in networks, authored by Xiangyang Guan and Cynthia Chen, was published on PNAS.
         </p>
       </div>
@@ -180,7 +187,8 @@ export const Splashes = () => {
 
       <div className="splashes-content-blue">
         <p>
-          Katie Idziorek was recognized as the 2017 Outstanding Student of the Year by the University
+          Katie Idziorek was recognized as the <a href="https://www.transportation.gov/utc/2017-outstanding-students-year-0"class="link-style">2017 Outstanding Student of the Year</a>
+           by the University
           Transportation Centers (UTC) Program. She was also awarded the Helene M. Overly Memorial
           Scholarship from Women's Transportation Seminar (WTS) for the year 2018.
         </p>
@@ -188,8 +196,10 @@ export const Splashes = () => {
 
       <div className="splashes-content-white">
         <p>
-          Katie Idziorek, AICP, recently completed a 10-week fellowship with the Eno Center for
-          Transportation in which she worked with Eno's policy analysis team to contribute to
+          Katie Idziorek, AICP, recently completed a  
+          <a href="https://enotrans.org/article/working-at-eno-the-2020-thomas-j-obryant-fellow-reflects-on-her-experience/" class="link-style"> 10-week fellowship 
+          </a> with the <a href="https://enotrans.org/" class="link-style">Eno Center for
+          Transportation</a> in which she worked with Eno's policy analysis team to contribute to
           transportation-related research and reporting. Due to the COVID-19 pandemic, the fellowship
           was conducted fully online. Katherine will also participate in Eno's 2020 Leadership
           Development Conference, which has been postponed to 2021. Read Katherine's Eno
@@ -200,12 +210,7 @@ export const Splashes = () => {
       <div className="splashes-content-blue">
         <p>
           A new paper proposing personalized incentives for promoting sustainable travel behaviors
-          led by Xi Zhu, was published on Transportation Research Part C. Congratulations to Katie
-          Idziorek for passing her dissertation proposal defense on Feb 28, 2020! Her work in
-          community resilience examines how to leverage social ties to facilitate response effort.
-          Her work demonstrates a perfect combination of both scientific contribution in multiple
-          disciplines (social networks, resilience, urban planning and engineering) and significant
-          societal impacts!
+          led by Xi Zhu, was published on Transportation Research Part C. 
         </p>
       </div>
 

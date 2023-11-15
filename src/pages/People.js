@@ -185,11 +185,12 @@ export const People = () => {
           <p>Ekin Ugurel</p>
           <p>PhD Student and Researcher</p>
           <p>
-            Ekin received his bachelor's in civil engineering from the University of Texas at Austin
-            in May 2021. He is pursuing a Ph.D. under the supervision of Prof. Cynthia Chen. His
-            research interests lie in assessing the extent to which sustainable infrastructure can
-            improve community resilience, innovating policy tools to maintain transportation network
-            resiliency, and using novel modeling tools to better understand transportation networks.
+          Ekin received his bachelor’s in civil engineering from the University of Texas at Austin in May 2021, joining the THINK Lab in as a Ph.D. student in September 2021. 
+          He earned a master's degree in transportation engineering from the University of Washington. 
+          His research aims to innovate novel methods to model mobile data (i.e. GPS traces from mobile devices) for human mobility analysis. 
+          He is particularly interested in kernel-based techniques to uncover non-linear spatiotemporal relationships in high dimensions. 
+          He is also interested in applications of mobile data for inference in social science (i.e., in disaster detection, innovation studies, and travel behavior).
+          LinkedIn: <a href="https://www.linkedin.com/in/ekin-ugurel/" class="link-style">https://www.linkedin.com/in/ekin-ugurel/</a>
           </p>
         </div>
 
