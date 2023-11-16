@@ -17,6 +17,7 @@ import kittibhumTasanasuwan from "../assets/THINKLabHeadshots/Kittibhum_Tasanasu
 import arsalanEsmaeili from "../assets/THINKLabHeadshots/Arsalan_Esmaeili.png";
 import jeremychan from "../assets/THINKLabHeadshots/Jeremy_Chan.png";
 import mindachen from "../assets/THINKLabHeadshots/Minda_Chen.png";
+import oliviawang from "../assets/THINKLabHeadshots/Olivia_Wang.png";
 
 export const People = () => {
   const data = React.useMemo(() => membersData, []);
@@ -275,6 +276,22 @@ export const People = () => {
       
           </p>
         </div>
+
+        <div className="current-members-individual">
+          <img
+            className="profile"
+            src={oliviawang}
+            alt="Olivia Wang" />
+          <p>Olivia Wang</p>
+          <p>Visiting MS Student and Researcher</p>
+          <p>
+          Olivia Wang is a master’s student at Tsinghua University. She joined THINKlab as a visiting student in June 2023. 
+          Olivia’s research interests include peer-to-peer resource sharing, social capital and resources allocation.
+      
+          </p>
+        </div>
+
+
 
       </div>
 
