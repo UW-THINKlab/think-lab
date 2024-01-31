@@ -224,6 +224,7 @@ export const Publications = () => {
       </div>
 
       {/* Other */}
+
       <div className="publications-headers">
         <img
           className="location-icon-blue"
@@ -243,6 +244,7 @@ export const Publications = () => {
                 <Card.Text><span>Journal:</span> {eachCard.journal}</Card.Text>
                 <Card.Text><span>Authors:</span> {eachCard.author}</Card.Text>
                 <Card.Text><span>Year:</span> {eachCard.year} </Card.Text>
+                <Card.Link href={`${eachCard.link}`}>Read More</Card.Link>
                 </div>
               </Card.Body>
               </Card>
