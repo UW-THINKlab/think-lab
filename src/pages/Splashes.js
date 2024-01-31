@@ -73,6 +73,15 @@ export const Splashes = () => {
 
     {/* All Other Splashes */}
     <div className="px-28 splashes-column">
+
+      <div className="splashes-content-blue">
+        <p>
+            Professor Cynthia Chen heads a <a href="https://ise.washington.edu/news/article/2024-01-14/building-community-resilience-2-million-nsf-grant-will-transform-disaster?utm_campaign=&utm_medium=email&utm_source=waengineer-newsletter&mkt_tok=MTMxLUFRTy0yMjUAAAGQ-oDKZdxlI0YjvYcpLea-9mXfcjL_l9zDzXZF_MOFr0kYmnE84Tzglrb5Z4G0mySLjNVomSpuK4YN656fWfWTzHGJ2Tx93vhdRe8uRwExUgg_BQ" class="link-style">
+            new community resilience project </a>, with a $2 million grant from NSF.
+            This project will examine disaster response with pilot communities in Washington State and Japan.
+        </p>
+      </div>
+
       <div className="splashes-content-white">
         <p>
           THINK lab post-doctoral fellow Dr. Guan has just published a <a href="https://www.sciencedirect.com/science/article/pii/S1366554521001496?via%3Dihub" class="link-style">new article </a>
