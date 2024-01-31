@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/think-lab/static/css/main.d2162119.css",
-    "main.js": "/think-lab/static/js/main.5ab1e09a.js",
+    "main.js": "/think-lab/static/js/main.565355fa.js",
     "static/media/Ekin_Ugurel.png": "/think-lab/static/media/Ekin_Ugurel.7eb806666afd722e4296.png",
     "static/media/hero.jpg": "/think-lab/static/media/hero.63aa8f677402683fce51.jpg",
     "static/media/Minda_Chen.png": "/think-lab/static/media/Minda_Chen.f65ac0e15284b1ec3bb8.png",
@@ -54,10 +54,10 @@
     "static/media/researchGrants.png": "/think-lab/static/media/researchGrants.547576b3860de939c93d.png",
     "index.html": "/think-lab/index.html",
     "main.d2162119.css.map": "/think-lab/static/css/main.d2162119.css.map",
-    "main.5ab1e09a.js.map": "/think-lab/static/js/main.5ab1e09a.js.map"
+    "main.565355fa.js.map": "/think-lab/static/js/main.565355fa.js.map"
   },
   "entrypoints": [
     "static/css/main.d2162119.css",
-    "static/js/main.5ab1e09a.js"
+    "static/js/main.565355fa.js"
   ]
 }
