@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/think-lab/static/css/main.d2162119.css",
-    "main.js": "/think-lab/static/js/main.3e9dcf1c.js",
+    "main.css": "/think-lab/static/css/main.91d5e481.css",
+    "main.js": "/think-lab/static/js/main.24af8779.js",
     "static/media/Ekin_Ugurel.png": "/think-lab/static/media/Ekin_Ugurel.7eb806666afd722e4296.png",
     "static/media/hero.jpg": "/think-lab/static/media/hero.63aa8f677402683fce51.jpg",
-    "static/media/Minda_Chen.png": "/think-lab/static/media/Minda_Chen.f65ac0e15284b1ec3bb8.png",
+    "static/media/Lyra_Chen.png": "/think-lab/static/media/Lyra_Chen.75b22a472e85a780f5da.png",
+    "static/media/Aaron_Wang.png": "/think-lab/static/media/Aaron_Wang.e7a0823dbb6bb56841bf.png",
+    "static/media/Dong-Hoon_Son.png": "/think-lab/static/media/Dong-Hoon_Son.132c18dd9b9261749a56.png",
     "static/media/Grace_Jia.png": "/think-lab/static/media/Grace_Jia.5308ddf14b80d3c4a99b.png",
-    "static/media/Kittibhum_Tasanasuwan.png": "/think-lab/static/media/Kittibhum_Tasanasuwan.324cb8e616ed144b7fb3.png",
-    "static/media/Arsalan_Esmaeili.png": "/think-lab/static/media/Arsalan_Esmaeili.5faf01334f81af692269.png",
-    "static/media/Olivia_Wang.png": "/think-lab/static/media/Olivia_Wang.02fe144b0709a58066a4.png",
     "static/media/Xiangyang_Guan.png": "/think-lab/static/media/Xiangyang_Guan.8d779239bd42282d5433.png",
     "static/media/theSplashesTitle.png": "/think-lab/static/media/theSplashesTitle.210a83f57d5dcb9dae36.png",
+    "static/media/Adam_Schulze.png": "/think-lab/static/media/Adam_Schulze.77f96f0e91823185ffb9.png",
     "static/media/TOMNET.png": "/think-lab/static/media/TOMNET.d8161f823cea962aa056.png",
     "static/media/learningAlongConcepts.png": "/think-lab/static/media/learningAlongConcepts.809add981644dbdbec79.png",
     "static/media/NSF.png": "/think-lab/static/media/NSF.a0000db28717d8bf3f03.png",
@@ -18,7 +18,6 @@
     "static/media/Cynthia_Chen.png": "/think-lab/static/media/Cynthia_Chen.78bc7fe23659aaaac3ca.png",
     "static/media/DOT.png": "/think-lab/static/media/DOT.99c219a7a1ba2868a345.png",
     "static/media/THINKword.png": "/think-lab/static/media/THINKword.5a51c12880cf857bcede.png",
-    "static/media/Kaitlyn_Ng.png": "/think-lab/static/media/Kaitlyn_Ng.d972c30c15e5f06fd056.png",
     "static/media/scienceSymbol.png": "/think-lab/static/media/scienceSymbol.a7a731397730848a5935.png",
     "static/media/nationalCenter.png": "/think-lab/static/media/nationalCenter.ed3d279038b6f22cab7a.png",
     "static/media/whatWeDo.png": "/think-lab/static/media/whatWeDo.331bdf8f02ed43efcfbd.png",
@@ -53,11 +52,11 @@
     "static/media/transitRelated.png": "/think-lab/static/media/transitRelated.50c23dad24b25dba9f4b.png",
     "static/media/researchGrants.png": "/think-lab/static/media/researchGrants.547576b3860de939c93d.png",
     "index.html": "/think-lab/index.html",
-    "main.d2162119.css.map": "/think-lab/static/css/main.d2162119.css.map",
-    "main.3e9dcf1c.js.map": "/think-lab/static/js/main.3e9dcf1c.js.map"
+    "main.91d5e481.css.map": "/think-lab/static/css/main.91d5e481.css.map",
+    "main.24af8779.js.map": "/think-lab/static/js/main.24af8779.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2162119.css",
-    "static/js/main.3e9dcf1c.js"
+    "static/css/main.91d5e481.css",
+    "static/js/main.24af8779.js"
   ]
 }
