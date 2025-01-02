@@ -12,12 +12,11 @@ import cynthiaChen from "../assets/THINKLabHeadshots/Cynthia_Chen.png";
 import xiangyangGuan from "../assets/THINKLabHeadshots/Xiangyang_Guan.png";
 import graceJia from "../assets/THINKLabHeadshots/Grace_Jia.png";
 import ekinUgurel from "../assets/THINKLabHeadshots/Ekin_Ugurel.png";
-import kaitlynNg from "../assets/THINKLabHeadshots/Kaitlyn_Ng.png";
-import kittibhumTasanasuwan from "../assets/THINKLabHeadshots/Kittibhum_Tasanasuwan.png";
-import arsalanEsmaeili from "../assets/THINKLabHeadshots/Arsalan_Esmaeili.png";
-import jeremychan from "../assets/THINKLabHeadshots/Jeremy_Chan.png";
-import mindachen from "../assets/THINKLabHeadshots/Minda_Chen.png";
-import oliviawang from "../assets/THINKLabHeadshots/Olivia_Wang.png";
+import jeremyChan from "../assets/THINKLabHeadshots/Jeremy_Chan.png";
+import donghoonSon from "../assets/THINKLabHeadshots/Dong-Hoon_Son.png";
+import aaronWang from "../assets/THINKLabHeadshots/Aaron_Wang.png";
+import adamSchulze from "../assets/THINKLabHeadshots/Adam_Schulze.png";
+import lyraChen from "../assets/THINKLabHeadshots/Lyra_Chen.png";
 
 export const People = () => {
   const data = React.useMemo(() => membersData, []);
@@ -111,7 +110,8 @@ export const People = () => {
           </p>
         </div>
       </div>
-    q
+    
+
       {/* Our Members */}
       <div className="our-members">
         <h2>
@@ -198,57 +198,7 @@ export const People = () => {
         <div className="current-members-individual">
           <img
             className="profile"
-            src={kaitlynNg}
-            alt="Kaitlyn Ng" />
-          <p>Kaitlyn Ng</p>
-          <p>MS Student and Researcher</p>
-          <p>
-            Kaitlyn Ng received her bachelor's in civil engineering from the University of Texas at
-            Austin. She joined THINK Lab in September 2022 and is pursuing her master's degree in
-            transportation engineering. Her research interests lie in equitable transportation
-            planning and impacts on policymaking which include topics such as food access and
-            quantifying human behavior.
-          </p>
-        </div>
-
-        <div className="current-members-individual">
-          <img
-            className="profile"
-            src={kittibhumTasanasuwan}
-            alt="Kittibhum Tasanasuwan" />
-          <p>Kittibhum Tasanasuwan</p>
-          <p>MS Student and Researcher</p>
-          <p>
-            Kittibhum received his Bachelor's in Civil engineering from the Royal Thai Air
-            Force Academy, Thailand, in December 2020. He is currently a MS student in Civil
-            Engineering (thesis-track). He joined THINK lab at UW in September 2022. His research
-            interest is sustainable transportation as well as the policies that make it really happen.
-          </p>
-        </div>
-
-        <div className="current-members-individual">
-          <img
-            className="profile" 
-            src={arsalanEsmaeili}
-            alt="Arsalan Esmaeili" />
-          <p>Arsalan Esmaeili</p>
-          <p>PhD Student and Researcher</p>
-          <p>
-            Arsalan is currently a Ph.D. student at the Civil and Environmental Engineering (CEE)
-            Department of the University of Washington. He received his Bachelor's in Civil
-            Engineering and his Master's in Transportation Engineering both from the University of
-            Tehran. His master's thesis focused on traffic safety. Arsalan joined the THINK lab in
-            January 2023, and his research interests are Big Data Analytics, Artificial Intelligence,
-            and Machine Learning.
-          </p>
-        </div>
-
-
-
-        <div className="current-members-individual">
-          <img
-            className="profile"
-            src={jeremychan}
+            src={jeremyChan}
             alt="Jeremy Chan" />
           <p>Jeremy Chan</p>
           <p>MS Student and Researcher</p>
@@ -266,32 +216,64 @@ export const People = () => {
         <div className="current-members-individual">
           <img
             className="profile"
-            src={mindachen}
-            alt="Minda Chen" />
-          <p>Minda Chen</p>
-          <p>Undergraduate Research Assistant</p>
+            src={aaronWang}
+            alt="Aaron Wang" />
+          <p>Aaron Wang</p>
+          <p>MS Student and Researcher</p>
           <p>
-          Minda is pursing her bachelor's degree at the University of Washington in environmental engineering. She joined THINKlab
-          in June 2023 and is interested in investigating the intersection of transportation and environmental engineering.
-      
+            Aaron Wang received his bachelor's degree in Materials Science & Engineering from the University of California, Berkeley 
+            and is currently a M.S. student in the THINK Lab. His current research interests include quantifying the accessibility 
+            of jobs, services, and amenities to public transportation for those that rely on public transit for mobility, especially 
+            in underserved areas, as well as designing public policies that improve access to public transit and its level and quality of service.
           </p>
         </div>
 
         <div className="current-members-individual">
           <img
             className="profile"
-            src={oliviawang}
-            alt="Olivia Wang" />
-          <p>Olivia Wang</p>
-          <p>Visiting MS Student and Researcher</p>
+            src={adamSchulze}
+            alt="Adam Schulze" />
+          <p>Adam Schulze</p>
+          <p>MS Student and Researcher</p>
           <p>
-          Olivia Wang is a master’s student at Tsinghua University. She joined THINKlab as a visiting student in June 2023. 
-          Olivia’s research interests include peer-to-peer resource sharing, social capital and resources allocation.
-      
+            Adam received his bachelor's degree in Computer Science from Harvey Mudd College in 2019. 
+            He worked as a software engineer before joining the University of Washington in September 2024. 
+            His current research focuses on platform integration of demand-response transportation. 
+            He is also interested in transportation network optimization problems related to public transit.
           </p>
         </div>
 
+        <div className="current-members-individual">
+          <img
+            className="profile"
+            src={donghoonSon}
+            alt="Dong-Hoon SON" />
+          <p>Dong-Hoon SON, Ph.D.</p>
+          <p>Postdoctoral Scholar</p>
+          <p>
+            Dr. Son completed his Ph.D. in Civil Engineering at The Hong Kong University of Science and Technology, 
+            and M.S. and B.S. degrees from Inha University. He joined the THINK lab as a postdoctoral scholar 
+            in December 2024. His research interests include transportation engineering, platform economics, 
+            resilience and pricing and incentive strategies.
 
+          </p>
+        </div>
+
+        <div className="current-members-individual">
+          <img
+            className="profile"
+            src={lyraChen}
+            alt="Lyra Chen" />
+          <p>Lyra Chen, Ph.D.</p>
+          <p>Research Scientist</p>
+          <p>
+            Lyra Chen received her Ph.D. in Civil Engineering from the City College, City University of New York. 
+            She joined THINK Lab in 2025 as a research scientist helping manage the lab and lead research projects in the lab.
+            Her research interests include transportation safety, modeling the effectiveness of traffic calming measures on 
+            reducing crashes and impacts of street treatments on travel pattern and mobility.
+
+          </p>
+        </div>
 
       </div>
 
