@@ -1,26 +1,10 @@
 [
   {
-    "title":"Analysis of changes in time use and activity participation in response to the COVID-19 pandemic in the United States: implications for well-being",
-    "journal": "Transportation Research Record",
-    "author": "Batur, I.; Dirks, A.; Bhat, C.; Polzin, S.; Chen, C.; and Pendyala, R.",
-    "year": "2023",
-    "link": "https://doi.org/10.1177/03611981231165020"
-  },
-
-  {
     "title":"Modeling User Choice Behavior under Data Corruption: Robust Learning of the Latent Decision Threshold Model",
     "journal": "IISE Transactions",
     "author": "Lin, F.; Qian, X.; Mortazavi, B.; Wang, Z.; Huang, S.; and Chen, C.",
     "year": "2023",
     "link": "https://www.tandfonline.com/doi/full/10.1080/24725854.2023.2279080?scroll=top&needAccess=true"
-  },
-
-  {
-    "title":"An online updating method for time-varying preference learning",
-    "journal": "Transportation Research Part C, Vol 121",
-    "author": "Zhu*, X.; Feng*, J.; Huang, S.; and Chen, C.",
-    "year": "2020",
-    "link": "https://doi.org/10.1016/j.trc.2020.102849"
   },
 
   {
@@ -48,16 +32,24 @@
   },
 
   {
+    "title":"An online updating method for time-varying preference learning",
+    "journal": "Transportation Research Part C, Vol 121",
+    "author": "Zhu*, X.; Feng*, J.; Huang, S.; and Chen, C.",
+    "year": "2020",
+    "link": "https://doi.org/10.1016/j.trc.2020.102849"
+  },
+
+  {
     "title":"Personalized incentives for promoting sustainable travel behaviors",
-    "journal": "Transp. Res. Part C Emerg. Technol",
+    "journal": "Transportation Research Part C: Emerging Technologies, Vol 113, Pages 314-331",
     "author": "Zhu, X., Wang, F., Chen, C., Reed, D.D.",
-    "year": "2019",
+    "year": "2020",
     "link": "https://www.sciencedirect.com/science/article/abs/pii/S0968090X1831739X"
   },
 
   {
     "title":"Personalized control for promoting sustainable travel behaviors",
-    "journal": "Special issue of the 23rd ISTTT conference in Lausanne, Transportation Research Part C, 38, 730-750",
+    "journal": "Special issue of the 23rd ISTTT conference in Lausanne, Transportation Research Procedia, Vol 38, Pages 730-750",
     "author": "Zhu*, X.; Wang*, F.; Chen, C. and Reed, D.",
     "year": "2019",
     "link": "https://doi.org/10.1016/j.trpro.2019.05.038"
