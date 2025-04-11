@@ -14,9 +14,10 @@ import graceJia from "../assets/THINKLabHeadshots/Grace_Jia.png";
 import ekinUgurel from "../assets/THINKLabHeadshots/Ekin_Ugurel.png";
 import jeremyChan from "../assets/THINKLabHeadshots/Jeremy_Chan.png";
 import donghoonSon from "../assets/THINKLabHeadshots/Dong-Hoon_Son.png";
-import aaronWang from "../assets/THINKLabHeadshots/Aaron_Wang.png";
 import adamSchulze from "../assets/THINKLabHeadshots/Adam_Schulze.png";
 import lyraChen from "../assets/THINKLabHeadshots/Lyra_Chen.png";
+import hongkeXie from "../assets/THINKLabHeadshots/Hongke_Xie.png";
+import yutengZhang from "../assets/THINKLabHeadshots/Yuteng_Zhang.png"
 
 export const People = () => {
   const data = React.useMemo(() => membersData, []);
@@ -43,11 +44,11 @@ export const People = () => {
   );
 
   const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow } =
-  useTable({ columns, data });
+    useTable({ columns, data });
 
   return (
     <>
-    {/* Our Work */}
+      {/* Our Work */}
       <div className="our-work">
         <h2>
           <span className="bg-gradient-to-r from-primary-blue to-secondary-blue bg-[length:100%_10px] bg-no-repeat bg-bottom pb-3">Our W</span>
@@ -110,7 +111,7 @@ export const People = () => {
           </p>
         </div>
       </div>
-    
+
 
       {/* Our Members */}
       <div className="our-members">
@@ -186,12 +187,12 @@ export const People = () => {
           <p>Ekin Ugurel</p>
           <p>PhD Student and Researcher</p>
           <p>
-          Ekin received his bachelor’s in civil engineering from the University of Texas at Austin in May 2021, joining the THINK Lab in as a Ph.D. student in September 2021. 
-          He earned a master's degree in transportation engineering from the University of Washington. 
-          His research aims to innovate novel methods to model mobile data (i.e. GPS traces from mobile devices) for human mobility analysis. 
-          He is particularly interested in kernel-based techniques to uncover non-linear spatiotemporal relationships in high dimensions. 
-          He is also interested in applications of mobile data for inference in social science (i.e., in disaster detection, innovation studies, and travel behavior).
-          LinkedIn: <a href="https://www.linkedin.com/in/ekin-ugurel/" class="link-style">https://www.linkedin.com/in/ekin-ugurel/</a>
+            Ekin received his bachelor’s in civil engineering from the University of Texas at Austin in May 2021, joining the THINK Lab in as a Ph.D. student in September 2021.
+            He earned a master's degree in transportation engineering from the University of Washington.
+            His research aims to innovate novel methods to model mobile data (i.e. GPS traces from mobile devices) for human mobility analysis.
+            He is particularly interested in kernel-based techniques to uncover non-linear spatiotemporal relationships in high dimensions.
+            He is also interested in applications of mobile data for inference in social science (i.e., in disaster detection, innovation studies, and travel behavior).
+            LinkedIn: <a href="https://www.linkedin.com/in/ekin-ugurel/" class="link-style">https://www.linkedin.com/in/ekin-ugurel/</a>
           </p>
         </div>
 
@@ -203,28 +204,13 @@ export const People = () => {
           <p>Jeremy Chan</p>
           <p>MS Student and Researcher</p>
           <p>
-          Jeremy received his bachelor's degrees in aerospace engineering, mathematics, and physics from Monash
-          University in Melbourne, Australia. He is currently pursuing a Master's degree in 
-          transportation engineering. Previously, Jeremy worked as a middle- and high-school mathematics
-          teacher. His interest in transportation is driven by a desire to promote social and economic 
-          justice by understanding the interactions between human behavior, the built environment, and policy,
-          as well as by advocating for safe and widespread active mobility and transit.
-      
-          </p>
-        </div>
+            Jeremy received his bachelor's degrees in aerospace engineering, mathematics, and physics from Monash
+            University in Melbourne, Australia. He is currently pursuing a Master's degree in
+            transportation engineering. Previously, Jeremy worked as a middle- and high-school mathematics
+            teacher. His interest in transportation is driven by a desire to promote social and economic
+            justice by understanding the interactions between human behavior, the built environment, and policy,
+            as well as by advocating for safe and widespread active mobility and transit.
 
-        <div className="current-members-individual">
-          <img
-            className="profile"
-            src={aaronWang}
-            alt="Aaron Wang" />
-          <p>Aaron Wang</p>
-          <p>MS Student and Researcher</p>
-          <p>
-            Aaron Wang received his bachelor's degree in Materials Science & Engineering from the University of California, Berkeley 
-            and is currently a M.S. student in the THINK Lab. His current research interests include quantifying the accessibility 
-            of jobs, services, and amenities to public transportation for those that rely on public transit for mobility, especially 
-            in underserved areas, as well as designing public policies that improve access to public transit and its level and quality of service.
           </p>
         </div>
 
@@ -236,9 +222,9 @@ export const People = () => {
           <p>Adam Schulze</p>
           <p>MS Student and Researcher</p>
           <p>
-            Adam received his bachelor's degree in Computer Science from Harvey Mudd College in 2019. 
-            He worked as a software engineer before joining the University of Washington in September 2024. 
-            His current research focuses on platform integration of demand-response transportation. 
+            Adam received his bachelor's degree in Computer Science from Harvey Mudd College in 2019.
+            He worked as a software engineer before joining the University of Washington in September 2024.
+            His current research focuses on platform integration of demand-response transportation.
             He is also interested in transportation network optimization problems related to public transit.
           </p>
         </div>
@@ -251,9 +237,9 @@ export const People = () => {
           <p>Dong-Hoon SON, Ph.D.</p>
           <p>Postdoctoral Scholar</p>
           <p>
-            Dr. Son completed his Ph.D. in Civil Engineering at The Hong Kong University of Science and Technology, 
-            and M.S. and B.S. degrees from Inha University. He joined the THINK lab as a postdoctoral scholar 
-            in December 2024. His research interests include transportation engineering, platform economics, 
+            Dr. Son completed his Ph.D. in Civil Engineering at The Hong Kong University of Science and Technology,
+            and M.S. and B.S. degrees from Inha University. He joined the THINK lab as a postdoctoral scholar
+            in December 2024. His research interests include transportation engineering, platform economics,
             resilience and pricing and incentive strategies.
 
           </p>
@@ -267,11 +253,42 @@ export const People = () => {
           <p>Lyra Chen, Ph.D.</p>
           <p>Research Scientist</p>
           <p>
-            Lyra Chen received her Ph.D. in Civil Engineering from the City College, City University of New York. 
+            Lyra Chen received her Ph.D. in Civil Engineering from the City College, City University of New York.
             She joined THINK Lab in 2025 as a research scientist helping manage the lab and lead research projects in the lab.
-            Her research interests include transportation safety, modeling the effectiveness of traffic calming measures on 
-            reducing crashes and impacts of street treatments on travel pattern and mobility.
+            Her research interests include transportation safety, modeling the effectiveness of traffic calming measures on
+            reducing crashes and impacts of street redesign on travel pattern and mobility, and travel behavior and demand analysis
+            using location service based (LBS) data.
 
+          </p>
+        </div>
+
+        <div className="current-members-individual">
+          <img
+            className="profile"
+            src={hongkeXie}
+            alt="Hongke Xie" />
+          <p>Hongke Xie</p>
+          <p>Visiting PhD Student</p>
+          <p>
+            Hongke Xie received his bachelor's degree in information management and information system from the China University of
+            Geosciences  in 2020. He is now puesuing his Ph.D. degree in the University of Electronic Science and Technology of China.
+            He came to University of Washington and joined THINK Lab as a visiting student in 2025. His research interests include
+            resource sharing during disasters, as well as parking sharing.
+          </p>
+        </div>
+
+        <div className="current-members-individual">
+          <img
+            className="profile"
+            src={yutengZhang}
+            alt="Yuteng Zhang" />
+          <p>Yuteng Zhang</p>
+          <p>MS Student and Researcher</p>
+          <p>
+            Yuteng received his bachelor&#39;s degree in Software Engineering from Jilin University and is
+            currently pursuing a Master&#39;s degree in Industrial and Systems Engineering at the University of Washington.
+            His research focuses on transportation big data, human mobility, and optimization. He is also interested in
+            the application of machine learning and reinforcement learning in transportation systems.
           </p>
         </div>
 
@@ -282,11 +299,11 @@ export const People = () => {
         <img
           className="location-icon-blue"
           src={locationIconBlue}
-          alt="location icon with blue line to the right"/>
+          alt="location icon with blue line to the right" />
         <img
           className="w-40 h-14 mt-10"
           src={previousMembers}
-          alt="Previous Members"/>
+          alt="Previous Members" />
       </div>
 
       <p className="current-PhD">PhD or MS students advised by Dr. Cynthia Chen (as chair)</p>

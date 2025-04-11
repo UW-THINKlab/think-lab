@@ -1,94 +1,200 @@
 [
-  {"name":"Arsalan Esmaeili", "degree":"PhD Student", "year":"2023-2024",
-  "thesis":""},
-
-  {"name":"Kaitlyn Ng", "degree":"MS", "year":"2022-2024",
-   "thesis":"Equitable transportation planning and impacts on policymaking and quantifying human behavior"},
-  
-  {"name":"Kittibhum Tasanasuwan", "degree":"MS", "year":"2022-2024",
-   "thesis":"Sustainable transportation and policies"},
-
-  {"name":"Minda Chen", "degree":"Undergraduate Research Assistant", "year":"2023-2023",
-   "thesis":"Investigating the intersection of transportation and environmental engineering"},
-
-  {"name":"Olivia Wang", "degree":"Visiting Master Student", "year":"2023-2023",
-   "thesis":"Peer-to-peer resource sharing, social capital and resources allocation"},
-
-  {"name":"Zhengyang Li", "degree":"Visiting PhD", "year":"2022-2023",
-   "thesis":"Peer to Peer Resource Sharing"},
-
-   {"name":"Jaime Serrano", "degree":"Undergraduate Summer Research Assistant", "year":"2023-2023",
-   "thesis":"Manipulating mobile data to map trajectories of civilians"},
-
-   {"name":"Mia Pham", "degree":"Undergraduate Summer Research Assistant", "year":"2023-2023",
-   "thesis":"Building THINKlab website"},
-
-   {"name":"Liam Chu", "degree":"Undergraduate Summer Research Assistant", "year":"2023-2023",
-   "thesis":"Machine learning to predict sidewalk behavior"},
-
-  {"name":"Joanne Lin", "degree":"MS", "year":"2020-2022",
-   "thesis":"Socioeconomic and spatial disparity of bus ridership impacts in King County, Washington, During COVID-19"},
-
-  {"name":"Yuanjie Tu", "degree":"PhD Student", "year":"2019-2021", "thesis":""},
-
-  {"name":"Ian Ren", "degree":"MS", "year":"2019-2021",
-   "thesis":"Building Reproducible Workflows using Transportation Data and COVID data (co-advised with Ka Yee Yeung of Computer Science)"},
-
-  {"name":"Cristina Cano-Calhoun", "degree":"MS", "year":"2019-2021",
-   "thesis":"Community and agency perspectives on local self-reliance in disasters"},
-
-  {"name":"Xi Zhu", "degree":"PhD", "year":"2017-2020",
-   "thesis":"Individual preference learning with collaborative learning framework (co-advised with Dr. Shuai Huang of Industrial Systems and Engineering)"},
-
-  {"name":"Rochelle Starrette", "degree":"MS", "year":"2016-2018",
-   "thesis":"Identification of Urban Scaling Behavior for Transportation Mode Share"},
-
-  {"name":"Katherine Idziorek", "degree":"PhD", "year":"2016-2018",
-   "thesis":"Social networks and disaster preparedness at the community level: the role of social ties and social infrastructure in connecting people with essential resources (co-advised with Dan Abramson of Urban Design and Planning); currently assistant professor at UNC-Charlotte"},
-
-  {"name":"Feilong Wang", "degree":"PhD Student", "year":"2016-2020", "thesis":""},
-
-  {"name":"Zhu Xi", "degree":"MS", "year":"2014-2016",
-   "thesis":"The built environment affects non-motorized travel behaviors differently for lower- and higher-income people"},
-
-  {"name":"Xiangyang Guan", "degree":"PhD", "year":"2013-2018",
-   "thesis":"A general methodology for inferring failure propagation process from post-disaster disruptions data"},
-
-  {"name":"Xiangyang Guan", "degree":"MS", "year":"2011-2013",
-   "thesis":"Using social media tools to assess Sandy-related damages"},
-
-  {"name":"Menglin Wang", "degree":"PhD", "year":"2010-2014",
-   "thesis":"Understanding time of day variations in human mobility patterns"},
-
-  {"name":"Dadi Ottosson", "degree":"MS", "year":"2010-2012",
-   "thesis":"Elasticity of on-street parking demand in response to parking meter increases in Seattle, WA"},
-
-  {"name":"John Murphy", "degree":"MS", "year":"2010-2012",
-   "thesis":"Under what circumstances is walking a better choice than taking a bus"},
-
-  {"name":"Tingting Wang", "degree":"MS", "year":"2009-2010",
-   "thesis":"Attitudes, Built Environment and Travel Behavior"},
-
-  {"name":"Wei Li", "degree":"MS", "year":"2008-2009", "thesis":"Accessibility in Time and Space"},
-
-  {"name":"Don Varley", "degree":"MS", "year":"2007-2009",
-   "thesis":"Understanding the effects of gasoline price, GDP and population on ridership"},
-
-  {"name":"Haiyun Lin", "degree":"PhD", "year":"2007-2012",
-   "thesis":"Understanding housing search and residential location choice"},
-
-  {"name":"Li Chen", "degree":"PhD", "year":"2007-2012",
-   "thesis":"Multi-level modeling of the effectiveness of traffic calming measures"},
-
-  {"name":"Eugene Sit", "degree":"MS", "year":"2006-2008",
-   "thesis":"Sensitivity analysis of the Best Practice Model (BPM)"},
-
-  {"name":"Jason Chen", "degree":"PhD", "year":"2004-2009",
-   "thesis":"Residential relocation choices and the consequent behavioral changes"},
-
-  {"name":"Jae Hyun Lee", "degree":"Post Doc", "year":"2016-2017",
-   "thesis":"Researcher at Koren Transp. Institute"},
-
-  {"name":"Peng Chen", "degree":"Post Doc", "year":"2015-2016",
-   "thesis":"Assistant Professor at USF"}
+  {
+    "name": "Aaron Wang",
+    "degree": "MS Student",
+    "year": "2024-2025",
+    "thesis": ""
+  },
+  {
+    "name": "Arsalan Esmaeili",
+    "degree": "PhD Student",
+    "year": "2023-2024",
+    "thesis": ""
+  },
+  {
+    "name": "Kaitlyn Ng",
+    "degree": "MS",
+    "year": "2022-2024",
+    "thesis": "Equitable transportation planning and impacts on policymaking and quantifying human behavior"
+  },
+  {
+    "name": "Kittibhum Tasanasuwan",
+    "degree": "MS",
+    "year": "2022-2024",
+    "thesis": "Sustainable transportation and policies"
+  },
+  {
+    "name": "Minda Chen",
+    "degree": "Undergraduate Research Assistant",
+    "year": "2023-2023",
+    "thesis": "Investigating the intersection of transportation and environmental engineering"
+  },
+  {
+    "name": "Olivia Wang",
+    "degree": "Visiting Master Student",
+    "year": "2023-2023",
+    "thesis": "Peer-to-peer resource sharing, social capital and resources allocation"
+  },
+  {
+    "name": "Zhengyang Li",
+    "degree": "Visiting PhD",
+    "year": "2022-2023",
+    "thesis": "Peer to Peer Resource Sharing"
+  },
+  {
+    "name": "Jaime Serrano",
+    "degree": "Undergraduate Summer Research Assistant",
+    "year": "2023-2023",
+    "thesis": "Manipulating mobile data to map trajectories of civilians"
+  },
+  {
+    "name": "Mia Pham",
+    "degree": "Undergraduate Summer Research Assistant",
+    "year": "2023-2023",
+    "thesis": "Building THINKlab website"
+  },
+  {
+    "name": "Liam Chu",
+    "degree": "Undergraduate Summer Research Assistant",
+    "year": "2023-2023",
+    "thesis": "Machine learning to predict sidewalk behavior"
+  },
+  {
+    "name": "Joanne Lin",
+    "degree": "MS",
+    "year": "2020-2022",
+    "thesis": "Socioeconomic and spatial disparity of bus ridership impacts in King County, Washington, During COVID-19"
+  },
+  {
+    "name": "Yuanjie Tu",
+    "degree": "PhD Student",
+    "year": "2019-2021",
+    "thesis": ""
+  },
+  {
+    "name": "Ian Ren",
+    "degree": "MS",
+    "year": "2019-2021",
+    "thesis": "Building Reproducible Workflows using Transportation Data and COVID data (co-advised with Ka Yee Yeung of Computer Science)"
+  },
+  {
+    "name": "Cristina Cano-Calhoun",
+    "degree": "MS",
+    "year": "2019-2021",
+    "thesis": "Community and agency perspectives on local self-reliance in disasters"
+  },
+  {
+    "name": "Xi Zhu",
+    "degree": "PhD",
+    "year": "2017-2020",
+    "thesis": "Individual preference learning with collaborative learning framework (co-advised with Dr. Shuai Huang of Industrial Systems and Engineering)"
+  },
+  {
+    "name": "Rochelle Starrette",
+    "degree": "MS",
+    "year": "2016-2018",
+    "thesis": "Identification of Urban Scaling Behavior for Transportation Mode Share"
+  },
+  {
+    "name": "Katherine Idziorek",
+    "degree": "PhD",
+    "year": "2016-2018",
+    "thesis": "Social networks and disaster preparedness at the community level: the role of social ties and social infrastructure in connecting people with essential resources (co-advised with Dan Abramson of Urban Design and Planning); currently assistant professor at UNC-Charlotte"
+  },
+  {
+    "name": "Feilong Wang",
+    "degree": "PhD Student",
+    "year": "2016-2020",
+    "thesis": ""
+  },
+  {
+    "name": "Zhu Xi",
+    "degree": "MS",
+    "year": "2014-2016",
+    "thesis": "The built environment affects non-motorized travel behaviors differently for lower- and higher-income people"
+  },
+  {
+    "name": "Xiangyang Guan",
+    "degree": "PhD",
+    "year": "2013-2018",
+    "thesis": "A general methodology for inferring failure propagation process from post-disaster disruptions data"
+  },
+  {
+    "name": "Xiangyang Guan",
+    "degree": "MS",
+    "year": "2011-2013",
+    "thesis": "Using social media tools to assess Sandy-related damages"
+  },
+  {
+    "name": "Menglin Wang",
+    "degree": "PhD",
+    "year": "2010-2014",
+    "thesis": "Understanding time of day variations in human mobility patterns"
+  },
+  {
+    "name": "Dadi Ottosson",
+    "degree": "MS",
+    "year": "2010-2012",
+    "thesis": "Elasticity of on-street parking demand in response to parking meter increases in Seattle, WA"
+  },
+  {
+    "name": "John Murphy",
+    "degree": "MS",
+    "year": "2010-2012",
+    "thesis": "Under what circumstances is walking a better choice than taking a bus"
+  },
+  {
+    "name": "Tingting Wang",
+    "degree": "MS",
+    "year": "2009-2010",
+    "thesis": "Attitudes, Built Environment and Travel Behavior"
+  },
+  {
+    "name": "Wei Li",
+    "degree": "MS",
+    "year": "2008-2009",
+    "thesis": "Accessibility in Time and Space"
+  },
+  {
+    "name": "Don Varley",
+    "degree": "MS",
+    "year": "2007-2009",
+    "thesis": "Understanding the effects of gasoline price, GDP and population on ridership"
+  },
+  {
+    "name": "Haiyun Lin",
+    "degree": "PhD",
+    "year": "2007-2012",
+    "thesis": "Understanding housing search and residential location choice"
+  },
+  {
+    "name": "Li Chen",
+    "degree": "PhD",
+    "year": "2007-2012",
+    "thesis": "Multi-level modeling of the effectiveness of traffic calming measures"
+  },
+  {
+    "name": "Eugene Sit",
+    "degree": "MS",
+    "year": "2006-2008",
+    "thesis": "Sensitivity analysis of the Best Practice Model (BPM)"
+  },
+  {
+    "name": "Jason Chen",
+    "degree": "PhD",
+    "year": "2004-2009",
+    "thesis": "Residential relocation choices and the consequent behavioral changes"
+  },
+  {
+    "name": "Jae Hyun Lee",
+    "degree": "Post Doc",
+    "year": "2016-2017",
+    "thesis": "Researcher at Koren Transp. Institute"
+  },
+  {
+    "name": "Peng Chen",
+    "degree": "Post Doc",
+    "year": "2015-2016",
+    "thesis": "Assistant Professor at USF"
+  }
 ]

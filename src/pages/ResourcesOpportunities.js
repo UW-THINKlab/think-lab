@@ -67,31 +67,50 @@ export const ResourcesOpportunities = () => {
           rtunities
         </h2>
         <p>
-          Job Opportunity: Research Scientist/Engineer. 
-          </p>
-        <p>
-        The THINK lab in UW’s Department of Industrial & Systems Engineering has an outstanding opportunity open for a temporary Research scientist / Engineer 2 position. 
-        This position is initially for one year term but has the potential to become a permanent position for longer terms. 
-        Responsibilities include oversight and coordination of project activies, as well as leading and conducting research. 
-        Required qualitifications include a Master's degree in Industrial Engineering, Civil Engineering, Transportation Engineering, or a related field, 
-        strong programming skills (MATLAB, Python, R, or others), knowledge of transportation systems engineering or planning, as well as experience with publications in relevant journals and conference proceedings.
-        2-3 years’ experience in planning, engineering research or equivalent education and/or experience is required. 
+          Job Opportunity: Graduate Student Assistant
         </p>
         <p>
-        Please click link below below for complete details: 
-        
+          The THINK lab in UW seeks motivated graduate students assistants
+          The THINK Lab at the University of Washington seeks one or more motivated graduate student assistants (hourly rates)
+          in the summer quarter to join our dynamic team exploring innovative solutions in areas such as urban mobility, travel behavior,
+          big data and AI and transportation planning. The student assistant will contribute to ongoing projects, gaining hands-on experience
+          with advanced data science techniques and producing work suitable for a master's thesis or peer-reviewed publication. This is an
+          exceptional opportunity to collaborate with leading researchers and impact real-world challenges in urban environments. Ability to
+          work independently, manage time effectively, and meet deadlines is essential.
+        </p>
+        <p>
+          Please click link below for more details:
         </p>
         <a
-  href="https://docs.google.com/document/d/1NxDuobtRgzPrtGrULFKxEYSURqZ0foKb/edit?usp=sharing&ouid=106616778639762004527&rtpof=true&sd=true"
-  style={{ color: 'rgb(0, 0, 128)', textDecoration: 'underline' }}
->
-  JOB DESCRIPTION DOCUMENT.docx
-</a>
+          href="https://drive.google.com/file/d/16wYIl0mfgwH7CrTux4_N64bm8TooX1UW/view?usp=sharing"
+          style={{ color: 'rgb(0, 0, 128)', textDecoration: 'underline' }}
+        >Job Description
+        </a>
 
-          
         <p>
-          THINK lab is always looking for talented MS/PhD students and postdoctoral fellows. If
-          interested, please send all inquiries to Professor Cynthia Chen (qzchen@uw.edu).
+          Job Opportunity: Research Scientist/Engineer (inactive).
+        </p>
+        <p>
+          The THINK lab in UW's Department of Industrial & Systems Engineering has an outstanding opportunity open for a temporary Research scientist / Engineer 2 position.
+          This position is initially for one year term but has the potential to become a permanent position for longer terms.
+          Responsibilities include oversight and coordination of project activies, as well as leading and conducting research.
+          Required qualitifications include a Master's degree in Industrial Engineering, Civil Engineering, Transportation Engineering, or a related field,
+          strong programming skills (MATLAB, Python, R, or others), knowledge of transportation systems engineering or planning, as well as experience with publications in relevant journals and conference proceedings.
+          2-3 years' experience in planning, engineering research or equivalent education and/or experience is required.
+        </p>
+        <p>
+          Please click link below for complete details: (inactive)
+        </p>
+        <a
+          href="https://docs.google.com/document/d/1NxDuobtRgzPrtGrULFKxEYSURqZ0foKb/edit?usp=sharing&ouid=106616778639762004527&rtpof=true&sd=true"
+          style={{ color: 'rgb(0, 0, 128)', textDecoration: 'underline' }}
+        >
+        </a>
+
+        <p>
+          THINK lab is always looking for talented MS/PhD students and postdoctoral fellows.
+          If interested, please send all inquiries to Professor Cynthia Chen (qzchen@uw.edu)
+          or Research Scientist Lyra Chen (lchen01@uw.edu).
         </p>
       </div>
     </>
