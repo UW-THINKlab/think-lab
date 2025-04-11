@@ -67,24 +67,21 @@ export const ResourcesOpportunities = () => {
           rtunities
         </h2>
         <p>
-          Job Opportunity: Graduate Student Assistant
+          Job Opportunity: Graduate Student Assistants
         </p>
         <p>
-          The THINK lab in UW seeks motivated graduate students assistants
-          The THINK Lab at the University of Washington seeks one or more motivated graduate student assistants (hourly rates)
-          in the summer quarter to join our dynamic team exploring innovative solutions in areas such as urban mobility, travel behavior,
-          big data and AI and transportation planning. The student assistant will contribute to ongoing projects, gaining hands-on experience
-          with advanced data science techniques and producing work suitable for a master's thesis or peer-reviewed publication. This is an
-          exceptional opportunity to collaborate with leading researchers and impact real-world challenges in urban environments. Ability to
-          work independently, manage time effectively, and meet deadlines is essential.
+          The THINK Lab at the University of Washington seeks motivated graduate student assistants (hourly rates) in the summer quarter
+          to join our dynamic team exploring innovative solutions in areas such as urban mobility, travel behavior, big data and AI and transportation planning.
+          The student assistant will contribute to ongoing projects, gaining hands-on experience with advanced data science techniques and producing work suitable
+          for a master's thesis or peer-reviewed publication. This is an exceptional opportunity to collaborate with leading researchers and impact real-world challenges
+          in urban environments. Ability to work independently, manage time effectively, and meet deadlines is essential.
         </p>
         <p>
           Please click link below for more details:
         </p>
         <a
           href="https://drive.google.com/file/d/16wYIl0mfgwH7CrTux4_N64bm8TooX1UW/view?usp=sharing"
-          style={{ color: 'rgb(0, 0, 128)', textDecoration: 'underline' }}
-        >Job Description
+          style={{ color: 'rgb(0, 0, 128)', textDecoration: 'underline' }}>Job Description
         </a>
 
         <p>
