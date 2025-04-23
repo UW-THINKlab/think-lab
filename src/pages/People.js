@@ -18,6 +18,8 @@ import adamSchulze from "../assets/THINKLabHeadshots/Adam_Schulze.png";
 import lyraChen from "../assets/THINKLabHeadshots/Lyra_Chen.png";
 import hongkeXie from "../assets/THINKLabHeadshots/Hongke_Xie.png";
 import yutengZhang from "../assets/THINKLabHeadshots/Yuteng_Zhang.png"
+import hesamShafienya from "../assets/THINKLabHeadshots/Hesam_Shafienya.png"
+
 
 export const People = () => {
   const data = React.useMemo(() => membersData, []);
@@ -285,15 +287,28 @@ export const People = () => {
           <p>Yuteng Zhang</p>
           <p>MS Student and Researcher</p>
           <p>
-            Yuteng received his bachelor&#39;s degree in Software Engineering from Jilin University and is
-            currently pursuing a Master&#39;s degree in Industrial and Systems Engineering at the University of Washington.
+            Yuteng received his bachelor's degree in Software Engineering from Jilin University and is
+            currently pursuing a Master's degree in Industrial and Systems Engineering at the University of Washington.
             His research focuses on transportation big data, human mobility, and optimization. He is also interested in
             the application of machine learning and reinforcement learning in transportation systems.
           </p>
         </div>
 
+        <div className="current-members-individual">
+          <img
+            className="profile"
+            src={hesamShafienya}
+            alt="Hesam Shafienya" />
+          <p>Hesam Shafienya</p>
+          <p>PhD Student and Researcher</p>
+          <p>
+            Hesam is a PhD student in the Department of Civil and Environmental Engineering at the University of Washington.
+            His research focuses on trajectory prediction, data imputation techniques, and big data analytics in transportation modeling.
+            By leveraging artificial intelligence (AI) and innovative data analysis methods, Hesam aims to support smarter decision-making,
+            optimize transportation systems, and foster safer, more sustainable urban environments.
+          </p>
+        </div>
       </div>
-
       {/* Previous Members Header */}
       <div className="section-headers">
         <img
