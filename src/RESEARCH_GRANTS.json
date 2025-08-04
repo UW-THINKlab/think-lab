@@ -14,6 +14,13 @@
     "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2114260&HistoricalAwards=false"
   },
   {
+    "project_name": "LEAP-HI: Re-engineering for adaptable lives and businesses (please check out our project website)",
+    "sponsor": "NSF",
+    "period": "2021-2026",
+    "status": "Active (PI)",
+    "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2053373&HistoricalAwards=false"
+  },
+  {
     "project_name": "Imputing Socio-Demographics for Mobile Trajectories",
     "sponsor": "TBD National Center by USDOT",
     "period": "2024-2025",
@@ -28,52 +35,45 @@
     "link": "https://tbd.ctr.utexas.edu/research-product/the-effect-of-urban-infrastructure-change-on-movement/"
   },
   {
-    "project_name": "LEAP-HI: Re-engineering for adaptable lives and businesses (please check out our project website)",
-    "sponsor": "NSF",
-    "period": "2021-2025",
-    "status": "Active (PI)",
-    "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2053373&HistoricalAwards=false"
-  },
-  {
     "project_name": "FW-HTF-P: Designing a Market-based Optimization Tool for the Future of Work: Balancing Remote Work and Community Vitality in Post-COVID American Cities",
     "sponsor": "NSF",
     "period": "1/2022 - 12/2023",
-    "status": "Active (PI)",
+    "status": "Archived (PI)",
     "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2128782&HistoricalAwards=false"
   },
   {
     "project_name": "SCC-PG: Building capacity for data-driven physical activity interventions in communities with depression and obesity hotspots",
     "sponsor": "NSF",
     "period": "2020-2022",
-    "status": "Active (co-PI)",
+    "status": "Archived (co-PI)",
     "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1951378&HistoricalAwards=false"
   },
   {
     "project_name": "JST: SCC-PG: Socially-integrated Technological Solutions for Real-time Response and Neighborhood Survival After Extreme Events",
     "sponsor": "NSF",
     "period": "2020-2022",
-    "status": "Active (PI)",
+    "status": "Archived (PI)",
     "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1951418&HistoricalAwards=false"
   },
   {
     "project_name": "RAPID: Collaborative Research: Modeling and Learning-based Design of Social Distancing Policies for COVID-19",
     "sponsor": "NSF",
     "period": "2020-2022",
-    "status": "Active (PI)",
+    "status": "Archived (PI)",
     "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2030140&HistoricalAwards=false"
   },
   {
     "project_name": "TOMNET Tier 1 Center",
     "sponsor": "USDOT (RITA)",
     "period": "2016-2023",
-    "status": "Active (co-PI)",
+    "status": "Archived (co-PI)",
     "link": "https://www.transportation.gov/utc/fast-act-centers-and-grantees"
   },
   {
     "project_name": "Real-time prediction of movement patterns during disaster times",
     "sponsor": "Facebook",
-    "period": "2018-",
-    "status": "Active (PI)"
+    "period": "2018-2022",
+    "status": "Archived (PI)"
   },
   {
     "project_name": "Promises of data from emerging technologies for transportation applications: Puget Sound Case Study",
