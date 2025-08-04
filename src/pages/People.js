@@ -9,10 +9,7 @@ import uploadIcon from "../assets/uploadIcon.png";
 import settingIcon from "../assets/settingIcon.png";
 import fixingIcon from "../assets/fixingIcon.png"
 import cynthiaChen from "../assets/THINKLabHeadshots/Cynthia_Chen.png";
-import xiangyangGuan from "../assets/THINKLabHeadshots/Xiangyang_Guan.png";
-import graceJia from "../assets/THINKLabHeadshots/Grace_Jia.png";
 import ekinUgurel from "../assets/THINKLabHeadshots/Ekin_Ugurel.png";
-import jeremyChan from "../assets/THINKLabHeadshots/Jeremy_Chan.png";
 import donghoonSon from "../assets/THINKLabHeadshots/Dong-Hoon_Son.png";
 import adamSchulze from "../assets/THINKLabHeadshots/Adam_Schulze.png";
 import lyraChen from "../assets/THINKLabHeadshots/Lyra_Chen.png";
@@ -149,41 +146,6 @@ export const People = () => {
         <div className="current-members-individual">
           <img
             className="profile"
-            src={xiangyangGuan}
-            alt="Xiangyang Guan" />
-          <p>Xiangyang Guan</p>
-          <p>Honorary THINK Lab Member</p>
-          <p>
-            Dr. Guan is a transportation modeler with WSP in Atlanta and is an honorary member of
-            the THINK lab. He earned his Ph.D. in civil engineering from the University of
-            Washington and is now a postdoc researcher. He earned his bachelor's degree in
-            transportation engineering from Tongji University in Shanghai, China. He came to the
-            University of Washington as a master student in 2011 and joined THINK Lab in 2013.
-            Dr. Guan's research interests involve resilience of infrastructure systems, social
-            media data mining, and modeling the complex dynamics in interdependent infrastructure
-            networks.
-          </p>
-        </div>
-
-        <div className="current-members-individual">
-          <img
-            className="profile"
-            src={graceJia}
-            alt="Grace Jia" />
-          <p>Grace Jia</p>
-          <p>PhD Student and Researcher</p>
-          <p>
-            Grace Jia received her bachelor's degree from University of California, Los Angeles in
-            civil engineering, and a master's degree from University of California, Berkeley in
-            transportation engineering. Grace joined the THINK lab as a Ph.D. student in September
-            2020. Grace's research interests include spatial heterogeneity in disease spreading,
-            within-city mixing patterns, and transportation big data.
-          </p>
-        </div>
-
-        <div className="current-members-individual">
-          <img
-            className="profile"
             src={ekinUgurel}
             alt="Ekin Ugurel" />
           <p>Ekin Ugurel</p>
@@ -195,24 +157,6 @@ export const People = () => {
             He is particularly interested in kernel-based techniques to uncover non-linear spatiotemporal relationships in high dimensions.
             He is also interested in applications of mobile data for inference in social science (i.e., in disaster detection, innovation studies, and travel behavior).
             LinkedIn: <a href="https://www.linkedin.com/in/ekin-ugurel/" class="link-style">https://www.linkedin.com/in/ekin-ugurel/</a>
-          </p>
-        </div>
-
-        <div className="current-members-individual">
-          <img
-            className="profile"
-            src={jeremyChan}
-            alt="Jeremy Chan" />
-          <p>Jeremy Chan</p>
-          <p>MS Student and Researcher</p>
-          <p>
-            Jeremy received his bachelor's degrees in aerospace engineering, mathematics, and physics from Monash
-            University in Melbourne, Australia. He is currently pursuing a Master's degree in
-            transportation engineering. Previously, Jeremy worked as a middle- and high-school mathematics
-            teacher. His interest in transportation is driven by a desire to promote social and economic
-            justice by understanding the interactions between human behavior, the built environment, and policy,
-            as well as by advocating for safe and widespread active mobility and transit.
-
           </p>
         </div>
 

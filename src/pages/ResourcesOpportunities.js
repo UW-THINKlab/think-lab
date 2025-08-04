@@ -67,7 +67,7 @@ export const ResourcesOpportunities = () => {
           rtunities
         </h2>
         <p>
-          Job Opportunity: Graduate Student Assistants
+          Job Opportunity: Graduate Student Assistants (inactive)
         </p>
         <p>
           The THINK Lab at the University of Washington seeks motivated graduate student assistants (hourly rates) in the summer quarter
@@ -77,15 +77,15 @@ export const ResourcesOpportunities = () => {
           in urban environments. Ability to work independently, manage time effectively, and meet deadlines is essential.
         </p>
         <p>
-          Please click link below for more details:
+          Please click link below for more details: (inactive)
         </p>
         <a
           href="https://drive.google.com/file/d/16wYIl0mfgwH7CrTux4_N64bm8TooX1UW/view?usp=sharing"
-          style={{ color: 'rgb(0, 0, 128)', textDecoration: 'underline' }}>Job Description
+          style={{ color: 'rgb(0, 0, 128)', textDecoration: 'underline' }}>
         </a>
 
         <p>
-          Job Opportunity: Research Scientist/Engineer (inactive).
+          Job Opportunity: Research Scientist/Engineer (inactive)
         </p>
         <p>
           The THINK lab in UW's Department of Industrial & Systems Engineering has an outstanding opportunity open for a temporary Research scientist / Engineer 2 position.

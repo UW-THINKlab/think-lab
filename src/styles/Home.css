@@ -5,8 +5,8 @@
 .research-philosophy-container,
 .suggestions-text-container,
 .learning-along-container {
-padding-left: 7rem;
-padding-right: 7rem;
+  padding-left: 7rem;
+  padding-right: 7rem;
 }
 
 main h2 {
@@ -34,7 +34,7 @@ h1 span {
   -webkit-transform: translate(0, -50%);
   transform: translate(0, -50%);
   color: var(--color-primary);
-  font : normal 400 20px/1 'Josefin Sans', sans-serif;
+  font: normal 400 20px/1 'Josefin Sans', sans-serif;
   letter-spacing: .1em;
   text-decoration: none;
   transition: opacity .3s;
@@ -47,6 +47,7 @@ h1 span {
 #hero a {
   padding-top: 70px;
 }
+
 #hero a span {
   position: absolute;
   top: 0;
@@ -62,35 +63,146 @@ h1 span {
   animation: sdb05 1.5s infinite;
   box-sizing: border-box;
 }
+
 @-webkit-keyframes sdb05 {
   0% {
     -webkit-transform: rotate(-45deg) translate(0, 0);
     opacity: 0;
   }
+
   50% {
     opacity: 1;
   }
+
   100% {
     -webkit-transform: rotate(-45deg) translate(-20px, 20px);
     opacity: 0;
   }
 }
+
 @keyframes sdb05 {
   0% {
     transform: rotate(-45deg) translate(0, 0);
     opacity: 0;
   }
+
   50% {
     opacity: 1;
   }
+
   100% {
     transform: rotate(-45deg) translate(-20px, 20px);
     opacity: 0;
   }
 }
 
+/* hightlight section */
+.highlight-section {
+  position: absolute;
+  top: 5rem;
+  /* Clears nav bar (~60px height) */
+  right: 2rem;
+  background: rgba(255, 255, 255, 0.3);
+  /* Transparent background */
+  color: #0a1a5e;
+  padding: 0.75rem 1rem;
+  /* Reduced padding to shrink width */
+  border-radius: 0.5rem;
+  border: 1px solid var(--color-primary);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  z-index: 50;
+  /* Below nav bar (100), above overlay (10) */
+  min-width: 180px;
+  /* Further reduced min-width */
+  max-width: 220px;
+  /* Caps width to force text wrapping */
+  overflow-wrap: break-word;
+  /* Ensures long text wraps */
+  animation: slideIn 0.5s ease-out, pulse 2s infinite;
+}
+
+.highlight-section h3 {
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.highlight-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.highlight-section li {
+  margin-bottom: 0.7rem;
+  background: rgba(248, 250, 252, 0.5);
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  transition: transform 0.3s ease;
+  overflow-wrap: break-word;
+  /* Ensures text wraps in list items */
+}
+
+.highlight-section li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.highlight-section a {
+  color: #1565c0;
+  text-decoration: underline;
+  font-size: 0.95rem;
+  /* Slightly smaller font to help wrapping */
+}
+
+.highlight-section a:hover {
+  color: #003087;
+  text-decoration: none;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes pulse {
+
+  0%,
+  100% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.02);
+  }
+}
+
+@media (max-width: 768px) {
+  .highlight-section {
+    top: 4rem;
+    right: 1rem;
+    min-width: 160px;
+    /* Narrower for mobile */
+    max-width: 200px;
+    padding: 0.5rem 0.75rem;
+  }
+
+  .highlight-section a {
+    font-size: 0.9rem;
+    /* Smaller font for mobile */
+  }
+}
+
+
 /* What We Do */
-.what-we-do{
+.what-we-do {
   display: flex;
   align-items: center;
   margin-top: 2rem;
@@ -112,7 +224,8 @@ h1 span {
 }
 
 /* Questions We Are Interested in Answering */
-.questions, .research-suggestions-container {
+.questions,
+.research-suggestions-container {
   background-color: var(--color-primary);
 }
 
@@ -182,7 +295,7 @@ h4 {
   margin-bottom: 4rem;
 }
 
-.network-dots{
+.network-dots {
   width: 20rem;
   height: 36rem;
 }
@@ -206,7 +319,7 @@ h4 {
   left: -6.9rem;
 }
 
-.think-info-container{
+.think-info-container {
   display: flex;
 }
 
@@ -240,8 +353,8 @@ h4 {
   align-items: center;
 }
 
-.two-examples-container h4{
-  color:var(--color-text-white);
+.two-examples-container h4 {
+  color: var(--color-text-white);
   text-decoration: underline;
 }
 
@@ -287,7 +400,7 @@ h4 {
   margin-top: 1.3rem;
 }
 
-.suggestions-text-container p{
+.suggestions-text-container p {
   color: var(--color-text-white);
 }
 
@@ -304,7 +417,7 @@ h4 {
   height: fit-content;
 }
 
-.suggestions-paragraph p{
+.suggestions-paragraph p {
   margin: 0.56rem 1.69rem 0.56rem 1.69rem;
   width: 34.68rem;
 }
@@ -315,7 +428,7 @@ h4 {
   height: 3.875rem;
 }
 
-.learning-along-container img{
+.learning-along-container img {
   width: 54.375rem;
   height: 28.375rem;
   margin: 3.62rem auto 4.87rem auto;
