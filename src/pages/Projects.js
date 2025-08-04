@@ -8,6 +8,7 @@ import facebook from "../assets/fbLogo.png";
 import FHWA from "../assets/FHWA.png";
 import NSF from "../assets/NSF.png";
 import NIH from "../assets/NIH.png";
+import TBD from "../assets/TBD.png";
 
 export const Projects = () => {
   const data = React.useMemo(() => grantData, []);
@@ -29,7 +30,7 @@ export const Projects = () => {
         Header: "Status",
         accessor: "status",
       },
-     
+
       {
         Header: "Link",
         accessor: "link",
@@ -49,7 +50,7 @@ export const Projects = () => {
   );
 
   const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow } =
-  useTable({ columns, data });
+    useTable({ columns, data });
   return (
     <>
       <h2 className="our-projects">
@@ -62,7 +63,7 @@ export const Projects = () => {
         <img
           className="location-icon-blue"
           src={locationIconBlue}
-          alt="location icon with blue line to the right"/>
+          alt="location icon with blue line to the right" />
         <h3 className="mt-8">Sponsors</h3>
       </div>
 
@@ -96,6 +97,14 @@ export const Projects = () => {
             <p>National Institutes of Health</p>
           </div>
         </div>
+
+        <div className="sponsors-logo-container">
+          <div className="sponosors-logo">
+            <img className="w-28 h-16 mb-2.5" src={TBD} alt="TBD National Center" />
+            <p>National Center for Understanding Future</p>
+            <p>Transportation Behavior and Demand</p>
+          </div>
+        </div>
       </div>
 
       {/* Research Grants Header */}
@@ -103,11 +112,11 @@ export const Projects = () => {
         <img
           className="location-icon-blue"
           src={locationIconBlue}
-          alt="location icon with blue line to the right"/>
+          alt="location icon with blue line to the right" />
         <img
           className="w-28 h-12 mt-10"
           src={researchGrants}
-          alt="Research Grants"/>
+          alt="Research Grants" />
       </div>
 
       {/* Research Grants Table */}

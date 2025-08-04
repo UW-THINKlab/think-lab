@@ -1,271 +1,251 @@
 [
   {
-    "title":"Exploring biases in travel behavior patterns in big passively generated mobile data from 11 U.S. cities",
-    "journal": "Journal of Transport Geography, Volume 123, 2025, 104108",
+    "title": "Using Multiple Biased Data Sets to Recover Missing Trips with a Behaviorally Informed Model",
+    "journal": "Transportation Science, Volume 59, No. 4, May 2025",
+    "author": "Guan, X., Huang, S., and Chen, C.",
+    "year": "2025",
+    "link": "https://doi.org/10.1287/trsc.2024.0550"
+  },
+  {
+    "title": "Exploring biases in travel behavior patterns in big passively generated mobile data from 11 U.S. cities",
+    "journal": "Journal of Transport Geography, Volume 123, February 2025, 104108",
     "author": "Wang, Y., Guan X., Ugurel E., Chen, C., Huang, S., and Wang, Q.",
     "year": "2025",
     "link": "https://doi.org/10.1016/j.jtrangeo.2024.104108"
   },
-
   {
-    "title":"Learning to generate synthetic human mobility data: A physics-regularized Gaussian process approach based on multiple kernel learning",
-    "journal": "Transportation Research Part B: Methodological, Volume 189, 2024, 103064",
+    "title": "Metropolitan Planning Organizations' Uses of and Needs for Big Data",
+    "journal": "Transport Findings, December 2024",
+    "author": "E. Ugurel, X. Wu, R. Wang, B. Lee, and C. Chen",
+    "year": "2024",
+    "link": "https://doi.org/10.32866/001c.127143"
+  },
+  {
+    "title": "Learning to generate synthetic human mobility data: A physics-regularized Gaussian process approach based on multiple kernel learning",
+    "journal": "Transportation Research Part B: Methodological, Volume 189, November 2024, 103064",
     "author": "E. Ugurel, S. Huang and C. Chen",
     "year": "2024",
     "link": "https://doi.org/10.1016/j.trb.2024.103064"
   },
-
   {
-    "title":"Correcting missingness in passively-generated mobile data with multi-task Gaussian Processes",
+    "title": "Correcting missingness in passively-generated mobile data with multi-task Gaussian Processes",
     "journal": "Transportation Research Part C: Emerging Technologies, Volume 161, April 2024, 104523",
     "author": "E. Ugurel*, Y. Wang, R. Wang, S. Huang, and C. Chen",
     "year": "2024",
     "link": "https://doi.org/10.1016/j.trc.2024.104523"
   },
-
   {
-    "title":"Gaussian Process Learning for Location-Based Service Data",
+    "title": "Gaussian Process Learning for Location-Based Service Data",
     "journal": "2023 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Taipei, Taiwan, 2023, pp. 1204-1207",
     "author": "E. Ugurel*, S. Huang and C. Chen",
     "year": "2023",
     "link": "https://doi.org/10.1109/APSIPAASC58517.2023.10317343"
   },
-
   {
-    "title":"Analysis of changes in time use and activity participation in response to the COVID-19 pandemic in the United States: implications for well-being",
+    "title": "Analysis of changes in time use and activity participation in response to the COVID-19 pandemic in the United States: implications for well-being",
     "journal": "Transportation Research Record",
     "author": "Batur, I.; Dirks, A.; Bhat, C.; Polzin, S.; Chen, C.; and Pendyala, R.",
     "year": "2023",
     "link": "https://doi.org/10.1177/03611981231165020"
   },
-  
   {
-    "title":"Extracting trips from multi-sourced data for mobility pattern analysis: An app-based data example.",
+    "title": "Extracting trips from multi-sourced data for mobility pattern analysis: An app-based data example.",
     "journal": "Transp. Res. Part C Emerg. Technol. 105, 183–202.",
     "author": "Wang, F., Wang, J., Cao, J., Chen, C., Ban, X. (Jeff)",
     "year": "2019",
     "link": "https://www.sciencedirect.com/science/article/abs/pii/S0968090X18316085?via%3Dihub"
   },
-
   {
-    "title":"On data processing required to derive mobility patterns from passively-generated mobile phone data",
+    "title": "On data processing required to derive mobility patterns from passively-generated mobile phone data",
     "journal": "Transportation Research Part C, 87, 58-74",
     "author": "Wang, F. and Chen, C.",
     "year": "2018",
     "link": "https://www.sciencedirect.com/science/article/pii/S0968090X17303637"
   },
-
   {
-    "title":"The promises of big data and small data for travel behavior (aka human mobility) analysis",
+    "title": "The promises of big data and small data for travel behavior (aka human mobility) analysis",
     "journal": "Transportation Research Part C, 68, 285-299",
     "author": "Chen, C., Ma, J., Susilo, Y., Liu, Y., and Wang, M.",
     "year": "2016",
     "link": "https://www.sciencedirect.com/science/article/pii/S0968090X16300092"
   },
-
   {
-    "title":"Editorial to the Special Issue on Passively-generated Data for Travel Behavior Analysis and Planning Applications",
+    "title": "Editorial to the Special Issue on Passively-generated Data for Travel Behavior Analysis and Planning Applications",
     "journal": "Transportations",
     "author": "Chen, C., Batty, M., and van Vuren, T.",
     "year": "2015",
     "link": "https://link.springer.com/article/10.1007/s11116-015-9614-1"
   },
-
   {
-    "title":"From traces to trajectories: how well can we guess activity locations from mobile phone traces?",
+    "title": "From traces to trajectories: how well can we guess activity locations from mobile phone traces?",
     "journal": "Transportation Research Part C, 46, 326-337",
     "author": "Chen, C. and Bian, L.",
     "year": "2014",
     "link": "https://www.sciencedirect.com/science/article/pii/S0968090X14002022"
   },
-
   {
-    "title":"Impact of fuel price on vehicle miles traveled (VMT): does the poor respond in the same way as the rich?",
+    "title": "Impact of fuel price on vehicle miles traveled (VMT): does the poor respond in the same way as the rich?",
     "journal": "Transportation, 41, 91-105",
     "author": "Wang*, T. and Chen, C.",
     "year": "2014",
     "link": "https://www.researchgate.net/publication/257640470_Impact_of_fuel_price_on_vehicle_miles_traveled_VMT_Do_the_poor_respond_in_the_same_way_as_the_rich"
   },
-
   {
-    "title":"Cell phone data and applications",
+    "title": "Cell phone data and applications",
     "journal": "International Journal of Intelligent Control and Systems, 19(1), 35-45",
     "author": "Shang, C., Zhou, M., and Chen, C.",
     "year": "2014",
     "link": ""
   },
-
   {
-    "title":"The sensitivity of on-street parking demand in response to price changes: a case study in Seattle, WA",
+    "title": "The sensitivity of on-street parking demand in response to price changes: a case study in Seattle, WA",
     "journal": "Transport Policy, 25, 222-232",
     "author": "Ottosson*, D., Chen, C., Wang*, T., and Lin*, H.",
     "year": "2013",
     "link": "https://www.sciencedirect.com/science/article/pii/S0967070X12001886"
   },
-
   {
-    "title":"Attitudes, mode switching behavior, and the built environment: a longitudinal study in the Puget Sound region",
+    "title": "Attitudes, mode switching behavior, and the built environment: a longitudinal study in the Puget Sound region",
     "journal": "Transportation Research Part A, 46, 1594-1607",
     "author": "Wang*, T. and Chen, C.",
     "year": "2012",
     "link": "https://www.sciencedirect.com/science/article/pii/S0965856412001310"
   },
-
   {
-    "title":"GPS/GIS Method for Travel Mode Detection in New York City",
+    "title": "GPS/GIS Method for Travel Mode Detection in New York City",
     "journal": "Computers, Environment, and Urban Systems, 36(2), 131-139",
     "author": "Gong, H., Chen, C., Bialostozky*, E., and Lawson, C.",
     "year": "2012",
     "link": "https://www.sciencedirect.com/science/article/pii/S0198971511000536"
   },
-
   {
-    "title":"Evaluating the Feasibility of a Passive Travel Survey Collection in a Complex Urban Environment: Lessons Learned from the New York City Case Study",
+    "title": "Evaluating the Feasibility of a Passive Travel Survey Collection in a Complex Urban Environment: Lessons Learned from the New York City Case Study",
     "journal": "Transportation Research Part A, 44(10), 830-840.",
     "author": "Chen, C., Gong, H., Lawson, C., and Bialostozky*, E.",
     "year": "2010",
     "link": "https://www.sciencedirect.com/science/article/pii/S0965856410001254"
   },
-
   {
-    "title":"What is Responsible for a Response Lag of a Significant Change in Discretionary Time Use: the Built Environment, Family and Social Obligations, Temporal Constraints, or a Psychological Delay Factor?",
+    "title": "What is Responsible for a Response Lag of a Significant Change in Discretionary Time Use: the Built Environment, Family and Social Obligations, Temporal Constraints, or a Psychological Delay Factor?",
     "journal": "Transportation, 36, 27-46",
     "author": "Chen, C. and Chen*, J.",
     "year": "2009",
     "link": "https://link.springer.com/article/10.1007/s11116-008-9184-6"
   },
-
   {
-    "title":"Role of the Built Environment on Mode Choice Decisions: Additional Evidence on the Impact of Density",
+    "title": "Role of the Built Environment on Mode Choice Decisions: Additional Evidence on the Impact of Density",
     "journal": "Transportation, 35(3), 285-299",
     "author": "Chen, C., Gong, H., and Paaswell, R.",
     "year": "2008",
     "link": "https://link.springer.com/article/10.1007/s11116-007-9153-5"
   },
-
   {
-    "title":"Activity Rescheduling: Deliberate or Habitual?",
+    "title": "Activity Rescheduling: Deliberate or Habitual?",
     "journal": "Transportation Research Part F, 7(6), 351-371",
     "author": "Chen, C., Garling, T., and Kitamura, R.",
     "year": "2007",
     "link": "https://www.sciencedirect.com/science/article/pii/S1369847804000543"
   },
-
   {
-    "title":"The Built Environment and Travel Behavior: Making the Connection",
+    "title": "The Built Environment and Travel Behavior: Making the Connection",
     "journal": "Transportation, 34(5), 529-533",
     "author": "Guo, J. and Chen, C.",
     "year": "2007",
     "link": "https://link.springer.com/article/10.1007/s11116-007-9131-y"
   },
-
   {
-    "title":"Does the Built Environment Make a Difference? Additional Evidence from the Daily Activity and Travel Behavior of Homemakers Living in NYC and Suburbs",
+    "title": "Does the Built Environment Make a Difference? Additional Evidence from the Daily Activity and Travel Behavior of Homemakers Living in NYC and Suburbs",
     "journal": "Journal of Transport Geography, 15(5), 380-395",
     "author": "Chen, C. and McKnight, C.",
     "year": "2007",
     "link": "https://www.sciencedirect.com/science/article/pii/S0966692306001189"
   },
-
-
   {
-    "title":"Dynamic Discrete Choice Models with Future Expectation",
+    "title": "Dynamic Discrete Choice Models with Future Expectation",
     "journal": "The International Journal of Intelligent Controls and Systems, 11(1), 36-50",
     "author": "Chen, C. and Chen*, X.",
     "year": "2006",
     "link": ""
   },
-
   {
-    "title":"Tradeoffs between Time Allocations to Maintenance Activities/Travel and Discretionary Activities/Travel",
+    "title": "Tradeoffs between Time Allocations to Maintenance Activities/Travel and Discretionary Activities/Travel",
     "journal": "Transportation, 33, 223-240",
     "author": "Chen, C. and Mokhtarian, P.",
     "year": "2006",
     "link": "https://link.springer.com/article/10.1007/s11116-005-2307-4"
   },
-
   {
-    "title":"Feasible Activity and Travel Patterns Using a Discrete Choice Framework",
+    "title": "Feasible Activity and Travel Patterns Using a Discrete Choice Framework",
     "journal": "Journal of Transportation Research Forum, July",
     "author": "Chen, C.",
     "year": "2005",
     "link": "https://ageconsearch.umn.edu/record/206755/"
   },
-
   {
-    "title":"TTB or Not TTB, that is the Question: A Review and Analysis of the Empirical Literature on Travel Time (and Money) Budgets",
+    "title": "TTB or Not TTB, that is the Question: A Review and Analysis of the Empirical Literature on Travel Time (and Money) Budgets",
     "journal": "Transportation Research Part A, 38(9-10), 643-675",
     "author": "Mokhtarian, P. and Chen, C.",
     "year": "2004",
     "link": "https://www.sciencedirect.com/science/article/pii/S0965856404000680"
   },
-
   {
-    "title":"Micro-simulation of Daily Activity-Travel Patterns for Travel Demand Forecasting",
+    "title": "Micro-simulation of Daily Activity-Travel Patterns for Travel Demand Forecasting",
     "journal": "Transportation, 27(1), 25-51",
     "author": "Kitamura, R., Chen, C., Pendyala, R., and Narayanan, R.",
     "year": "2000",
     "link": "https://link.springer.com/article/10.1023/A:1005259324588"
   },
-
   {
-    "title":"Multimodal Daily Travel Planner – an Interactive Approach",
+    "title": "Multimodal Daily Travel Planner – an Interactive Approach",
     "journal": "Transportation Research Record, 1676, 37-43",
     "author": "Kitamura, R., Chen, C., and Narayanan, R.",
     "year": "1998",
     "link": "https://journals.sagepub.com/doi/abs/10.3141/1676-05"
   },
-
   {
-    "title":"Stated Choice: a Study in Predictive Validity Using an Aggregate Truth Set",
+    "title": "Stated Choice: a Study in Predictive Validity Using an Aggregate Truth Set",
     "journal": "Transportation, 25(1), 55-75",
     "author": "Beaton, P., Chen, C., and Meghdir, H.",
     "year": "1998",
     "link": "https://link.springer.com/article/10.1023/A:1004986826320"
   },
-
   {
-    "title":"Stated Choice for Transportation Demand Management Models: a Study in Predictive Validity Using a Disaggregate Truth Set",
+    "title": "Stated Choice for Transportation Demand Management Models: a Study in Predictive Validity Using a Disaggregate Truth Set",
     "journal": "Transportation Research Record, 1598, 1-8",
     "author": "Beaton, P., Chen, C., and Meghdir, H.",
     "year": "1997",
     "link": "https://journals.sagepub.com/doi/abs/10.3141/1598-01"
   },
-
   {
-    "title":"Generation of Synthetic Activity-Travel Patterns",
+    "title": "Generation of Synthetic Activity-Travel Patterns",
     "journal": "Transportation Research Record, 1607, 154-162",
     "author": "Kitamura, R., Chen, C., and Pendyala, R.",
     "year": "1997",
     "link": "https://journals.sagepub.com/doi/abs/10.3141/1607-21"
   },
-
   {
-    "title":"An Activity-based Microsimulation Analysis of Transportation Control Measures",
+    "title": "An Activity-based Microsimulation Analysis of Transportation Control Measures",
     "journal": "Transport Policy, 4(3), 183-192",
     "author": "Pendyala, R., Kitamura, R., Chen, C., and Pas, E.",
     "year": "1997",
     "link": "https://www.sciencedirect.com/science/article/pii/S0967070X9700005X"
   },
-
   {
-    "title":"Stated Choice: a New Tool for Transportation Demand Forecasting",
+    "title": "Stated Choice: a New Tool for Transportation Demand Forecasting",
     "journal": "Institute of Transportation Engineers Journal, January, 26-29",
     "author": "Beaton, P., Chen, C., and Meghdir, H.",
     "year": "1996",
     "link": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4bca000515c6fca00ec7c469cc4f8260d60f4ae9"
   },
-
   {
-    "title":"Stated Choice-based Performance Evaluation of Selected Transportation Control Measures and their Transfer across Sites",
+    "title": "Stated Choice-based Performance Evaluation of Selected Transportation Control Measures and their Transfer across Sites",
     "journal": "Transportation Research Record, 1496, 168-174",
     "author": "Beaton, P., Chen, C., and Meghdir, H.",
     "year": "1995",
     "link": "https://trid.trb.org/view/452671"
   },
-
   {
-    "title":"Profile of Employee Transportation Coordinators",
+    "title": "Profile of Employee Transportation Coordinators",
     "journal": "Transportation Research Record, 1496, 123-130",
     "author": "Chen, C., Beaton, P., and Meghdir, H.",
     "year": "1995",
