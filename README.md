@@ -48,4 +48,4 @@ git push
 ```bash
 npm run deploy
 ```
-To publish the updated website.
+This will publish the updated website as GitHub page.
