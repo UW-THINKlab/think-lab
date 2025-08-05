@@ -32,3 +32,20 @@ To view the website locally you can run npm start to view the website. The websi
 npm start
 ```
 When you run npm start, the website will be open automatically on your device's browser. If the website does not open, you can paste http://localhost:3000/ in your device's broswer.
+
+## Updating the website
+After updating the website locally, run the following commands to update the website.
+
+```bash
+git add .
+```
+```bash
+git commit -m 'message'
+```
+```bash
+git push
+```
+```bash
+npm run deploy
+```
+To publish the updated website.
