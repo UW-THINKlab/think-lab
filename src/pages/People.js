@@ -319,8 +319,8 @@ export const People = () => {
           University of Electronic Science and Technology of China.
         </p>
         <p className="mt-8">
-          An-Tsu Chen. An-Tsu worked in THINKLAB from 2016 to 2017. He is currently a Ph.D. student
-          in Economics at University of Washington.
+          An-Tsu Chen. An-Tsu worked in THINKLAB from 2016 to 2017. He was a Ph.D. student
+          in Economics at University of Washington and graduated in 2020.
         </p>
       </div>
     </>
