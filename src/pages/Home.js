@@ -1,6 +1,8 @@
 import "../styles/Home.css"
 import locationIconWhite from "../assets/locationIconWhite.png"
 import locationIconBlue from "../assets/locationIconBlue.png"
+import awardIcon from "../assets/awardIcon.png"
+import degreeIcon from "../assets/degreeIcon.png"
 import whatWeDo from "../assets/whatWeDo.png"
 import sampleQuestions from "../assets/sampleQuestions.png"
 import researchActivities from "../assets/researchActivities.png"
@@ -31,30 +33,49 @@ export const Home = () => {
         {/* Highlight Section */}
         <div className="highlight-section">
           <h3>Lab Highlight</h3>
-          <ul>
-            <li>
-              <img src={locationIconBlue} alt="Event icon" className="inline w-5 h-5 mr-2" />
-              <a
-                href="https://bigdata4mobility.github.io/workshop2025/"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Learn more about the Big Data Workshop"
-              >
-                <b>Workshop</b>: Big Data, AI, and Transportation Planning Applications (May 2025)
-              </a>
-            </li>
-            <li>
-              <img src={locationIconBlue} alt="Event icon" className="inline w-5 h-5 mr-2" />
-              <a
-                href="https://bigdata4mobility.github.io"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Learn more about the LBS Data Review"
-              >
-                <b>Research</b>: Biases in LBS Data and Ways to Address Them for Transportation Planning Applications
-              </a>
-            </li>
-          </ul>
+          <div className="max-h-[calc(100vh-10rem)] overflow-y-auto">
+            <ul>
+              <li>
+                <img src={awardIcon} alt="Award icon" className="inline w-5 h-5 mr-2" />
+                <b>Award</b>: Congratulations to Jeremy Chan for winning 2025 UW graduate school distinguished thesis award! (September 2025)
+              </li>
+              <li>
+                <img src={awardIcon} alt="Award icon" className="inline w-5 h-5 mr-2" />
+                <a
+                  href="https://www.washington.edu/news/2025/07/21/wsas-2025/"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  <b>Award</b>: Congratualations to Dr. Cynthia Chen for beling elected to Washington State Academy of Sciences! (July 2025)
+                </a>
+              </li>
+              <li>
+                <img src={degreeIcon} alt="Degree icon" className="inline w-5 h-5 mr-2" />
+                <b>Degree</b>: Congratuations to Dr. Grace Jia for earning her PhD degree and Jeremy Chan for earning his Master degree! (June 2025)
+              </li>
+              <li>
+                <img src={locationIconBlue} alt="Event icon" className="inline w-5 h-5 mr-2" />
+                <a
+                  href="https://bigdata4mobility.github.io/workshop2025/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Learn more about the Big Data Workshop"
+                >
+                  <b>Workshop</b>: Big Data, AI, and Transportation Planning Applications (May 2025)
+                </a>
+              </li>
+              <li>
+                <img src={locationIconBlue} alt="Event icon" className="inline w-5 h-5 mr-2" />
+                <a
+                  href="https://bigdata4mobility.github.io"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Learn more about the LBS Data Review"
+                >
+                  <b>Research</b>: Biases in LBS Data and Ways to Address Them for Transportation Planning Applications
+                </a>
+              </li>
+            </ul>
+          </div>
         </div>
         <div className="absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-fixed" style={{ ...overlayStyle, zIndex: 10 }}>
           <div className="flex h-full items-center justify-center">

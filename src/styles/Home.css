@@ -141,6 +141,8 @@ h1 span {
   transition: transform 0.3s ease;
   overflow-wrap: break-word;
   /* Ensures text wraps in list items */
+  color: #0a1a5e;
+  /* Matches h3 color for non-link items */
 }
 
 .highlight-section li:hover {
