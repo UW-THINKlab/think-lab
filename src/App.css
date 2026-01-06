@@ -44,3 +44,15 @@ p {
   font-weight: 400;
   color: var(--color-tex-dark);
 }
+
+/* Prevent content from hiding under fixed navbar */
+body {
+  padding-top: 1rem; /* 80px - adjust if your navbar is taller */
+}
+
+/* Optional: slightly more on larger screens if needed */
+@media (min-width: 768px) {
+  body {
+    padding-top: 2rem; /* 96px */
+  }
+}
