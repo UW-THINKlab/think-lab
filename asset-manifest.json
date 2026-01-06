@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/think-lab/static/css/main.65590206.css",
-    "main.js": "/think-lab/static/js/main.a450c044.js",
+    "main.css": "/think-lab/static/css/main.ea721b37.css",
+    "main.js": "/think-lab/static/js/main.68153f45.js",
     "static/media/Hongke_Xie.png": "/think-lab/static/media/Hongke_Xie.03ed9ce8b4c1d8e22251.png",
     "static/media/Ekin_Ugurel.png": "/think-lab/static/media/Ekin_Ugurel.7eb806666afd722e4296.png",
     "static/media/Lyra_Chen.png": "/think-lab/static/media/Lyra_Chen.75b22a472e85a780f5da.png",
@@ -51,11 +51,11 @@
     "static/media/transitRelated.png": "/think-lab/static/media/transitRelated.50c23dad24b25dba9f4b.png",
     "static/media/researchGrants.png": "/think-lab/static/media/researchGrants.547576b3860de939c93d.png",
     "index.html": "/think-lab/index.html",
-    "main.65590206.css.map": "/think-lab/static/css/main.65590206.css.map",
-    "main.a450c044.js.map": "/think-lab/static/js/main.a450c044.js.map"
+    "main.ea721b37.css.map": "/think-lab/static/css/main.ea721b37.css.map",
+    "main.68153f45.js.map": "/think-lab/static/js/main.68153f45.js.map"
   },
   "entrypoints": [
-    "static/css/main.65590206.css",
-    "static/js/main.a450c044.js"
+    "static/css/main.ea721b37.css",
+    "static/js/main.68153f45.js"
   ]
 }
