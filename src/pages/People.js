@@ -9,13 +9,17 @@ import uploadIcon from "../assets/uploadIcon.png";
 import settingIcon from "../assets/settingIcon.png";
 import fixingIcon from "../assets/fixingIcon.png"
 import cynthiaChen from "../assets/THINKLabHeadshots/Cynthia_Chen.png";
-import ekinUgurel from "../assets/THINKLabHeadshots/Ekin_Ugurel.png";
+//import ekinUgurel from "../assets/THINKLabHeadshots/Ekin_Ugurel.png";
 import donghoonSon from "../assets/THINKLabHeadshots/Dong-Hoon_Son.png";
-import adamSchulze from "../assets/THINKLabHeadshots/Adam_Schulze.png";
+//import adamSchulze from "../assets/THINKLabHeadshots/Adam_Schulze.png";
 import lyraChen from "../assets/THINKLabHeadshots/Lyra_Chen.png";
 import hongkeXie from "../assets/THINKLabHeadshots/Hongke_Xie.png";
 import yutengZhang from "../assets/THINKLabHeadshots/Yuteng_Zhang.png"
 import hesamShafienya from "../assets/THINKLabHeadshots/Hesam_Shafienya.png"
+import lexiLiu from "../assets/THINKLabHeadshots/Lexi_Liu.png";
+import peachChansaisakhorn from "../assets/THINKLabHeadshots/Peach_Chansaisakhorn.png";
+import nirajlMali from "../assets/THINKLabHeadshots/Niraj_L_Mali.png";
+
 
 
 export const People = () => {
@@ -146,32 +150,16 @@ export const People = () => {
         <div className="current-members-individual">
           <img
             className="profile"
-            src={ekinUgurel}
-            alt="Ekin Ugurel" />
-          <p>Ekin Ugurel</p>
-          <p>PhD Student and Researcher</p>
+            src={lyraChen}
+            alt="Lyra Chen" />
+          <p>Lyra Chen, Ph.D.</p>
+          <p>Research Scientist</p>
           <p>
-            Ekin received his bachelor’s in civil engineering from the University of Texas at Austin in May 2021, joining the THINK Lab in as a Ph.D. student in September 2021.
-            He earned a master's degree in transportation engineering from the University of Washington.
-            His research aims to innovate novel methods to model mobile data (i.e. GPS traces from mobile devices) for human mobility analysis.
-            He is particularly interested in kernel-based techniques to uncover non-linear spatiotemporal relationships in high dimensions.
-            He is also interested in applications of mobile data for inference in social science (i.e., in disaster detection, innovation studies, and travel behavior).
-            LinkedIn: <a href="https://www.linkedin.com/in/ekin-ugurel/" class="link-style">https://www.linkedin.com/in/ekin-ugurel/</a>
-          </p>
-        </div>
-
-        <div className="current-members-individual">
-          <img
-            className="profile"
-            src={adamSchulze}
-            alt="Adam Schulze" />
-          <p>Adam Schulze</p>
-          <p>MS Student and Researcher</p>
-          <p>
-            Adam received his bachelor's degree in Computer Science from Harvey Mudd College in 2019.
-            He worked as a software engineer before joining the University of Washington in September 2024.
-            His current research focuses on platform integration of demand-response transportation.
-            He is also interested in transportation network optimization problems related to public transit.
+            Lyra Chen received her Ph.D. in Civil Engineering from the City College, City University of New York.
+            She joined THINK Lab in 2025 as a research scientist helping manage the lab and lead research projects in the lab.
+            Her research interests include transportation safety, modeling the effectiveness of traffic calming measures on
+            reducing crashes and impacts of street redesign on travel pattern and mobility, and travel behavior and demand analysis
+            using location-based service (LBS) data.
           </p>
         </div>
 
@@ -187,24 +175,6 @@ export const People = () => {
             and M.S. and B.S. degrees from Inha University. He joined the THINK lab as a postdoctoral scholar
             in December 2024. His research interests include transportation engineering, platform economics,
             resilience and pricing and incentive strategies.
-
-          </p>
-        </div>
-
-        <div className="current-members-individual">
-          <img
-            className="profile"
-            src={lyraChen}
-            alt="Lyra Chen" />
-          <p>Lyra Chen, Ph.D.</p>
-          <p>Research Scientist</p>
-          <p>
-            Lyra Chen received her Ph.D. in Civil Engineering from the City College, City University of New York.
-            She joined THINK Lab in 2025 as a research scientist helping manage the lab and lead research projects in the lab.
-            Her research interests include transportation safety, modeling the effectiveness of traffic calming measures on
-            reducing crashes and impacts of street redesign on travel pattern and mobility, and travel behavior and demand analysis
-            using location service based (LBS) data.
-
           </p>
         </div>
 
@@ -252,7 +222,51 @@ export const People = () => {
             optimize transportation systems, and foster safer, more sustainable urban environments.
           </p>
         </div>
+
+        <div className="current-members-individual">
+          <img
+            className="profile"
+            src={lexiLiu}
+            alt="Lexi Liu" />
+          <p>Lexi Liu</p>
+          <p>PhD Student and Researcher</p>
+          <p>
+            Lexi (Xu) Liu is a PhD student in the Department of Statistics at UW. Her work is broadly interested in time series and nonparametric statistics.
+            She enjoys combining theory with practical analysis and is especially motivated by research that connects modern data science with applied domains.
+          </p>
+        </div>
+
+        <div className="current-members-individual">
+          <img
+            className="profile"
+            src={peachChansaisakhorn}
+            alt="Peach Chansaisakhorn" />
+          <p>Peach Chansaisakhorn</p>
+          <p>MS Student and Researcher</p>
+          <p>
+            Peach Chansaisakhorn is a Master student in Supply Chain Management at the University of Washington Foster School of Business.
+            She received her bachelor's degree in Industrial Engineering from the University of Wisconsin-Madison.
+            Her research interests focus on supply chain and transportation system resilience, information sharing, and decision-making under uncertainty.
+            She is particularly interested in behavioral and data-driven approaches to understanding cooperation and resource allocation,
+            with applications in logistics and platform-based systems.
+          </p>
+        </div>
+
+        <div className="current-members-individual">
+          <img
+            className="profile"
+            src={nirajlMali}
+            alt="Niraj L. Mali" />
+          <p>Niraj L. Mali</p>
+          <p>MS Student and Researcher</p>
+          <p>
+            Niraj received his bachelor's degree in Computer Science from the University of Portland in 2021. After working for 4.5 years in the software industry,
+            he joined University of Washington in September of 2025. Currently he is a PMP Master's Student in the Transportation Engineering program.
+            His research interests include travel behavior patterns and software-driven methods for analyzing and improving transportation systems.
+          </p>
+        </div>
       </div>
+
       {/* Previous Members Header */}
       <div className="section-headers">
         <img

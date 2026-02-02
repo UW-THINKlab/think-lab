@@ -37,7 +37,21 @@ export const Home = () => {
             <ul>
               <li>
                 <img src={awardIcon} alt="Award icon" className="inline w-5 h-5 mr-2" />
-                <b>Award</b>: Congratulations to Jeremy Chan for winning 2025 UW graduate school distinguished thesis award! (September 2025)
+                <b>Award</b>: Paper "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0967070X25003154" target="_blank" rel="noopener noreferrer">COVID & telecommuting-induced changes in individual activity and travel patterns: Evidence from the Puget Sound Region</a>" won the Zephyr Foundation 2026 Technical Achievement Award!
+                Congratualations to Dr. Grace Jia and all the co-authors! (January 2026)
+              </li>
+              <li>
+                <img src={awardIcon} alt="Award icon" className="inline w-5 h-5 mr-2" />
+                <a
+                  href="https://www.ce.washington.edu/news/article/2026-01-08/when-streets-become-more-car-lanes"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  <b>Award</b>: Congratulations to Jeremy Chan for winning 2025 UW graduate school distinguished thesis award! (September 2025)
+                </a>
+              </li>
+              <li>
+                <img src={degreeIcon} alt="Degree icon" className="inline w-5 h-5 mr-2" />
+                <b>Degree</b>: Congratuations to Dr. Ekin Ugurel for earning his PhD degree! (December 2025)
               </li>
               <li>
                 <img src={awardIcon} alt="Award icon" className="inline w-5 h-5 mr-2" />
@@ -45,12 +59,12 @@ export const Home = () => {
                   href="https://www.washington.edu/news/2025/07/21/wsas-2025/"
                   target="_blank"
                   rel="noopener noreferrer">
-                  <b>Award</b>: Congratualations to Dr. Cynthia Chen for beling elected to Washington State Academy of Sciences! (July 2025)
+                  <b>Award</b>: Congratualations to Dr. Cynthia Chen for being elected to Washington State Academy of Sciences! (July 2025)
                 </a>
               </li>
               <li>
                 <img src={degreeIcon} alt="Degree icon" className="inline w-5 h-5 mr-2" />
-                <b>Degree</b>: Congratuations to Dr. Grace Jia for earning her PhD degree and Jeremy Chan for earning his Master degree! (June 2025)
+                <b>Degree</b>: Congratuations to Dr. Grace Jia for earning her PhD degree! (June 2025)
               </li>
               <li>
                 <img src={locationIconBlue} alt="Event icon" className="inline w-5 h-5 mr-2" />

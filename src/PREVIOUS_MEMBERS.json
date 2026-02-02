@@ -1,5 +1,17 @@
 [
   {
+    "name": "Ekin Ugurel",
+    "degree": "PhD",
+    "year": "2021-2025",
+    "thesis": "Behaviorally Informed Machine Learning for Human Mobility"
+  },
+  {
+    "name": "Rie (Adam) Schulze",
+    "degree": "MS",
+    "year": "2024-2025",
+    "thesis": "Integrating King County Metro's Demand-Response Transportation (DRT) Services in the Seattle Metro Area: A Data and Technology Perspective"
+  },
+  {
     "name": "Grace Jia",
     "degree": "PhD",
     "year": "2021-2025",
