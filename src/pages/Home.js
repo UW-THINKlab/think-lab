@@ -32,13 +32,17 @@ export const Home = () => {
         className="background relative overflow-hidden bg-cover bg-no-repeat">
         {/* Highlight Section */}
         <div className="highlight-section">
-          <h3>Lab Highlight</h3>
+          <h3>Lab Highlights</h3>
           <div className="max-h-[calc(100vh-10rem)] overflow-y-auto">
             <ul>
               <li>
                 <img src={awardIcon} alt="Award icon" className="inline w-5 h-5 mr-2" />
-                <b>Award</b>: Paper "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0967070X25003154" target="_blank" rel="noopener noreferrer">COVID & telecommuting-induced changes in individual activity and travel patterns: Evidence from the Puget Sound Region</a>" won the Zephyr Foundation 2026 Technical Achievement Award!
+                <b>Award</b>: Paper "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0967070X25003154" target="_blank" rel="noopener noreferrer">COVID & telecommuting-induced changes in individual activity and travel patterns: Evidence from the Puget Sound Region</a>" won the 2026 Zephyr Foundation Technical Achievement Award!
                 Congratualations to Dr. Grace Jia and all the co-authors! (January 2026)
+              </li>
+              <li>
+                <img src={degreeIcon} alt="Degree icon" className="inline w-5 h-5 mr-2" />
+                <b>Degree</b>: Congratuations to Dr. Ekin Ugurel for earning his PhD degree and Rie (Adam) Schulze for earning his Master degree! (December 2025)
               </li>
               <li>
                 <img src={awardIcon} alt="Award icon" className="inline w-5 h-5 mr-2" />
@@ -48,10 +52,6 @@ export const Home = () => {
                   rel="noopener noreferrer">
                   <b>Award</b>: Congratulations to Jeremy Chan for winning 2025 UW graduate school distinguished thesis award! (September 2025)
                 </a>
-              </li>
-              <li>
-                <img src={degreeIcon} alt="Degree icon" className="inline w-5 h-5 mr-2" />
-                <b>Degree</b>: Congratuations to Dr. Ekin Ugurel for earning his PhD degree! (December 2025)
               </li>
               <li>
                 <img src={awardIcon} alt="Award icon" className="inline w-5 h-5 mr-2" />
@@ -64,7 +64,7 @@ export const Home = () => {
               </li>
               <li>
                 <img src={degreeIcon} alt="Degree icon" className="inline w-5 h-5 mr-2" />
-                <b>Degree</b>: Congratuations to Dr. Grace Jia for earning her PhD degree! (June 2025)
+                <b>Degree</b>: Congratuations to Dr. Grace Jia for earning her PhD degree and Jeremy Chan for earning his Master degree! (June 2025)
               </li>
               <li>
                 <img src={locationIconBlue} alt="Event icon" className="inline w-5 h-5 mr-2" />
@@ -75,17 +75,6 @@ export const Home = () => {
                   aria-label="Learn more about the Big Data Workshop"
                 >
                   <b>Workshop</b>: Big Data, AI, and Transportation Planning Applications (May 2025)
-                </a>
-              </li>
-              <li>
-                <img src={locationIconBlue} alt="Event icon" className="inline w-5 h-5 mr-2" />
-                <a
-                  href="https://bigdata4mobility.github.io"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Learn more about the LBS Data Review"
-                >
-                  <b>Research</b>: Biases in LBS Data and Ways to Address Them for Transportation Planning Applications
                 </a>
               </li>
             </ul>

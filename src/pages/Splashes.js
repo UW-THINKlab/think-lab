@@ -122,7 +122,7 @@ export const Splashes = () => {
           <div className="other-splash-card">
             <div className="content">
               <p>
-                Our new step towards understanding transportation big data: read our recent work <a href="https://www.sciencedirect.com/science/article/pii/S0968090X25004206" class="link-style" target="_blank" rel="noopener noreferrer">From biases to opportunities: leveraging Location-Based-Service (LBS) data for next-generation transportation planning</a> <br /> and <br /> <a href="https://www.sciencedirect.com/science/article/abs/pii/S096669232400317X?via%3Dihub" class="link-style" target="_blank" rel="noopener noreferrer">Exploring biases in travel behavior patterns in big passively generated mobile data from 11 U.S. cities</a>
+                Our new step towards understanding transportation big data: read our recent work - <a href="https://bigdata4mobility.github.io" class="link-style" target="_blank" rel="noopener noreferrer">project website</a>, papers: <a href="https://www.sciencedirect.com/science/article/pii/S0968090X25004206" class="link-style" target="_blank" rel="noopener noreferrer">From biases to opportunities: leveraging Location-Based-Service (LBS) data for next-generation transportation planning</a> <br /> and <br /> <a href="https://www.sciencedirect.com/science/article/abs/pii/S096669232400317X?via%3Dihub" class="link-style" target="_blank" rel="noopener noreferrer">Exploring biases in travel behavior patterns in big passively generated mobile data from 11 U.S. cities</a>
               </p>
             </div>
           </div>
