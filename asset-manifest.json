@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/think-lab/static/css/main.ea721b37.css",
-    "main.js": "/think-lab/static/js/main.68153f45.js",
+    "main.css": "/think-lab/static/css/main.26304875.css",
+    "main.js": "/think-lab/static/js/main.788c6902.js",
+    "static/media/trb_thinklab_2026.png": "/think-lab/static/media/trb_thinklab_2026.1d574d253610aeede5b3.png",
+    "static/media/Peach_Chansaisakhorn.png": "/think-lab/static/media/Peach_Chansaisakhorn.305b482a54b936a83f0e.png",
     "static/media/Hongke_Xie.png": "/think-lab/static/media/Hongke_Xie.03ed9ce8b4c1d8e22251.png",
-    "static/media/Ekin_Ugurel.png": "/think-lab/static/media/Ekin_Ugurel.7eb806666afd722e4296.png",
+    "static/media/Niraj_L_Mali.png": "/think-lab/static/media/Niraj_L_Mali.a4e3d80a0ab773e8f0af.png",
     "static/media/Lyra_Chen.png": "/think-lab/static/media/Lyra_Chen.75b22a472e85a780f5da.png",
+    "static/media/WSAS-2025.png": "/think-lab/static/media/WSAS-2025.31abd71c4b9ee6caab36.png",
     "static/media/hero.jpg": "/think-lab/static/media/hero.a5f7d64adb9f1dca8564.jpg",
     "static/media/Dong-Hoon_Son.png": "/think-lab/static/media/Dong-Hoon_Son.132c18dd9b9261749a56.png",
+    "static/media/Lexi_Liu.png": "/think-lab/static/media/Lexi_Liu.4eceb0ac281968f5a3c2.png",
+    "static/media/zephyr_award_2026.png": "/think-lab/static/media/zephyr_award_2026.d3c5754d4624102d201b.png",
     "static/media/Yuteng_Zhang.png": "/think-lab/static/media/Yuteng_Zhang.65b49aadac176af17fc4.png",
+    "static/media/thesis_award_2025.png": "/think-lab/static/media/thesis_award_2025.97b517ba68109833e8be.png",
     "static/media/theSplashesTitle.png": "/think-lab/static/media/theSplashesTitle.210a83f57d5dcb9dae36.png",
-    "static/media/Adam_Schulze.png": "/think-lab/static/media/Adam_Schulze.77f96f0e91823185ffb9.png",
     "static/media/TOMNET.png": "/think-lab/static/media/TOMNET.d8161f823cea962aa056.png",
     "static/media/learningAlongConcepts.png": "/think-lab/static/media/learningAlongConcepts.809add981644dbdbec79.png",
     "static/media/Hesam_Shafienya.png": "/think-lab/static/media/Hesam_Shafienya.dc4a1486e640e76dbe49.png",
@@ -19,16 +24,12 @@
     "static/media/DOT.png": "/think-lab/static/media/DOT.99c219a7a1ba2868a345.png",
     "static/media/THINKword.png": "/think-lab/static/media/THINKword.5a51c12880cf857bcede.png",
     "static/media/scienceSymbol.png": "/think-lab/static/media/scienceSymbol.a7a731397730848a5935.png",
-    "static/media/nationalCenter.png": "/think-lab/static/media/nationalCenter.ed3d279038b6f22cab7a.png",
     "static/media/whatWeDo.png": "/think-lab/static/media/whatWeDo.331bdf8f02ed43efcfbd.png",
-    "static/media/drGuan.png": "/think-lab/static/media/drGuan.c20a49967a676ec06ee5.png",
     "static/media/FHWA.png": "/think-lab/static/media/FHWA.46e9c564e64bb7a9379b.png",
     "static/media/FHA.png": "/think-lab/static/media/FHA.e1c73f86bb0ba2573572.png",
     "static/media/Network(Dots).png": "/think-lab/static/media/Network(Dots).4fdec990e8c409e6c05d.png",
     "static/media/mechanismLearning.png": "/think-lab/static/media/mechanismLearning.43564153222433d9aec8.png",
-    "static/media/adaptableCitiesProject.png": "/think-lab/static/media/adaptableCitiesProject.97dad896c9819795f801.png",
     "static/media/researchPurposesIcon.png": "/think-lab/static/media/researchPurposesIcon.97b32c2f4e1616a89129.png",
-    "static/media/joanneLin.png": "/think-lab/static/media/joanneLin.6563b6ebb3e7eff473f5.png",
     "static/media/sampleQuestions.png": "/think-lab/static/media/sampleQuestions.b25ca610ed6dc0921cef.png",
     "static/media/NIH.png": "/think-lab/static/media/NIH.34b1e3f87c278e1affe6.png",
     "static/media/resilienceInfrastructure.png": "/think-lab/static/media/resilienceInfrastructure.ff6aafe6a33d60b39af1.png",
@@ -51,11 +52,11 @@
     "static/media/transitRelated.png": "/think-lab/static/media/transitRelated.50c23dad24b25dba9f4b.png",
     "static/media/researchGrants.png": "/think-lab/static/media/researchGrants.547576b3860de939c93d.png",
     "index.html": "/think-lab/index.html",
-    "main.ea721b37.css.map": "/think-lab/static/css/main.ea721b37.css.map",
-    "main.68153f45.js.map": "/think-lab/static/js/main.68153f45.js.map"
+    "main.26304875.css.map": "/think-lab/static/css/main.26304875.css.map",
+    "main.788c6902.js.map": "/think-lab/static/js/main.788c6902.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea721b37.css",
-    "static/js/main.68153f45.js"
+    "static/css/main.26304875.css",
+    "static/js/main.788c6902.js"
   ]
 }
