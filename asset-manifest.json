@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/think-lab/static/css/main.26304875.css",
-    "main.js": "/think-lab/static/js/main.89aaf7cd.js",
+    "main.css": "/think-lab/static/css/main.8af6afe6.css",
+    "main.js": "/think-lab/static/js/main.b89b79f6.js",
     "static/media/trb_thinklab_2026.png": "/think-lab/static/media/trb_thinklab_2026.1d574d253610aeede5b3.png",
     "static/media/Peach_Chansaisakhorn.png": "/think-lab/static/media/Peach_Chansaisakhorn.305b482a54b936a83f0e.png",
     "static/media/Hongke_Xie.png": "/think-lab/static/media/Hongke_Xie.03ed9ce8b4c1d8e22251.png",
     "static/media/Niraj_L_Mali.png": "/think-lab/static/media/Niraj_L_Mali.a4e3d80a0ab773e8f0af.png",
     "static/media/Lyra_Chen.png": "/think-lab/static/media/Lyra_Chen.75b22a472e85a780f5da.png",
     "static/media/WSAS-2025.png": "/think-lab/static/media/WSAS-2025.31abd71c4b9ee6caab36.png",
+    "static/media/Jingjue_Bao.png": "/think-lab/static/media/Jingjue_Bao.3a7619a74260aff9892a.png",
     "static/media/hero.jpg": "/think-lab/static/media/hero.a5f7d64adb9f1dca8564.jpg",
+    "static/media/Andrew_Zunt.png": "/think-lab/static/media/Andrew_Zunt.4bf247c8a4db60599991.png",
     "static/media/Dong-Hoon_Son.png": "/think-lab/static/media/Dong-Hoon_Son.132c18dd9b9261749a56.png",
     "static/media/Lexi_Liu.png": "/think-lab/static/media/Lexi_Liu.4eceb0ac281968f5a3c2.png",
     "static/media/zephyr_award_2026.png": "/think-lab/static/media/zephyr_award_2026.d3c5754d4624102d201b.png",
@@ -52,11 +54,11 @@
     "static/media/transitRelated.png": "/think-lab/static/media/transitRelated.50c23dad24b25dba9f4b.png",
     "static/media/researchGrants.png": "/think-lab/static/media/researchGrants.547576b3860de939c93d.png",
     "index.html": "/think-lab/index.html",
-    "main.26304875.css.map": "/think-lab/static/css/main.26304875.css.map",
-    "main.89aaf7cd.js.map": "/think-lab/static/js/main.89aaf7cd.js.map"
+    "main.8af6afe6.css.map": "/think-lab/static/css/main.8af6afe6.css.map",
+    "main.b89b79f6.js.map": "/think-lab/static/js/main.b89b79f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.26304875.css",
-    "static/js/main.89aaf7cd.js"
+    "static/css/main.8af6afe6.css",
+    "static/js/main.b89b79f6.js"
   ]
 }
