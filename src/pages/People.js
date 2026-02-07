@@ -19,7 +19,8 @@ import hesamShafienya from "../assets/THINKLabHeadshots/Hesam_Shafienya.png"
 import lexiLiu from "../assets/THINKLabHeadshots/Lexi_Liu.png";
 import peachChansaisakhorn from "../assets/THINKLabHeadshots/Peach_Chansaisakhorn.png";
 import nirajlMali from "../assets/THINKLabHeadshots/Niraj_L_Mali.png";
-
+import andrewZunt from "../assets/THINKLabHeadshots/Andrew_Zunt.png";
+import jingjueBao from "../assets/THINKLabHeadshots/Jingjue_Bao.png";
 
 
 export const People = () => {
@@ -181,21 +182,6 @@ export const People = () => {
         <div className="current-members-individual">
           <img
             className="profile"
-            src={hongkeXie}
-            alt="Hongke Xie" />
-          <p>Hongke Xie</p>
-          <p>Visiting PhD Student</p>
-          <p>
-            Hongke Xie received his bachelor's degree in information management and information system from the China University of
-            Geosciences  in 2020. He is now puesuing his Ph.D. degree in the University of Electronic Science and Technology of China.
-            He came to University of Washington and joined THINK Lab as a visiting student in 2025. His research interests include
-            resource sharing during disasters, as well as parking sharing.
-          </p>
-        </div>
-
-        <div className="current-members-individual">
-          <img
-            className="profile"
             src={yutengZhang}
             alt="Yuteng Zhang" />
           <p>Yuteng Zhang</p>
@@ -255,6 +241,20 @@ export const People = () => {
         <div className="current-members-individual">
           <img
             className="profile"
+            src={andrewZunt}
+            alt="Andrew Zunt" />
+          <p>Andrew Zunt</p>
+          <p>MS Student and Researcher</p>
+          <p>
+            Andrew is pursuing his Master’s degree in Transportation Engineering from the University of Washington. After completing a Bachelor’s degree 
+            in Computer Science at UW in 2018, he spent 6 years working for Amazon Music in San Francisco, where he developed features for the mobile application and maintained backend infrastructure. 
+            His research interests center around public transit and the built environment, specifically with regards to social behavior and evaluating the effectiveness of potential improvements.
+          </p>
+        </div>
+
+        <div className="current-members-individual">
+          <img
+            className="profile"
             src={nirajlMali}
             alt="Niraj L. Mali" />
           <p>Niraj L. Mali</p>
@@ -263,6 +263,34 @@ export const People = () => {
             Niraj received his bachelor's degree in Computer Science from the University of Portland in 2021. After working for 4.5 years in the software industry,
             he joined University of Washington in September of 2025. Currently he is a PMP Master's Student in the Transportation Engineering program.
             His research interests include travel behavior patterns and software-driven methods for analyzing and improving transportation systems.
+          </p>
+        </div>
+
+        <div className="current-members-individual">
+          <img
+            className="profile"
+            src={hongkeXie}
+            alt="Hongke Xie" />
+          <p>Hongke Xie</p>
+          <p>Visiting PhD Student</p>
+          <p>
+            Hongke Xie received his bachelor's degree in information management and information system from the China University of
+            Geosciences  in 2020. He is now puesuing his Ph.D. degree in the University of Electronic Science and Technology of China.
+            He came to University of Washington and joined THINK Lab as a visiting student in 2025. His research interests include
+            resource sharing during disasters, as well as parking sharing.
+          </p>
+        </div>
+
+        <div className="current-members-individual">
+          <img
+            className="profile"
+            src={jingjueBao}
+            alt="Jingjue Bao" />
+          <p>Jingjue Bao</p>
+          <p>Visiting PhD Student</p>
+          <p>
+            Jingjue Bao completed his Master’s studies and is currently pursuing his Ph.D. degree in Transportation Engineering at Tongji University.  
+            He joined the THINK Lab at University of Washington as a visiting student in 2026. His research interests include travel behavior analysis and urban spatial planning. 
           </p>
         </div>
       </div>

@@ -42,7 +42,7 @@ export const Home = () => {
               </li>
               <li>
                 <img src={degreeIcon} alt="Degree icon" className="inline w-5 h-5 mr-2" />
-                <b>Degree</b>: Congratuations to Dr. Ekin Ugurel for earning his PhD degree and Rie (Adam) Schulze for earning his Master degree! (December 2025)
+                <b>Degree</b>: Congratuations to Dr. Ekin Ugurel for earning his PhD degree and Rie (Adam) Schulze for earning the Master degree! (December 2025)
               </li>
               <li>
                 <img src={awardIcon} alt="Award icon" className="inline w-5 h-5 mr-2" />
@@ -64,7 +64,7 @@ export const Home = () => {
               </li>
               <li>
                 <img src={degreeIcon} alt="Degree icon" className="inline w-5 h-5 mr-2" />
-                <b>Degree</b>: Congratuations to Dr. Grace Jia for earning her PhD degree and Jeremy Chan for earning his Master degree! (June 2025)
+                <b>Degree</b>: Congratuations to Dr. Grace Jia for earning her PhD degree and Jeremy Chan for earning the Master degree! (June 2025)
               </li>
               <li>
                 <img src={locationIconBlue} alt="Event icon" className="inline w-5 h-5 mr-2" />
