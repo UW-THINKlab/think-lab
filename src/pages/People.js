@@ -21,6 +21,7 @@ import peachChansaisakhorn from "../assets/THINKLabHeadshots/Peach_Chansaisakhor
 import nirajlMali from "../assets/THINKLabHeadshots/Niraj_L_Mali.png";
 import andrewZunt from "../assets/THINKLabHeadshots/Andrew_Zunt.png";
 import jingjueBao from "../assets/THINKLabHeadshots/Jingjue_Bao.png";
+import shoheiNagata from "../assets/THINKLabHeadshots/Shohei_Nagata.png";
 
 
 export const People = () => {
@@ -182,15 +183,15 @@ export const People = () => {
         <div className="current-members-individual">
           <img
             className="profile"
-            src={yutengZhang}
-            alt="Yuteng Zhang" />
-          <p>Yuteng Zhang</p>
-          <p>MS Student and Researcher</p>
+            src={shoheiNagata}
+            alt="Shohei Nagata" />
+          <p>Shohei Nagata, Ph.D.</p>
+          <p>Visiting Scholar</p>
           <p>
-            Yuteng received his bachelor's degree in Software Engineering from Jilin University and is
-            currently pursuing a Master's degree in Industrial and Systems Engineering at the University of Washington.
-            His research focuses on transportation big data, human mobility, and optimization. He is also interested in
-            the application of machine learning and reinforcement learning in transportation systems.
+            Dr. Shohei Nagata is a Visiting Scholar in the Department of Civil and Environmental Engineering at the University of Washington. 
+            He received his Ph.D. in Environmental Studies from Tohoku University, Japan, in 2022. 
+            His research focuses on human geography, GIScience, and disaster management, with an emphasis on human mobility analysis using big data to assess social and urban resilience. 
+            In recent years, he has studied human movement patterns during emergencies, including earthquakes and the COVID-19 pandemic
           </p>
         </div>
 
@@ -219,6 +220,21 @@ export const People = () => {
           <p>
             Lexi (Xu) Liu is a PhD student in the Department of Statistics at UW. Her work is broadly interested in time series and nonparametric statistics.
             She enjoys combining theory with practical analysis and is especially motivated by research that connects modern data science with applied domains.
+          </p>
+        </div>
+
+        <div className="current-members-individual">
+          <img
+            className="profile"
+            src={yutengZhang}
+            alt="Yuteng Zhang" />
+          <p>Yuteng Zhang</p>
+          <p>MS Student and Researcher</p>
+          <p>
+            Yuteng received his bachelor's degree in Software Engineering from Jilin University and is
+            currently pursuing a Master's degree in Industrial and Systems Engineering at the University of Washington.
+            His research focuses on transportation big data, human mobility, and optimization. He is also interested in
+            the application of machine learning and reinforcement learning in transportation systems.
           </p>
         </div>
 
