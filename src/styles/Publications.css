@@ -14,12 +14,15 @@
 
 .card {
   width: 18.44rem;
-  height: 16.80rem;
+  /* min-height, not height: cards carrying a ResearchBunny widget grow to fit it */
+  min-height: 16.80rem;
   margin-top: 0.69rem;
   margin-bottom: 0;
 }
 
-.card span {
+/* Scoped to the card's own fields so the widget's markup isn't restyled */
+.card-content > .card-title > span,
+.card-content > p > span {
   text-decoration: underline;
 }
 
@@ -27,7 +30,7 @@
   font-size: 1rem;;
 }
 
-.card p {
+.card-content > p {
   font-size: 0.75rem;;
   text-align: left;
   margin: 0;
@@ -37,13 +40,31 @@
   font-size: 0.75rem;
 }
 
+/* ResearchBunny widget — see docs/researchbunny-widget.md */
+.card-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  padding-bottom: 0.5rem;
+}
+
+.rb-widget-slot span {
+  text-decoration: none;
+}
+
+.rb-widget-slot p {
+  font-size: initial;
+  margin: revert;
+}
+
 .blue-bar {
   background-color: var(--color-primary);
   width: 18.4375rem;
   height: 0.625rem;
 }
 
-#bottom-bar {
+.bottom-bar {
   margin-bottom: 2.44rem;
 }
 

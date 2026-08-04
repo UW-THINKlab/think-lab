@@ -33,6 +33,11 @@ npm start
 ```
 When you run npm start, the website will be open automatically on your device's browser. If the website does not open, you can paste http://localhost:3000/ in your device's broswer.
 
+## ResearchBunny widgets
+Selected publications show a ResearchBunny button (audio brief, infographic, video, chat with
+the paper) next to "Read More". See [docs/researchbunny-widget.md](docs/researchbunny-widget.md)
+for how to add, remove or uninstall them.
+
 ## Updating the website
 After updating the website locally, run the following commands to update the website.
 

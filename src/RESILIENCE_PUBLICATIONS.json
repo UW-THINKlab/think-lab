@@ -1,5 +1,13 @@
 [
   {
+    "title": "The efficacy of decentralized disaster relief resource allocation within communities: The role of community-based sharing captains",
+    "journal": "Transportation Research Part E, January 2026, 104690",
+    "author": "Wang, O., Li, Z., and Chen, C.",
+    "year": "2026",
+    "link": "https://doi.org/10.1016/j.tre.2026.104690",
+    "rbPaperId": "cmrgjxfg5000r112hlqz01otm"
+  },
+  {
     "title": "The 15-minute city around one's trajectory: Evaluating food accessibility for transit users in Stockholm, Sweden",
     "journal": "Journal of Transport Geography, July 2025",
     "author": "Ng, K., Chen, C., and Jenelius, E.",
@@ -11,7 +19,8 @@
     "journal": "Nature Cities, December 2024",
     "author": "Li, Z., Idziorek, K., Chen, A., and Chen, C.",
     "year": "2024",
-    "link": "https://doi.org/10.1038/s44284-024-00175-w"
+    "link": "https://doi.org/10.1038/s44284-024-00175-w",
+    "rbPaperId": "cmrgjxfc1000n112h5vt5mgdp"
   },
   {
     "title": "On Your own, together: Regional perspectives on community resource-sharing for disaster preparedness in Washington state",
@@ -39,7 +48,8 @@
     "journal": "Proceedings of the National Academy of Sciences",
     "author": "Guan, X. and Chen, C.",
     "year": "2018",
-    "link": "https://www.pnas.org/doi/full/10.1073/pnas.1722313115"
+    "link": "https://www.pnas.org/doi/full/10.1073/pnas.1722313115",
+    "rbPaperId": "cmrgjxlgi000v112h8b735g9v"
   },
   {
     "title": "Tracking the Evolution of Infrastructure Systems and Mass Responses Using Publically Available Data",
