@@ -9,9 +9,9 @@ const toList = (value) =>
 
 const ResearchBunnyWidget = ({
   paperId,
-  formats = "audio,reels,infographic",
+  formats = "all",
   languages = "all",
-  theme = "navy",
+  theme = "rb",
   style = "tag",
 }) => {
   const containerRef = useRef(null);

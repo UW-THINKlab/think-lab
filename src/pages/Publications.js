@@ -33,7 +33,9 @@ const PublicationCard = ({ eachCard }) => (
           {eachCard.rbPaperId && (
             <ResearchBunnyWidget
               paperId={eachCard.rbPaperId}
-              formats={eachCard.rbFormats || "all"}/>
+              formats={eachCard.rbFormats || "audio,reels,infographic"}
+              theme={"navy"}
+            />
           )}
         </div>
         </div>
