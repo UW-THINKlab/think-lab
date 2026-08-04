@@ -11,7 +11,7 @@ const ResearchBunnyWidget = ({
   paperId,
   formats = "audio,reels,infographic",
   languages = "all",
-  theme = "rb",
+  theme = "navy",
   style = "tag",
 }) => {
   const containerRef = useRef(null);
