@@ -9,7 +9,7 @@ const toList = (value) =>
 
 const ResearchBunnyWidget = ({
   paperId,
-  formats = "all",
+  formats = "audio,reels,infographic",
   languages = "all",
   theme = "rb",
   style = "tag",
