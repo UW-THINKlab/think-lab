@@ -6,6 +6,13 @@
   display: flex;
 }
 
+/* Representative Papers with Multimedia */
+.representativePapers {
+  width: 24rem;
+  height: 4.75rem;
+  margin-top: 1.5rem;
+}
+
 .resilienceInfrastructure {
   width: 22.625rem;
   height: 4.75rem;

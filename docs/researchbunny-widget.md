@@ -40,6 +40,11 @@ Three files are involved:
 That is the whole change. Nothing in `Publications.js` needs editing — every card checks for
 `rbPaperId` and renders the widget only when it is present.
 
+`rbPaperId` also decides *where* the paper appears: a paper that has one is lifted out of its
+thematic section and shown in **Representative Papers with Multimedia**, the first section on the
+page. The record still lives in its original `*_PUBLICATIONS.json` file — the grouping is
+computed at render time, so nothing moves between JSON files.
+
 If the paper isn't on the page yet, add a normal publication record first
 (`title` / `journal` / `author` / `year` / `link`), then give it an `rbPaperId`.
 
@@ -78,7 +83,9 @@ passing props in `Publications.js`:
 ## Remove one widget
 
 Delete the `rbPaperId` (and `rbFormats`) line from that paper's JSON record. The card goes
-back to being a plain citation with "Read More".
+back to being a plain citation with "Read More", and returns to its thematic section. Remove the
+last `rbPaperId` on the page and the "Representative Papers with Multimedia" section disappears
+with it rather than leaving an empty heading.
 
 ## Uninstall completely
 
@@ -91,9 +98,14 @@ Then:
 1. Delete `src/components/ResearchBunnyWidget.js`.
 2. In `src/pages/Publications.js`, remove the `ResearchBunnyWidget` import and, inside
    `PublicationCard`, drop the `{eachCard.rbPaperId && (...)}` block along with the
-   `<div className="card-actions">` wrapper around `Card.Link`.
+   `<div className="card-actions">` wrapper around `Card.Link`. Then delete the
+   `hasWidget` / `withoutWidgets` / `featuredData` helpers, the
+   `{featuredData.length > 0 && (...)}` section (plus its
+   `representativePapersMultimedia.png` import), and unwrap the seven
+   `withoutWidgets(...)` calls back to plain assignments.
 3. Strip every `rbPaperId` / `rbFormats` field from the `src/*_PUBLICATIONS.json` files.
-4. In `src/styles/Publications.css`, delete the `.card-actions` and `.rb-widget-slot` rules.
+4. In `src/styles/Publications.css`, delete the `.card-actions`, `.rb-widget-slot` and
+   `.representativePapers` rules, and `src/assets/representativePapersMultimedia.png`.
    The `min-height` on `.card` and the scoped `.card-content > …` selectors are harmless to
    leave in place.
 
