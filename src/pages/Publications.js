@@ -9,6 +9,7 @@ import transitData from "../TRANSIT_PUBLICATIONS.json";
 import residentialData from "../RESIDENTIAL_PUBLICATIONS.json";
 import otherData from "../OTHER_PUBLICATIONS.json";
 import locationIconBlue from "../assets/locationIconBlue.png";
+import representativePapers from "../assets/representativePapersMultimedia.png";
 import resilienceInfrastucture from "../assets/resilienceInfrastructure.png";
 import mechanismLearning from "../assets/mechanismLearning.png";
 import mobilityAnalysis from "../assets/mobilityAnalysis.png";
@@ -17,7 +18,16 @@ import transitRelated from "../assets/transitRelated.png";
 import residentialChoice from "../assets/residentalChoices.png";
 
 // A publication with an "rbPaperId" also gets a ResearchBunny widget next to
-// "Read More" — see docs/researchbunny-widget.md
+// "Read More", and is pulled out of its thematic section into "Representative
+// Papers with Multimedia" at the top — see docs/researchbunny-widget.md
+const hasWidget = (paper) => Boolean(paper.rbPaperId);
+const withoutWidgets = (list) => list.filter((paper) => !hasWidget(paper));
+
+const featuredData = [
+  resilienceData, mechanismData, mobilityData, safetyData,
+  transitData, residentialData, otherData,
+].flatMap((list) => list.filter(hasWidget));
+
 const PublicationCard = ({ eachCard }) => (
   <div className="card-item">
     <div className="blue-bar"></div>
@@ -54,19 +64,37 @@ const PublicationCards = ({ publications }) => (
 );
 
 export const Publications = () => {
-  let resArr = resilienceData;
-  let mechArr = mechanismData;
-  let mobArr = mobilityData;
-  let safArr = safetyData;
-  let transArr = transitData;
-  let residentialArr = residentialData;
-  let otherArr = otherData;
+  let resArr = withoutWidgets(resilienceData);
+  let mechArr = withoutWidgets(mechanismData);
+  let mobArr = withoutWidgets(mobilityData);
+  let safArr = withoutWidgets(safetyData);
+  let transArr = withoutWidgets(transitData);
+  let residentialArr = withoutWidgets(residentialData);
+  let otherArr = withoutWidgets(otherData);
   return (
     <>
       <h2 className="publications">
         <span className="bg-gradient-to-r from-primary-blue to-secondary-blue bg-[length:100%_10px] bg-no-repeat bg-bottom pb-3">Our Pu</span>
         <span>blications</span>
       </h2>
+
+      {/* Representative Papers with Multimedia — every paper carrying an rbPaperId */}
+      {featuredData.length > 0 && (
+        <>
+          <div className="publications-headers">
+            <img
+              className="location-icon-blue"
+              src={locationIconBlue}
+              alt="location icon with blue line to the right"/>
+            <img
+              className="representativePapers"
+              src={representativePapers}
+              alt="Representative Papers with Multimedia"/>
+          </div>
+
+          <PublicationCards publications={featuredData} />
+        </>
+      )}
 
       {/* Resilience and Infrastructure Analysis */}
       <div className="publications-headers">
