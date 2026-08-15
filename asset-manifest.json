@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/think-lab/static/css/main.0958e586.css",
-    "main.js": "/think-lab/static/js/main.0833fe10.js",
+    "main.css": "/think-lab/static/css/main.cafeab2e.css",
+    "main.js": "/think-lab/static/js/main.dfacc28f.js",
     "static/media/trb_thinklab_2026.png": "/think-lab/static/media/trb_thinklab_2026.1d574d253610aeede5b3.png",
     "static/media/Peach_Chansaisakhorn.png": "/think-lab/static/media/Peach_Chansaisakhorn.305b482a54b936a83f0e.png",
     "static/media/Hongke_Xie.png": "/think-lab/static/media/Hongke_Xie.03ed9ce8b4c1d8e22251.png",
@@ -36,6 +36,7 @@
     "static/media/sampleQuestions.png": "/think-lab/static/media/sampleQuestions.b25ca610ed6dc0921cef.png",
     "static/media/NIH.png": "/think-lab/static/media/NIH.34b1e3f87c278e1affe6.png",
     "static/media/resilienceInfrastructure.png": "/think-lab/static/media/resilienceInfrastructure.ff6aafe6a33d60b39af1.png",
+    "static/media/representativePapersMultimedia.png": "/think-lab/static/media/representativePapersMultimedia.4063fc1e2fbd7327c5f5.png",
     "static/media/residentalChoices.png": "/think-lab/static/media/residentalChoices.74861c9d61e9085864d7.png",
     "static/media/fixingIcon.png": "/think-lab/static/media/fixingIcon.0b062462a0c3ef13b19f.png",
     "static/media/settingIcon.png": "/think-lab/static/media/settingIcon.f23fda6e06f3f60ef6bc.png",
@@ -55,11 +56,11 @@
     "static/media/transitRelated.png": "/think-lab/static/media/transitRelated.50c23dad24b25dba9f4b.png",
     "static/media/researchGrants.png": "/think-lab/static/media/researchGrants.547576b3860de939c93d.png",
     "index.html": "/think-lab/index.html",
-    "main.0958e586.css.map": "/think-lab/static/css/main.0958e586.css.map",
-    "main.0833fe10.js.map": "/think-lab/static/js/main.0833fe10.js.map"
+    "main.cafeab2e.css.map": "/think-lab/static/css/main.cafeab2e.css.map",
+    "main.dfacc28f.js.map": "/think-lab/static/js/main.dfacc28f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0958e586.css",
-    "static/js/main.0833fe10.js"
+    "static/css/main.cafeab2e.css",
+    "static/js/main.dfacc28f.js"
   ]
 }
