@@ -1,0 +1,162 @@
+.resources-page {
+  margin: 6rem 7rem 0rem 7rem;
+}
+
+.resources-intro {
+  margin-top: 2rem;
+}
+
+.resources-section-header {
+  display: flex;
+  align-items: center;
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+}
+
+.resources-section-header img {
+  width: 3rem;
+  height: 1.75rem;
+  margin-right: 0.75rem;
+}
+
+.resources-section-header h3 {
+  font-size: 1.75rem;
+}
+
+/* Website cards */
+.resource-card {
+  display: flex;
+  flex-direction: column;
+  max-width: 70rem;
+  background: white;
+  border: 1px solid #bfc1c5;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 1.5rem 2rem;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.resource-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
+}
+
+.resource-tag {
+  align-self: flex-start;
+  background-color: var(--color-secondary);
+  color: var(--color-primary);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  margin-bottom: 0.6rem;
+}
+
+.resource-card h4 {
+  font-family: 'Inter', sans-serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 0.5rem;
+}
+
+.resource-description {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #374151;
+}
+
+.resource-note {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--color-primary);
+  background-color: rgba(204, 204, 222, 0.35);
+  border-left: 4px solid var(--color-primary);
+  border-radius: 0.25rem;
+  padding: 0.6rem 0.9rem;
+  margin-top: 1rem;
+}
+
+.resource-card-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1.25rem;
+}
+
+.resource-grant {
+  flex: 1;
+  min-width: 16rem;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: #6b7280;
+}
+
+.resource-button {
+  background-color: var(--color-primary);
+  color: var(--color-text-white);
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 0.55rem 1rem;
+  border-radius: 0.4rem;
+  white-space: nowrap;
+  transition: background-color 0.15s ease;
+}
+
+.resource-button:hover {
+  background-color: #3a3b8f;
+  color: var(--color-text-white);
+}
+
+/* Travel survey resources */
+.travel-survey p {
+  margin-top: 1.25rem;
+}
+
+.travel-survey p:first-child {
+  margin-top: 0;
+}
+
+/* The icon row below is also used on the People page */
+.travel-survey-graphics {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+  margin-left: 9rem;
+}
+
+.graphics {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 25%;
+}
+
+.graphics p {
+  text-align: center;
+}
+
+.graphics p:first-of-type {
+  font-weight: 500;
+  margin-bottom: 0.75rem;
+}
+
+.graphics p:nth-of-type(2) {
+  font-size: 0.85rem;
+}
+
+@media (max-width: 768px) {
+  .resources-page {
+    margin: 6rem 1.25rem 0;
+  }
+
+  .resource-card {
+    padding: 1.25rem;
+  }
+}

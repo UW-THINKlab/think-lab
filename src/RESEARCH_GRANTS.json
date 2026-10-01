@@ -4,21 +4,24 @@
     "sponsor": "NSF",
     "period": "6/2023 - 9/2027",
     "status": "Active (PI)",
-    "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311405"
+    "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311405",
+    "website": "https://uw-thinklab.github.io/future-resilient-communities/"
   },
   {
-    "project_name": "A Whole-Community Effort to Understand Biases and Uncertainties in Using Emerging Big Data for Mobility Analysis (please check out our project website)",
+    "project_name": "A Whole-Community Effort to Understand Biases and Uncertainties in Using Emerging Big Data for Mobility Analysis",
     "sponsor": "NSF",
     "period": "2021-2026",
     "status": "Active (PI)",
-    "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2114260&HistoricalAwards=false"
+    "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2114260&HistoricalAwards=false",
+    "website": "https://bigdata4mobility.github.io/"
   },
   {
-    "project_name": "LEAP-HI: Re-engineering for adaptable lives and businesses (please check out our project website)",
+    "project_name": "LEAP-HI: Re-engineering for adaptable lives and businesses",
     "sponsor": "NSF",
     "period": "2021-2026",
     "status": "Active (PI)",
-    "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2053373&HistoricalAwards=false"
+    "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2053373&HistoricalAwards=false",
+    "website": "https://www.adaptable-cities.org/"
   },
   {
     "project_name": "Imputing Socio-Demographics for Mobile Trajectories",

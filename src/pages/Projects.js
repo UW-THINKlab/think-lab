@@ -34,15 +34,27 @@ export const Projects = () => {
       {
         Header: "Link",
         accessor: "link",
-        Cell: ({ value }) => (
-          <a
-            href={value}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="link-style"
-          >
-            {value}
-          </a>
+        Cell: ({ value, row }) => (
+          <>
+            <a
+              href={value}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="link-style"
+            >
+              {value}
+            </a>
+            {row.original.website && (
+              <a
+                href={row.original.website}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="project-website-link"
+              >
+                Project website ↗
+              </a>
+            )}
+          </>
         ),
       },
     ],

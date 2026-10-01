@@ -10,11 +10,11 @@ import settingIcon from "../assets/settingIcon.png";
 import fixingIcon from "../assets/fixingIcon.png"
 import cynthiaChen from "../assets/THINKLabHeadshots/Cynthia_Chen.png";
 //import ekinUgurel from "../assets/THINKLabHeadshots/Ekin_Ugurel.png";
-import donghoonSon from "../assets/THINKLabHeadshots/Dong-Hoon_Son.png";
+//import donghoonSon from "../assets/THINKLabHeadshots/Dong-Hoon_Son.png";
 //import adamSchulze from "../assets/THINKLabHeadshots/Adam_Schulze.png";
 import lyraChen from "../assets/THINKLabHeadshots/Lyra_Chen.png";
 import hongkeXie from "../assets/THINKLabHeadshots/Hongke_Xie.png";
-import yutengZhang from "../assets/THINKLabHeadshots/Yuteng_Zhang.png"
+//import yutengZhang from "../assets/THINKLabHeadshots/Yuteng_Zhang.png"
 import hesamShafienya from "../assets/THINKLabHeadshots/Hesam_Shafienya.png"
 import lexiLiu from "../assets/THINKLabHeadshots/Lexi_Liu.png";
 import peachChansaisakhorn from "../assets/THINKLabHeadshots/Peach_Chansaisakhorn.png";
@@ -22,6 +22,8 @@ import nirajlMali from "../assets/THINKLabHeadshots/Niraj_L_Mali.png";
 import andrewZunt from "../assets/THINKLabHeadshots/Andrew_Zunt.png";
 import jingjueBao from "../assets/THINKLabHeadshots/Jingjue_Bao.png";
 import shoheiNagata from "../assets/THINKLabHeadshots/Shohei_Nagata.png";
+import yidaXu from "../assets/THINKLabHeadshots/Yida_Xu.png";
+import yuWang from "../assets/THINKLabHeadshots/Yu_Wang.png";
 
 
 export const People = () => {
@@ -168,15 +170,31 @@ export const People = () => {
         <div className="current-members-individual">
           <img
             className="profile"
-            src={donghoonSon}
-            alt="Dong-Hoon SON" />
-          <p>Dong-Hoon SON, Ph.D.</p>
-          <p>Postdoctoral Scholar</p>
+            src={peachChansaisakhorn}
+            alt="Peach Chansaisakhorn" />
+          <p>Peach Chansaisakhorn</p>
+          <p>Ph.D. Student and Researcher</p>
           <p>
-            Dr. Son completed his Ph.D. in Civil Engineering at The Hong Kong University of Science and Technology,
-            and M.S. and B.S. degrees from Inha University. He joined the THINK lab as a postdoctoral scholar
-            in December 2024. His research interests include transportation engineering, platform economics,
-            resilience and pricing and incentive strategies.
+            Peach Chansaisakhorn is a Ph.D. student in Industrial and Systems Engineering at the University of Washington.
+            She received her master's degree in Supply Chain Management at the University of Washington Foster School of Business,
+            her bachelor's degree in Industrial Engineering from the University of Wisconsin-Madison.
+            Her research interests focus on supply chain and transportation system resilience, information sharing, and decision-making under uncertainty.
+            She is particularly interested in behavioral and data-driven approaches to understanding cooperation and resource allocation,
+            with applications in logistics and platform-based systems.
+          </p>
+        </div>
+
+        <div className="current-members-individual">
+          <img
+            className="profile"
+            src={yidaXu}
+            alt="Yida Xu" />
+          <p>Yida Xu</p>
+          <p>Ph.D. Student and Researcher</p>
+          <p>
+            Yida Xu is a PhD student in Industrial and Systems Engineering at the University of Washington.
+            His research focuses on transportation and logistics systems, platform operations, and system resilience.
+            He is also interested in the application of optimization, machine learning, and data-driven methods to transportation and disaster resilience.
           </p>
         </div>
 
@@ -188,9 +206,9 @@ export const People = () => {
           <p>Shohei Nagata, Ph.D.</p>
           <p>Visiting Scholar</p>
           <p>
-            Dr. Shohei Nagata is a Visiting Scholar in the Department of Civil and Environmental Engineering at the University of Washington. 
-            He received his Ph.D. in Environmental Studies from Tohoku University, Japan, in 2022. 
-            His research focuses on human geography, GIScience, and disaster management, with an emphasis on human mobility analysis using big data to assess social and urban resilience. 
+            Dr. Shohei Nagata is a Visiting Scholar in the Department of Civil and Environmental Engineering at the University of Washington.
+            He received his Ph.D. in Environmental Studies from Tohoku University, Japan, in 2022.
+            His research focuses on human geography, GIScience, and disaster management, with an emphasis on human mobility analysis using big data to assess social and urban resilience.
             In recent years, he has studied human movement patterns during emergencies, including earthquakes and the COVID-19 pandemic
           </p>
         </div>
@@ -226,31 +244,14 @@ export const People = () => {
         <div className="current-members-individual">
           <img
             className="profile"
-            src={yutengZhang}
-            alt="Yuteng Zhang" />
-          <p>Yuteng Zhang</p>
-          <p>MS Student and Researcher</p>
+            src={yuWang}
+            alt="Yu Wang" />
+          <p>Yu Wang</p>
+          <p>Postdoctoral Scholar</p>
           <p>
-            Yuteng received his bachelor's degree in Software Engineering from Jilin University and is
-            currently pursuing a Master's degree in Industrial and Systems Engineering at the University of Washington.
-            His research focuses on transportation big data, human mobility, and optimization. He is also interested in
-            the application of machine learning and reinforcement learning in transportation systems.
-          </p>
-        </div>
-
-        <div className="current-members-individual">
-          <img
-            className="profile"
-            src={peachChansaisakhorn}
-            alt="Peach Chansaisakhorn" />
-          <p>Peach Chansaisakhorn</p>
-          <p>MS Student and Researcher</p>
-          <p>
-            Peach Chansaisakhorn is a Master student in Supply Chain Management at the University of Washington Foster School of Business.
-            She received her bachelor's degree in Industrial Engineering from the University of Wisconsin-Madison.
-            Her research interests focus on supply chain and transportation system resilience, information sharing, and decision-making under uncertainty.
-            She is particularly interested in behavioral and data-driven approaches to understanding cooperation and resource allocation,
-            with applications in logistics and platform-based systems.
+            Yu Wang received her doctoral degree in Artificial Intelligence from Zhejiang University.
+            She joined the THINK Lab as a postdoctoral scholar in 2026. Her research focuses on artificial intelligence,
+            spatiotemporal modeling, and human mobility, with applications in public safety and data-driven decision-making.
           </p>
         </div>
 
@@ -262,8 +263,8 @@ export const People = () => {
           <p>Andrew Zunt</p>
           <p>MS Student and Researcher</p>
           <p>
-            Andrew is pursuing his Master’s degree in Transportation Engineering from the University of Washington. After completing a Bachelor’s degree 
-            in Computer Science at UW in 2018, he spent 6 years working for Amazon Music in San Francisco, where he developed features for the mobile application and maintained backend infrastructure. 
+            Andrew is pursuing his Master’s degree in Transportation Engineering from the University of Washington. After completing a Bachelor’s degree
+            in Computer Science at UW in 2018, he spent 6 years working for Amazon Music in San Francisco, where he developed features for the mobile application and maintained backend infrastructure.
             His research interests center around public transit and the built environment, specifically with regards to social behavior and evaluating the effectiveness of potential improvements.
           </p>
         </div>
@@ -305,8 +306,8 @@ export const People = () => {
           <p>Jingjue Bao</p>
           <p>Visiting PhD Student</p>
           <p>
-            Jingjue Bao completed his Master’s studies and is currently pursuing his Ph.D. degree in Transportation Engineering at Tongji University.  
-            He joined the THINK Lab at University of Washington as a visiting student in 2026. His research interests include travel behavior analysis and urban spatial planning. 
+            Jingjue Bao completed his Master’s studies and is currently pursuing his Ph.D. degree in Transportation Engineering at Tongji University.
+            He joined the THINK Lab at University of Washington as a visiting student in 2026. His research interests include travel behavior analysis and urban spatial planning.
           </p>
         </div>
       </div>

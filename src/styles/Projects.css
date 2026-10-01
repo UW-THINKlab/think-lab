@@ -84,3 +84,18 @@ tr {
   color: rgb(0, 0, 128);
   text-decoration: underline;
 }
+.project-website-link {
+  display: block;
+  width: max-content;
+  margin-top: 0.5rem;
+  padding: 0.3rem 0.75rem;
+  background-color: var(--color-primary);
+  color: var(--color-text-white);
+  border-radius: 0.4rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.project-website-link:hover {
+  background-color: #3a3b8f;
+}

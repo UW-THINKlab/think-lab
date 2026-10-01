@@ -1,0 +1,95 @@
+.joinus-page {
+  margin: 6rem 7rem 4rem 7rem;
+  max-width: 70rem;
+}
+
+.joinus-welcome p {
+  margin-top: 1.25rem;
+  line-height: 1.65;
+}
+
+.joinus-welcome p:first-child {
+  margin-top: 2rem;
+}
+
+.joinus-contact {
+  margin-top: 2rem;
+  padding: 1.25rem 1.5rem;
+  background-color: rgba(204, 204, 222, 0.35);
+  border-left: 4px solid var(--color-primary);
+  border-radius: 0.375rem;
+}
+
+.joinus-contact p {
+  line-height: 1.6;
+}
+
+.joinus-contact a {
+  color: rgb(32, 113, 189);
+  text-decoration: underline;
+}
+
+.joinus-section-header {
+  display: flex;
+  align-items: center;
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+}
+
+.joinus-section-header img {
+  width: 3rem;
+  height: 1.75rem;
+  margin-right: 0.75rem;
+}
+
+.joinus-section-header h3 {
+  font-size: 1.75rem;
+}
+
+/* Past postings: muted so they read as archive */
+.past-posting {
+  border: 1px solid #d1d5db;
+  border-radius: 0.75rem;
+  background-color: #f9fafb;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.past-posting-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.6rem;
+}
+
+.past-posting h4 {
+  font-family: 'Inter', sans-serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #4b5563;
+}
+
+.past-posting-tag {
+  background-color: #e5e7eb;
+  color: #4b5563;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+}
+
+.past-posting p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #4b5563;
+}
+
+@media (max-width: 768px) {
+  .joinus-page {
+    margin: 6rem 1.25rem 3rem;
+  }
+}

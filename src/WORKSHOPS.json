@@ -1,0 +1,54 @@
+[
+  {
+    "id": "rcpis-2",
+    "startDate": "2026-09-17",
+    "title": "US–Singapore R-CPIS Workshop Part II: Resilience of Complex Cyber-Physical Infrastructure Systems in the Era of AI",
+    "series": "R-CPIS Part II",
+    "date": "September 17–18, 2026",
+    "location": "George Mason University, Arlington, VA",
+    "summary": "A roadmapping session on infrastructure resilience across quantum engineering applications, adversarial red-teaming frameworks, and emerging resilience research frontiers.",
+    "partners": "Supported by NSF (Award #2531863)",
+    "image": "workshops/rcpis-2/group.jpg",
+    "link": "https://uw-thinklab.github.io/US-Singapore_R-CPIS_II/",
+    "external": true
+  },
+  {
+    "id": "resilient-societies-2026",
+    "startDate": "2026-05-29",
+    "title": "Resilient Societies and Crisis Response Research Workshop",
+    "series": "",
+    "date": "May 29, 2026",
+    "location": "University of Washington, Seattle, WA",
+    "summary": "Integrating data, technology, and social perspectives from the U.S. and Japan to identify shared challenges and future directions for crisis response and resilience research.",
+    "partners": "With IRIDeS, Tohoku University",
+    "image": "workshops/resilient-societies-2026/group.jpg",
+    "link": "/workshops/resilient-societies-2026",
+    "external": false
+  },
+  {
+    "id": "rcpis-1",
+    "startDate": "2026-03-18",
+    "title": "US–Singapore R-CPIS Workshop: Resilience of Complex Cyber-Physical Infrastructure Systems in the Era of AI",
+    "series": "R-CPIS Part I",
+    "date": "March 18–19, 2026",
+    "location": "CREATE, Singapore",
+    "summary": "U.S. and Singapore experts collaborate on AI for resilient cyber-physical infrastructure: real-time control, smart technologies, adaptive capacity, and socio-technical resilience.",
+    "partners": "With the Illinois Advanced Research Center at Singapore; supported by NSF",
+    "image": "workshops/rcpis-1/group.jpg",
+    "link": "https://uw-thinklab.github.io/US-Singapore_R-CPIS_Alliance/",
+    "external": true
+  },
+  {
+    "id": "bigdata-2025",
+    "startDate": "2025-05-30",
+    "title": "Big Data, AI and Transportation Planning Applications",
+    "series": "",
+    "date": "May 30, 2025",
+    "location": "University of Washington, Seattle, WA",
+    "summary": "Researchers from civil engineering, urban planning, economics, and computer science on the frontiers of transportation planning, from both data and methods perspectives.",
+    "partners": "",
+    "image": "workshops/bigdata-2025/group.jpg",
+    "link": "https://bigdata4mobility.github.io/workshop2025/",
+    "external": true
+  }
+]

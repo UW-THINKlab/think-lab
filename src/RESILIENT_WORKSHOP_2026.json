@@ -1,0 +1,94 @@
+{
+  "title": "Resilient Societies and Crisis Response Research Workshop",
+  "subtitle": "Integrating Data, Technology, and Social Perspectives from the U.S. and Japan",
+  "date": "Friday, May 29, 2026",
+  "time": "8:30 am – 4:00 pm",
+  "venue": "HUB 332, University of Washington, Seattle",
+  "banner": "workshops/resilient-societies-2026/group.jpg",
+  "bannerPosition": "center 62%",
+  "overview": [
+    "The increasing frequency and intensity of natural hazards associated with climate change, together with emerging and re-emerging infectious diseases, pose shared challenges for societies around the world. In recent years, research on crisis response has become increasingly diverse, expanding beyond field-based and practice-oriented studies to include new approaches using big data, artificial intelligence, and other emerging technologies. At the same time, the settings in which such research is conducted, as well as the social, cultural, and institutional contexts of the people and communities it seeks to understand, vary substantially across countries and cases.",
+    "Against this background, the workshop seeks to provide an overview of recent research trends in the United States and Japan while creating a space for dialogue across methodological and national contexts. By bringing together perspectives grounded in real-world practice, field-based research, and data- and technology-driven approaches, the workshop aims to explore how these different perspectives can complement one another and help identify shared research challenges and future directions for crisis response and societal resilience research."
+  ],
+  "goals": [
+    "To provide an overview of recent research trends in crisis response and societal resilience in the United States and Japan.",
+    "To examine how differences in data, technologies, institutional arrangements, and social contexts shape the strengths and limitations of each country's approaches.",
+    "To identify shared research challenges and perspectives that can support the future development of crisis response and resilience research through cross-national and interdisciplinary dialogue."
+  ],
+  "program": [
+    { "time": "8:30–9:00", "title": "Breakfast and Networking" },
+    { "time": "9:00–9:05", "title": "Introduction to the Workshop", "speaker": "Shohei Nagata (Tohoku University)" },
+    { "time": "9:05–9:10", "title": "Opening Remarks", "speaker": "Jihui Yang (Vice Dean, College of Engineering, University of Washington)", "highlight": true },
+    { "time": "9:10–9:30", "title": "Keynote Talk", "speaker": "Shunichi Koshimura (Director, IRIDeS, Tohoku University)", "highlight": true },
+    {
+      "time": "9:30–10:30",
+      "title": "Understanding Human Behavior in Crisis Response",
+      "moderator": "Daan Liang",
+      "highlight": true,
+      "talks": [
+        { "speaker": "Matthew Palm (University of North Carolina, Chapel Hill)", "title": "Evacuating Without a Car: Transit Use and Informal Mobility During Fast-Moving Wildfires" },
+        { "speaker": "Takeaki Imamura (Tohoku University)", "title": "Underutilized Epidemiological Data Collected through Public Health Offices: COVID-19 Response in Tokyo and Yamagata" },
+        { "speaker": "Michael K. Lindell (Texas A&M University)", "title": "Overcoming Obstacles to Household Emergency Preparedness" }
+      ]
+    },
+    { "time": "10:30–10:45", "title": "Short Break" },
+    {
+      "time": "10:45–11:45",
+      "title": "Advancing Disaster Research through AI and Big Data",
+      "moderator": "Erick Mas",
+      "highlight": true,
+      "talks": [
+        { "speaker": "Wei Yuan (Tohoku University)", "title": "From 2D Imagery to 3D Spatiotemporal Understanding: Advances of Photogrammetry and Remote Sensing in Disaster Assessment and Urban Change Detection" },
+        { "speaker": "Bruno Adriano (Tohoku University)", "title": "AI-Based Mapping of Collapsed Buildings Using Remote Sensing Imagery for Rapid Disaster Response" },
+        { "speaker": "Ruben Vescovo (Tohoku University)", "title": "Leveraging LLMs for Rapid Disaster Impacts Assessment through News Media" }
+      ]
+    },
+    { "time": "11:45–12:00", "title": "Technology Spotlight", "speaker": "Yuuki Nishiyama (The University of Tokyo)", "highlight": true },
+    { "time": "12:00–1:00", "title": "Lunch and Networking" },
+    {
+      "time": "1:00–2:00",
+      "title": "Exploring Opportunities for U.S.–Japan Collaboration",
+      "moderator": "Cynthia Chen",
+      "highlight": true,
+      "talks": [
+        { "speaker": "Erick Mas (Tohoku University)", "title": "Making Evacuation Modeling Usable Through the Global Tsunami Evacuation Model and Practitioner-Centered ABM Design" },
+        { "speaker": "Daan Liang (University of Alabama)", "title": "Narrowing the Gap or Leaping Forward: Reimagining U.S. Infrastructure for Resilience and Adaptability" },
+        { "speaker": "Tomoki Nakaya (Tohoku University)", "title": "Paradoxical Pandemic Resilience: Questions from Japan's COVID-19 Experiences" }
+      ]
+    },
+    { "time": "2:00–2:15", "title": "Short Break" },
+    { "time": "2:15–3:50", "title": "Group Discussion" },
+    { "time": "3:50–4:00", "title": "Closing Remarks", "speaker": "Cynthia Chen (University of Washington)" }
+  ],
+  "featuredTalks": [
+    {
+      "type": "Keynote Talk",
+      "title": "Disaster Digital Twin – Concept, Progress, and Application",
+      "abstract": "We demonstrate our research and practices of \"Disaster Digital Twin (DDT)\", a fusion of real-time simulation, mobile sensing, and multi-agent systems in cyberspace, to forecast damage, exposed populations, and optimized evacuation plans.",
+      "speaker": "Shunichi Koshimura",
+      "affiliation": "Director, International Research Institute of Disaster Science (IRIDeS), Tohoku University",
+      "photo": "workshops/resilient-societies-2026/speaker-koshimura.jpg"
+    },
+    {
+      "type": "Technology Spotlight",
+      "title": "Human-Centered Mobile Sensing: Inferring Physical and Psychological States with Off-the-Shelf Mobile Devices",
+      "abstract": "This talk introduces a human-centered perspective on mobile sensing for understanding people's physical and psychological states using off-the-shelf mobile devices. Smartphones and wearable devices (e.g., smartwatches, smart rings, and earphones) have multimodal sensors (such as location, microphone, and motion sensors) and can capture various signals related to mobility, activity, location, proximity, and environmental context, offering new opportunities to infer human conditions in everyday life and during crises. I will discuss how such sensing technologies and their sensing framework can help detect behavioral changes, physical activity patterns, stress-related indicators, and potential vulnerabilities. The talk also highlights key challenges for real-world deployment, including privacy, data quality, interpretability, and responsible use of personal sensing data.",
+      "speaker": "Yuuki Nishiyama",
+      "affiliation": "Associate Professor, Center for Spatial Information Science (CSIS), University of Tokyo (currently UW visiting scholar)",
+      "photo": "workshops/resilient-societies-2026/speaker-nishiyama.jpg"
+    }
+  ],
+  "organizers": [
+    { "name": "Shohei Nagata", "role": "Assistant Professor, IRIDeS, Tohoku University, Japan" },
+    { "name": "Cynthia Chen", "role": "Professor, Department of Civil & Environmental Engineering, University of Washington" },
+    { "name": "Lyra Chen", "role": "Research Scientist, Department of Civil & Environmental Engineering, University of Washington" }
+  ],
+  "partners": [
+    "University of Washington",
+    "THINK Lab, University of Washington",
+    "Tohoku University",
+    "International Research Institute of Disaster Science (IRIDeS), Tohoku University",
+    "National Science Foundation (NSF)"
+  ],
+  "acknowledgements": "This workshop is supported by the Tohoku University–University of Washington Strategic Partner Fund 2024–25; JST SICORP, \"Enabling Human-Centered Digital Twin for Community Resilience\" (Grant Number: JPMJSC2311); SIP Program of CSTI (JPJ012289); the University of Washington Global Innovation Fund (GIF); and the National Science Foundation."
+}
