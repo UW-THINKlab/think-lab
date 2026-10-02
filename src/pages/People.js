@@ -15,7 +15,7 @@ import cynthiaChen from "../assets/THINKLabHeadshots/Cynthia_Chen.png";
 import lyraChen from "../assets/THINKLabHeadshots/Lyra_Chen.png";
 import hongkeXie from "../assets/THINKLabHeadshots/Hongke_Xie.png";
 //import yutengZhang from "../assets/THINKLabHeadshots/Yuteng_Zhang.png"
-import hesamShafienya from "../assets/THINKLabHeadshots/Hesam_Shafienya.png"
+//import hesamShafienya from "../assets/THINKLabHeadshots/Hesam_Shafienya.png"
 import lexiLiu from "../assets/THINKLabHeadshots/Lexi_Liu.png";
 import peachChansaisakhorn from "../assets/THINKLabHeadshots/Peach_Chansaisakhorn.png";
 import nirajlMali from "../assets/THINKLabHeadshots/Niraj_L_Mali.png";
@@ -210,21 +210,6 @@ export const People = () => {
             He received his Ph.D. in Environmental Studies from Tohoku University, Japan, in 2022.
             His research focuses on human geography, GIScience, and disaster management, with an emphasis on human mobility analysis using big data to assess social and urban resilience.
             In recent years, he has studied human movement patterns during emergencies, including earthquakes and the COVID-19 pandemic
-          </p>
-        </div>
-
-        <div className="current-members-individual">
-          <img
-            className="profile"
-            src={hesamShafienya}
-            alt="Hesam Shafienya" />
-          <p>Hesam Shafienya</p>
-          <p>PhD Student and Researcher</p>
-          <p>
-            Hesam is a PhD student in the Department of Civil and Environmental Engineering at the University of Washington.
-            His research focuses on trajectory prediction, data imputation techniques, and big data analytics in transportation modeling.
-            By leveraging artificial intelligence (AI) and innovative data analysis methods, Hesam aims to support smarter decision-making,
-            optimize transportation systems, and foster safer, more sustainable urban environments.
           </p>
         </div>
 

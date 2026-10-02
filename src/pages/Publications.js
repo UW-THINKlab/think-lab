@@ -18,10 +18,10 @@ import transitRelated from "../assets/transitRelated.png";
 import residentialChoice from "../assets/residentalChoices.png";
 
 // A publication with an "rbPaperId" also gets a ResearchBunny widget next to
-// "Read More", and is pulled out of its thematic section into "Representative
+// "Read More", and is also featured in "Representative
 // Papers with Multimedia" at the top — see docs/researchbunny-widget.md
 const hasWidget = (paper) => Boolean(paper.rbPaperId);
-const withoutWidgets = (list) => list.filter((paper) => !hasWidget(paper));
+// const withoutWidgets = (list) => list.filter((paper) => !hasWidget(paper));
 
 const featuredData = [
   resilienceData, mechanismData, mobilityData, safetyData,
@@ -64,13 +64,21 @@ const PublicationCards = ({ publications }) => (
 );
 
 export const Publications = () => {
-  let resArr = withoutWidgets(resilienceData);
-  let mechArr = withoutWidgets(mechanismData);
-  let mobArr = withoutWidgets(mobilityData);
-  let safArr = withoutWidgets(safetyData);
-  let transArr = withoutWidgets(transitData);
-  let residentialArr = withoutWidgets(residentialData);
-  let otherArr = withoutWidgets(otherData);
+  let resArr = resilienceData;
+  let mechArr = mechanismData;
+  let mobArr = mobilityData;
+  let safArr = safetyData;
+  let transArr = transitData;
+  let residentialArr = residentialData;
+  let otherArr = otherData;
+  // Previous behavior removed featured papers from their original categories:
+  // let resArr = withoutWidgets(resilienceData);
+  // let mechArr = withoutWidgets(mechanismData);
+  // let mobArr = withoutWidgets(mobilityData);
+  // let safArr = withoutWidgets(safetyData);
+  // let transArr = withoutWidgets(transitData);
+  // let residentialArr = withoutWidgets(residentialData);
+  // let otherArr = withoutWidgets(otherData);
   return (
     <>
       <h2 className="publications">
