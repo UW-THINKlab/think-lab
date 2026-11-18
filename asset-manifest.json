@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/think-lab/static/css/main.6ff2eb78.css",
-    "main.js": "/think-lab/static/js/main.b235ba10.js",
-    "static/media/trb_thinklab_2026.png": "/think-lab/static/media/trb_thinklab_2026.1d574d253610aeede5b3.png",
+    "main.js": "/think-lab/static/js/main.e0b945b3.js",
     "static/media/Peach_Chansaisakhorn.png": "/think-lab/static/media/Peach_Chansaisakhorn.305b482a54b936a83f0e.png",
     "static/media/Hongke_Xie.png": "/think-lab/static/media/Hongke_Xie.03ed9ce8b4c1d8e22251.png",
     "static/media/Niraj_L_Mali.png": "/think-lab/static/media/Niraj_L_Mali.a4e3d80a0ab773e8f0af.png",
@@ -56,10 +55,10 @@
     "static/media/researchGrants.png": "/think-lab/static/media/researchGrants.547576b3860de939c93d.png",
     "index.html": "/think-lab/index.html",
     "main.6ff2eb78.css.map": "/think-lab/static/css/main.6ff2eb78.css.map",
-    "main.b235ba10.js.map": "/think-lab/static/js/main.b235ba10.js.map"
+    "main.e0b945b3.js.map": "/think-lab/static/js/main.e0b945b3.js.map"
   },
   "entrypoints": [
     "static/css/main.6ff2eb78.css",
-    "static/js/main.b235ba10.js"
+    "static/js/main.e0b945b3.js"
   ]
 }
