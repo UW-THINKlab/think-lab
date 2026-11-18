@@ -8,7 +8,6 @@ import splashesTitle from "../assets/theSplashesTitle.png";
 import wsasChen from "../assets/WSAS-2025.png";
 import thesisAward from "../assets/thesis_award_2025.png";
 import zephyrAward from "../assets/zephyr_award_2026.png";
-import trb2026 from "../assets/trb_thinklab_2026.png";
 
 
 export const Splashes = () => {
@@ -30,6 +29,21 @@ export const Splashes = () => {
       {/* Top 4 Splashes */}
       <div className="four-splashes-section">
         <div className="four-splashes-grid">
+
+          <div className="splash-card">
+            <img
+              className="splash-image"
+              src="https://img.youtube.com/vi/iaToEwO_qdg/hqdefault.jpg"
+              alt="Mobility Forum episode on rethinking transportation forecasting"
+            />
+            <p className="splash-caption">
+              Professor Cynthia Chen discussed critical questions in transportation forecasting on the Mobility Forum.
+              <br />
+              <a href="https://www.youtube.com/watch?v=iaToEwO_qdg" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+              {" · "}
+              <a href="https://open.spotify.com/episode/7g7ulEGZZ0h7gMk54KPeEN" target="_blank" rel="noopener noreferrer">Listen on Spotify</a>
+            </p>
+          </div>
 
           <div className="splash-card">
             <img
@@ -66,15 +80,6 @@ export const Splashes = () => {
             />
             <p className="splash-caption">2026 Zephyr Foundation Technical Achievement Award to Paper "COVID & telecommuting-induced changes in individual activity and travel patterns: Evidence from the Puget Sound Region"
               <a href="https://www.sciencedirect.com/science/article/abs/pii/S0967070X25003154" target="_blank" rel="noopener noreferrer"> (Paper Link)</a></p>
-          </div>
-
-          <div className="splash-card">
-            <img
-              className="splash-image"
-              src={trb2026}
-              alt="TRB ThinkLab 2026"
-            />
-            <p className="splash-caption">THINK lab members in TRB Annual Meeting 2026</p>
           </div>
 
         </div>
